@@ -1,52 +1,73 @@
+# SITE CONFIGURATION
+baseurl: "/blog/"
+url: "http://howdoiplay.com"
 
-# Syntax highlighting
-markdown:            redcarpet
-highlighter:         pygments
+# THEME-SPECIFIC CONFIGURATION
+theme:
+  # Meta
+  title: tsunami blog
+  avatar: avatar.png
+  gravatar: # Email MD5 hash
+  description: "tsunami643's blog" # used by search engines
 
-# Permalinks
-permalink:           /:title
-relative_permalinks: true
+  # Header and footer text
+  header_text: >
+     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
-# Setup
-timezone:            your timezone # eg. Asia/Kathmandu
-locale:              en_us
-name:				         site name
-title:               site title
-tagline:             'tagline'
-description:         'description'
-url:                 http://howdoiplay.com
-rss:                 rss feed url
-baseurl:             '/blog'
-baseurl_posts_img:   '/blog/assets/images/posts/'
-baseurl_featured_img: '/blog/assets/images/hero/'
-baseurl_featured_thumbnail: '/blog/assets/images/thumbnail/'
-baseurl_javascripts: '/blog/assets/javascripts/'
-icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
-disqus:              disqus_shortname # get it on https://disqus.com/admin/
+     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+  header_text_feature_image:
+  footer_text: >
+   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
-author:
-  name:           	 tsunami
-  url:            	 http://howdoiplay.com/
-  facebook:          username
-  twitter:           tsunami643
-  google_plus:       username
-  linkedin:          username
-  dribbble:          username
-  pinterest:         username
-  kiva:              username
+  # Icons
+  rss: false
+  email_address: # Full email address, e.g. "sam@example.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  github: "tsunami643"
+  google_plus:
+  instagram:
+  linkedin:  # Full URL
+  pinterest:
+  reddit: "tsunami643"
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: "tsunami643"
+  wordpress:
+  youtube: "tsunami643"
 
-fb_admins:           your facebook profile id
-fb_appid:            your facebook app id
+  # Scripts
+  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname:
+  katex: true # Enable if using math markup
 
-# Server
-destination:      	 ./_site
-exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
-port:             	 9001
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next: "Next"
+  str_prev: "Prev"
+  str_continue_reading: "Continue reading"
 
-defaults:
-  -
-    scope:
-      path: "_posts"
-      type: "posts"
-    values:
-      layout: "default"
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+  
+  # Post navigation
+  post_navigation: false
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: :compressed
