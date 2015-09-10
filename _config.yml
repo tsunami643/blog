@@ -1,5 +1,5 @@
 # Site settings
-title:       tsunami's dota blog
+title:       tsunami blog
 email:       tsunami643@gmail.com
 author:      tsunami
 description: "i play the dotes and think the dotes"
@@ -25,7 +25,7 @@ disqus_shortname:
 # Social icons
 github_username:
 bitbucket_username:
-dotabuff_id: 2744346
+dotabuff_id:
 stackoverflow_id:
 twitter_username: tsunami643
 google_plus_id:
