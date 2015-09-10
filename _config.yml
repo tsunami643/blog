@@ -1,60 +1,52 @@
-# Site settings
-title:       tsunami blog
-email:       tsunami643@gmail.com
-author:      tsunami
-description: "i play the dotes and think the dotes"
-baseurl:     "/blog"
-url:         "http://howdoiplay.com"
-date_format: "%b %-d, %Y"
 
-# Google services
-google_analytics:
-google_verification:
+# Syntax highlighting
+markdown:            redcarpet
+highlighter:         pygments
 
-# Optional features
-animated:             false
-show_related_posts:   false
-show_post_footers:    false
-show_social_icons:    false
-ajaxify_contact_form: false
+# Permalinks
+permalink:           /:title
+relative_permalinks: true
 
-# Disqus post comments
-# (leave blank to disable Disqus)
-disqus_shortname:
+# Setup
+timezone:            your timezone # eg. Asia/Kathmandu
+locale:              en_us
+name:				         site name
+title:               site title
+tagline:             'tagline'
+description:         'description'
+url:                 http://howdoiplay.com
+rss:                 rss feed url
+baseurl:             '/blog'
+baseurl_posts_img:   '/blog/assets/images/posts/'
+baseurl_featured_img: '/blog/assets/images/hero/'
+baseurl_featured_thumbnail: '/blog/assets/images/thumbnail/'
+baseurl_javascripts: '/blog/assets/javascripts/'
+icon:                your site icon path # /assets/img/icon.png [best 300px X 300px]
+disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
-# Social icons
-github_username:
-bitbucket_username:
-dotabuff_id:
-stackoverflow_id:
-twitter_username: tsunami643
-google_plus_id:
-linkedin_username:
-angellist_username:
-medium_id:
-bitcoin_url:
-paypal_url:
-flattr_button:
+author:
+  name:           	 tsunami
+  url:            	 http://howdoiplay.com/
+  facebook:          username
+  twitter:           tsunami643
+  google_plus:       username
+  linkedin:          username
+  dribbble:          username
+  pinterest:         username
+  kiva:              username
 
-# Post sharing icons
-show_sharing_icons: false
-share_text: 'Share this post!'
-# Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
-share_googleplus: false
-share_linkedin: false
-share_digg: false
-share_tumblr: false
-share_reddit: false
-share_stumbleupon: false
-share_hackernews: false
+fb_admins:           your facebook profile id
+fb_appid:            your facebook app id
 
-# Build settings
-markdown:     kramdown
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
-paginate:     4
-sass:
-  compressed: true
+# Server
+destination:      	 ./_site
+exclude:          	 [".editorconfig", ".gitignore", "bower.json", "composer.json", "CONTRIBUTING.md", "CNAME", "LICENSE", "Gruntfile.js", "package.json", "node_modules", "README.md", "sass", "haml"]
+port:             	 9001
+
+defaults:
+  -
+    scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "default"

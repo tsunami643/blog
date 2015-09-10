@@ -1,17 +1,26 @@
 <!DOCTYPE html>
-<html>
-{% include head.html %}
-<body class="site{% if site.animated %} animated fade-in-down{% endif %}">
-  <div class="site-wrap">
-    {% include header.html %}
+<html lang="en-us" class="no-js">
 
-    <div class="post p2 p-responsive wrap" role="main">
-      <div class="measure">
-        {{ content }}
-      </div>
-    </div>
-  </div>
+  {% include head.html %}
 
-  {% include footer.html %}
-</body>
+  <body>
+    {% if page.url != '/index.html' %}
+      <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+      {% include sidebar-nav.html %}
+      {% include menu.html %}
+    {% endif %}
+
+    {{ content }}
+
+    {% if page.url != '/index.html' %}
+      {% include sidebar-toggle.html %}
+    {% endif %}
+
+    {% if page.url == '/index.html' %}
+      {% include subscribe.html %}
+      {% include footer.html %}
+    {% endif %}
+
+    {% include footer-scripts.html %}
+  </body>
 </html>
