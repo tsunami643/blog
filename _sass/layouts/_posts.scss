@@ -48,6 +48,11 @@ header {
     @extend %padding-regular;
   }
 }
+
+.center {
+  text-align: center;
+}
+
 // Post navigation
 #post-nav {
   width:100%;

@@ -134,6 +134,14 @@
 </li>
 {% endif %}
 
+{% if site.theme.twitch %}
+<li>
+	<a href="https://www.twitch.com/{{ site.theme.twitch }}" title="{{ site.theme.str_follow_on }} Twitch">
+		<i class="fa fa-fw fa-twitch"></i>
+	</a>
+</li>
+{% endif %}
+
 {% if site.theme.twitter %}
 <li>
 	<a href="https://twitter.com/{{ site.theme.twitter }}" title="{{ site.theme.str_follow_on }} Twitter">
@@ -153,7 +161,7 @@
 {% if site.theme.youtube %}
 <li>
 	<a href="https://www.youtube.com/user/{{ site.theme.youtube }}" title="{{ site.theme.str_follow_on }} YouTube">
-		<i class="fa fa-fw fa-youtube"></i>
+		<i class="fa fa-fw fa-youtube-play"></i>
 	</a>
 </li>
 {% endif %}

@@ -14,7 +14,7 @@ theme:
   header_text:
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+   Follow me <a href="http://www.twitter.com/tsunami643">@tsunami643</a>
 
   # Icons
   rss: false
@@ -24,7 +24,7 @@ theme:
   dribbble:
   facebook:
   flickr:
-  github: "tsunami643"
+  github:
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -35,11 +35,12 @@ theme:
   steam:
   tumblr:
   twitter: "tsunami643"
+  twitch: "tsunami643"
   wordpress:
   youtube: "tsunami643"
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-54725251-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
