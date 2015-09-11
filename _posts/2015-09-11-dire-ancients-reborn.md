@@ -49,7 +49,10 @@ I believe this was [patched out shortly after the 6.82 map change](http://dota2.
 
 Lastly, Ward H is pretty filthy. The sliver of vision that it gives is so small that most people will probably miss it even if they do put a sentry ward in the right place.
 
-## Warding has changed
+{:.center}
+![Ward H](/blog/img/wards/source2hward.jpg)
+
+## But wait, there's more
 
 I'm doing this nice and slow because I'm going to get annoyed if Valve suddenly decides to start changing things after I waste hours researching and writing. I guess it's my fault for reporting things on the dev forums anyway. [Maybe typos are intentional, or maybe Invoker somehow gets a new spell in 6.85 and I'm the dumb one.](http://dev.dota2.com/showthread.php?t=170370&p=1243079#post1243079)
 
@@ -57,7 +60,7 @@ In any case, I sure am glad that I was too lazy to update my [warding guide](htt
 
 ![Source 1 Rune Block](/blog/img/wards/source1runeblock.jpg)
 
-This was a somewhat common ward in Source 1. Blocked the Radiant hard camp and gave rune vision. In Source 2, it has a sister.
+This was a somewhat common ward in Source 1. Blocked the Radiant hard camp and gave rune vision. In Source 2, it has a fairly useful sister.
 
 ![Source 2 Rune Block](/blog/img/wards/source2runeblock.jpg)
 
