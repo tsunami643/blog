@@ -16,7 +16,7 @@ So at this point, I feel confident doing research on the modfications to the map
 
 The Dire ancients are about a bajillion times easier to block in Reborn than they were in Source 1.
 
-![Source 1 Dire ancients](/img/wards/source1spawnbox.jpg)
+-> ![Source 1 Dire ancients](/img/wards/source1spawnbox.jpg) <-
 
 The red box represents the spawn box in Source 1. Neither of the wards placed in this image block the camp. Here's Source 2.
 
