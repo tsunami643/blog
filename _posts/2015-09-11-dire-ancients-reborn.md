@@ -10,7 +10,9 @@ If you aren't aware, the Reborn map has a *lot* of little teeny tiny terrain dif
 
 For a while, this was the case. The mid lane river gap got shrunk down quite a bit, a few trees got changed, and a few cliffs got tweaked. That was about it. Now, Reborn is officially the main client and the one that professional players have to deal with even though the map is still far from a 1:1 recreation of the Source 1 map. 
 
-So at this point, I feel confident doing research on the modifications to the map. I mean, [I had reported what I'm about to discuss on the dev forums way back in June when Reborn first came out.](http://dev.dota2.com/showthread.php?t=170168) No one said anything and nothing was changed, so it's only fair to assume that the change is intentional. Right? I mean it's not like if this post gets to reddit or something that it'll suddenly get fixed. *Right, Valve?*
+Thus, I feel confident beginning research on the modifications done to the map. I mean, [I had reported what I'm about to discuss on the dev forums way back in June when Reborn first came out.](http://dev.dota2.com/showthread.php?t=170168) No one said anything and nothing was changed, so it's only fair to assume that the change is intentional. Right? I mean it's not like if this post gets to reddit or something that it'll suddenly get fixed.
+
+*Right, Valve?*
 
 ## Blocking the Dire ancients
 
