@@ -10,7 +10,7 @@ If you aren't aware, the Reborn map has a *lot* of little teeny tiny terrain dif
 
 For a while, this was the case. The mid lane river gap got shrunk down quite a bit, a few trees got changed, and a few cliffs got tweaked. That was about it. Now, Reborn is officially the main client and the one that professional players have to deal with even though the map is still far from a 1:1 recreation of the Source 1 map. 
 
-So at this point, I feel confident doing research on what has changed in the map. I mean, [I had reported on the dev forums what I'm about to discuss way back in June when Reborn first came out.](http://dev.dota2.com/showthread.php?t=170168) No one said anything and nothing was changed, so it's only fair to assume that the change is intentional. Right? I mean it's not like if this post gets to reddit or something that it'll suddenly get fixed. *Right, Valve?*
+So at this point, I feel confident doing research on the modfications to the map. I mean, [I had reported what I'm about to discuss on the dev forums way back in June when Reborn first came out.](http://dev.dota2.com/showthread.php?t=170168) No one said anything and nothing was changed, so it's only fair to assume that the change is intentional. Right? I mean it's not like if this post gets to reddit or something that it'll suddenly get fixed. *Right, Valve?*
 
 ## Blocking the Dire ancients
 
@@ -42,7 +42,7 @@ Ward G is notable because that looks 100% possible in Source 1 and it falls insi
 
 ![Source 1 Blocked](/img/wards/source1blocked.jpg)
 
-I believe this was patched out shortly after the Rosh pit map change because players claimed it was too difficult to deward. Well, it's back now.
+I believe this was [patched out shortly after the 6.82 map change](http://dota2.gamepedia.com/September_27,_2014_Patch) because [players claimed](https://www.reddit.com/r/DotA2/comments/2om9j8/interesting_points_raised_at_the_summit_2_by_the/) it was [too difficult to deward.](https://www.reddit.com/r/DotA2/comments/2om9j8/interesting_points_raised_at_the_summit_2_by_the/cmp2xcx) Well, it's back now.
 
 Lastly, Ward H is pretty filthy, but it *might* be pixel perfect, so it shouldn't be too big a concern.
 
@@ -50,7 +50,7 @@ Lastly, Ward H is pretty filthy, but it *might* be pixel perfect, so it shouldn'
 
 I'm doing this nice and slow because I'm going to get annoyed if Valve suddenly decides to start changing things after I waste hours researching and writing. I guess it's my fault for reporting things on the dev forums anyway. [Maybe typos are intentional, or maybe Invoker somehow gets a new spell in 6.85 and I'm the dumb one.](http://dev.dota2.com/showthread.php?t=170370&p=1243079#post1243079)
 
-In any case, I sure am glad that I was too lazy to update my [warding guide](http://howdoiplay.com/warding) to the new Rosh pit because everything is ever-so-slightly different in Reborn. I'll be documenting my findings on this blog and [twitter](http://www.twitter.com/tsunami643). Here's a teaser of some more silly stuff in Reborn.
+In any case, I sure am glad that I was too lazy to update my [warding guide](http://howdoiplay.com/warding) to the 6.82 map because everything is ever-so-slightly different in Reborn. I'll be documenting my findings on this blog and twitter. Here's a teaser of some more silly stuff in Reborn.
 
 ![Source 1 Rune Block](/img/wards/source1runeblock.jpg)
 
