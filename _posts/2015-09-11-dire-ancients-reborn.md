@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Blocking Dire Ancients in Reborn
-date:       2015-09-10 07:50:29
+date:       2015-09-11 08:50:29
 summary:    Adventures in finding new wards in Reborn - Part 1.
 feature-img: "img/rebornwards1.jpg"
 ---
