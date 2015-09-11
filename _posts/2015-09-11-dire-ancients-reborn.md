@@ -16,10 +16,12 @@ So at this point, I feel confident doing research on the modifications to the ma
 
 The Dire ancients are about a bajillion times easier to block in Reborn than they were in Source 1.
 
+{:.center}
 ![Source 1 Dire ancients](/blog/img/wards/source1spawnbox.jpg)
 
 The red box represents the spawn box in Source 1. Neither of the wards placed in this image block the camp. Here's Source 2.
 
+{:.center}
 ![Source 2 Dire ancients](/blog/img/wards/source2spawnbox.jpg)
 
 The white box represents the spawn box in Source 2. **All** of the wards placed in this image block the camp.
@@ -28,10 +30,12 @@ The white box represents the spawn box in Source 2. **All** of the wards placed 
 
 Let's go clockwise. So Ward A is obviously amazing for the Radiant. High ground vision, secret shop vision, blocks the ancients, and is miles away from the Rosh-ward-cliff on the southeast corner where most sentries get placed. If you look at the Source 1 spawn box, you see that it doesn't extend nearly as high up as Source 2. That's why I included Ward B. Ward B *looks* like it should block the camp in Source 1, but it doesn't.
 
+{:.center}
 ![Hammer comparison](/blog/img/wards/hammercomparison.jpg)
 
 The image on the left is Reborn, the image on the right is Source 1. I am an absolute novice at Hammer, but if I had to guess, all those 'triggers' are probably saying, "If any units are here, they don't affect camp spawning." That may be completely inaccurate, but that's my best guess because even if a hero is crammed in that gap, the ancients will still spawn in Source 1. Besides, even if I wanted to put a ward there, the game won't let me.
 
+{:.center}
 ![Cliff Ward](/blog/img/wards/source1cliff.jpg)
 
 By the way, that area is pathable now. In Source 1, I've seen many players accidentally blink into that little gap and get stuck behind the one tree. You can walk out of that hole now in Source 2.
@@ -58,10 +62,12 @@ I'm doing this nice and slow because I'm going to get annoyed if Valve suddenly 
 
 In any case, I sure am glad that I was too lazy to update my [warding guide](http://howdoiplay.com/warding) to the 6.82 map because everything is ever-so-slightly different in Reborn anyway. I'll be documenting my findings on this blog and twitter. Here's a teaser of some more silly stuff in Reborn.
 
+{:.center}
 ![Source 1 Rune Block](/blog/img/wards/source1runeblock.jpg)
 
 This was a somewhat common ward in Source 1. Blocked the Radiant hard camp and gave rune vision. In Source 2, it has a fairly useful sister.
 
+{:.center}
 ![Source 2 Rune Block](/blog/img/wards/source2runeblock.jpg)
 
 That should be fun to deward.
