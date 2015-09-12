@@ -15,6 +15,9 @@ theme:
   header_text_feature_image:
   footer_text: >
    Follow me <a href="http://www.twitter.com/tsunami643">@tsunami643</a>
+   <br>
+   <br>
+   Back to <a href="http://howdoiplay.com">howdoiplay.com</a>
 
   # Icons
   rss: true
