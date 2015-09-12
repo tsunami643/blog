@@ -17,7 +17,7 @@ theme:
    Follow me <a href="http://www.twitter.com/tsunami643">@tsunami643</a>
 
   # Icons
-  rss: false
+  rss: true
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
