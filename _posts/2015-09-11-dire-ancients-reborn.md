@@ -5,6 +5,21 @@ date:       2015-09-11 08:50:29
 summary:    Adventures in finding new wards in Reborn - Part 1.
 feature-img: "img/rebornwards1.jpg"
 ---
+## Update - 2015-09-24
+
+Welp, as of 6.85 this post is now mostly invalidated, WHAT A SURPRISE.
+
+{:.center}
+![Camp Changelog](/blog/img/wards/campchangelog.jpg)
+
+Now, pretty much the only tricky new ward introduced in Source 2 is right here.
+
+{:.center}
+![685](/blog/img/wards/685ward.jpg)
+
+Which is actually still pretty good. I'll keep the rest of the post for posterity.
+
+## ORIGINAL POST - 2015-09-11
 
 If you aren't aware, the Reborn map has a *lot* of little teeny tiny terrain differences all across the map. Some areas are wider/skinnier, some trees are different, and some pathable areas are changed. This is a product of Valve recreating the entire map in their tile set editor. For the longest time I assumed that they just farted out the tile version when Reborn first dropped and decided to let the nerds of the world figure out what the differences were in order to achieve Source 1 parity.
 
