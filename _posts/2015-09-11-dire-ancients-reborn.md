@@ -5,9 +5,10 @@ date:       2015-09-11 08:50:29
 summary:    Adventures in finding new wards in Reborn - Part 1.
 feature-img: "img/rebornwards1.jpg"
 ---
-## Update - 2015-09-24
 
-Welp, as of 6.85 this post is now mostly invalidated, WHAT A SURPRISE.
+Welp, as of 6.85 this post is now mostly invalidated, WHAT A SURPRISE. I'll keep the rest of the post for posterity.
+
+## Update - 2015-09-24
 
 {:.center}
 ![Camp Changelog](/blog/img/wards/campchangelog.jpg)
@@ -17,7 +18,7 @@ Now, pretty much the only tricky new ward introduced in Source 2 is right here.
 {:.center}
 ![685](/blog/img/wards/685ward.jpg)
 
-Which is actually still pretty good. I'll keep the rest of the post for posterity.
+Which is actually still pretty good.
 
 ## ORIGINAL POST - 2015-09-11
 
