@@ -10,6 +10,7 @@ Everyone's knee deep in roster drama, so I'm here to wade through the [wall of t
 
 ### Heroes
 
+{:.portrait}
 ![Hero](/assets/media/heroes/large/bristleback.jpg)
 
 

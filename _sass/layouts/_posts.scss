@@ -53,8 +53,12 @@ header {
   text-align: center;
 }
 
-img[alt="hero"] { 
-  max-width: 100px;
+img[alt="Hero"] {
+  max-width: 100px !important;
+}
+
+.portrait {
+  max-width: 100px !important;
 }
 
 // Post navigation
