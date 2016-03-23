@@ -62,7 +62,7 @@ Yea that was annoying.
 ![Hero](/assets/media/heroes/large/huskar.jpg)
 
 
-####Huskar
+#### Huskar
 
 * **<font color='green'>Fixed Life Break Immunity not lasting long enough</font>**
 
@@ -95,8 +95,6 @@ Crimson Guard isn't as nice of an early pickup against Jugg.
 
 rip tf2 soldier death
 
-{:.center}
-<div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="http://www.youtube.com/embed/5Yjih_xSfmw?t=132" frameborder="0"></iframe></div><p></p>
 
 
 ![Hero](/assets/media/heroes/large/medusa.jpg)
