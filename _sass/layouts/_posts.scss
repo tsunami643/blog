@@ -53,6 +53,10 @@ header {
   text-align: center;
 }
 
+img[alt="hero"] { 
+  max-width: 100px;
+}
+
 // Post navigation
 #post-nav {
   width:100%;
@@ -84,4 +88,3 @@ header {
     vertical-align: middle;
   }
 }
-
