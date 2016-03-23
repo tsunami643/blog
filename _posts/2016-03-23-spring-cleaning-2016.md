@@ -13,7 +13,7 @@ Everyone's knee deep in roster drama, so I'm here to wade through the [wall of t
 ![Hero](/assets/media/heroes/large/bristleback.jpg)
 
 
-##### Bristleback
+#### Bristleback
 
 * **<font color='indianred'>Fixed Warpath not being disabled by Break</font>**
 
@@ -22,7 +22,7 @@ Silver Edge was already a good item for killing Bristle, now it's even better.
 ![Hero](/assets/media/heroes/large/broodmother.jpg)
 
 
-##### Broodmother
+#### Broodmother
 
 * **<font color='green'>Spiderlings and Spiderites can now be set to two different control groups</font>**
 
@@ -32,7 +32,7 @@ Very pleasant quality of life change for Brood.
 ![Hero](/assets/media/heroes/large/dazzle.jpg)
 
 
-##### Dazzle
+#### Dazzle
 
 * **<font color='green'>Assists now get counted whenever you place debuff on an enemy hero that dies</font>**
 * **<font color='green'>Assists now get counted whenever you place a buff on a hero that kills an enemy hero</font>**
@@ -42,7 +42,7 @@ Buff to Dazzle KDA stats. Though I'll reiterate again for the thousandth time th
 ![Hero](/assets/media/heroes/large/death_prophet.jpg)
 
 
-##### Death Prophet
+#### Death Prophet
 
 * **<font color='green'>Fixed recasting Exorcism not causing existing ghosts to return to you and heal</font>**
 
@@ -51,7 +51,7 @@ No, you can't cast it on demand to return your ghosts, this is just an interacti
 ![Hero](/assets/media/heroes/large/enchantress.jpg)
 
 
-##### Enchantress
+#### Enchantress
 
 * **<font color='indianred'>Fixed Untouchable lingering when attempting to attack units other than Enchantress</font>**
 
@@ -61,7 +61,7 @@ Yea that was annoying.
 ![Hero](/assets/media/heroes/large/huskar.jpg)
 
 
-#####Huskar
+####Huskar
 
 * **<font color='green'>Fixed Life Break Immunity not lasting long enough</font>**
 
@@ -70,7 +70,7 @@ It used to work that if Huskar Life Broke you and you Blinked or created a gap, 
 ![Hero](/assets/media/heroes/large/invoker.jpg)
 
 
-##### Invoker
+#### Invoker
 
 * **<font color='indianred'>Fixed Ice Wall debuff lingering on heroes that become Spell Immune</font>**
 
@@ -79,7 +79,7 @@ Quite a nerf. Ice Wall used to be sticky for 2 seconds after a unit would go Spe
 ![Hero](/assets/media/heroes/large/juggernaut.jpg)
 
 
-##### Juggernaut
+#### Juggernaut
 
 * **<font color='green'>Fixed Omnislash being affected by Damage Block</font>**
 
@@ -88,7 +88,7 @@ Crimson Guard isn't as nice of an early pickup against Jugg.
 ![Hero](/assets/media/heroes/large/lycan.jpg)
 
 
-##### Lycan
+#### Lycan
 
 * **<font color='indianred'>Fixed Lycan's ult wolf changing into a headless Lycan model on death</font>**
 
@@ -98,11 +98,10 @@ rip tf2 soldier death
 <div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="http://www.youtube.com/embed/5Yjih_xSfmw?t=132" frameborder="0"></iframe></div><p></p>
 
 
-
 ![Hero](/assets/media/heroes/large/medusa.jpg)
 
 
-##### Medusa
+#### Medusa
 
 * **<font color='green'>Fixed Mystic Snake ending if it hits an invisible unit</font>**
 
@@ -111,7 +110,7 @@ I don't play much Dusa, but supposedly this is a nice buff.
 ![Hero](/assets/media/heroes/large/ogre_magi.jpg)
 
 
-##### Ogre Magi
+#### Ogre Magi
 
 * **<font color='indianred'>Fixed Multicast Ignite's interaction with Linken's Sphere</font>**
 * **<font color='indianred'>Fixed Multicast Ignite affecting units in FoW</font>**
@@ -123,7 +122,7 @@ Ogre can't take stacks as easily or randomly detect enemies and disable their Bl
 ![Hero](/assets/media/heroes/large/phoenix.jpg)
 
 
-##### Phoenix
+#### Phoenix
 
 * **<font color='indianred'>Attack Speed changes during an attack now causes the animation and attack timings to update dynamically</font>**
 
@@ -132,7 +131,7 @@ This isn't *specifically* a nerf to Phoenix, but this definitely affects Phoenix
 ![Hero](/assets/media/heroes/large/phantom_assassin.jpg)
 
 
-##### Phantom Assassin
+#### Phantom Assassin
 
 * **<font color='indianred'>Fixed various attack animation prediction exploits (such as Coup de Grace)</font>**
 
@@ -140,7 +139,7 @@ lel
 
 ![Hero](/assets/media/heroes/large/pugna.jpg)
 
-##### Pugna
+#### Pugna
 
 * **<font color='green'>Fixed Nether Ward damage not disabling Blink</font>**
 
@@ -148,7 +147,7 @@ DUDE. I was also so incredibly confused when a LC would Press her attack, get fl
 
 ![Hero](/assets/media/heroes/large/rubick.jpg)
 
-##### Rubick
+#### Rubick
 
 * **<font color='green'>Fixed stolen Ignite not getting Multicast bonuses</font>**
 
@@ -157,7 +156,7 @@ Noice.
 ![Hero](/assets/media/heroes/large/sand_king.jpg)
 
 
-##### Sand King
+#### Sand King
 
 * **<font color='green'>Fixed Sandstorm being canceled by purge</font>**
 
@@ -167,7 +166,7 @@ A very rare interaction, but there have been multiple times that I used Brewmast
 ![Hero](/assets/media/heroes/large/slark.jpg)
 
 
-##### Slark
+#### Slark
 
 * **<font color='green'>Fixed Shadow Dance not granting passive bonuses if affected by vision spells like Amplify Damage</font>**
 
@@ -177,7 +176,7 @@ This is only a fix for when Slark actually *activates* Shadow Dance. He still ca
 ![Hero](/assets/media/heroes/large/sniper.jpg)
 
 
-##### Sniper
+#### Sniper
 
 * **<font color='indianred'>Fixed Headshot damage going through Spell Immunity</font>**
 * **<font color='indianred'>Attack Speed changes during an attack now causes the animation and attack timings to update dynamically</font>**
@@ -188,7 +187,7 @@ According to the wiki, on average, Headshot increases Sniper's damage output by 
 ![Hero](/assets/media/heroes/large/spirit_breaker.jpg)
 
 
-##### Spirit Breaker
+#### Spirit Breaker
 
 * **<font color='green'>Fixed Charge of Darkness not destroying trees at the end of the charge</font>**
 
@@ -198,7 +197,7 @@ Hooray, no more getting stuck in trees after canceled Charges.
 ![Hero](/assets/media/heroes/large/sven.jpg)
 
 
-##### Sven
+#### Sven
 
 * **<font color='green'>Fixed Stormhammer behavior when the primary target is hidden upon impact</font>**
 
@@ -207,7 +206,7 @@ Storm Hammer now stuns the AoE if the primary target is banished/hidden (Astral 
 ![Hero](/assets/media/heroes/large/templar_assassin.jpg)
 
 
-##### Templar Assassin
+#### Templar Assassin
 
 * **<font color='indianred'>Fixed Psi Blades triggering when attacks land on dead units</font>**
 
@@ -216,7 +215,7 @@ Ouch. This is a fairly notable nerf to TA's laning stage. The attack will still 
 ![Hero](/assets/media/heroes/large/tidehunter.jpg)
 
 
-##### Tidehunter
+#### Tidehunter
 
 * **<font color='green'>Equipped taunts will now automatically play in-game under a variety of rare circumstances</font>**
 
@@ -226,7 +225,7 @@ Game breaking.
 ![Hero](/assets/media/heroes/large/visage.jpg)
 
 
-##### Visage
+#### Visage
 
 * **<font color='indianred'>Fixed Stone Form stunning and damaging units if the Familiar died while landing</font>**
 * **<font color='indianred'>Familiars are now properly affected by movement speed changes and disables such as stuns or roots</font>**
@@ -261,7 +260,7 @@ Buff to mids.
 Somehow I'm skeptical.
 
 {:.center}
-<iframe src="https://vine.co/v/etQuEBvv01m/embed/simple" width="480" height="480" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
+<div class="video-container" style="text-align: center;"><iframe src="https://vine.co/v/etQuEBvv01m/embed/simple" width="480" height="480" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script></div><p></p>
 
 
 ### Misc
