@@ -297,6 +297,6 @@ Oh, hey, cool. As long as we're messing with cheats, could I also get *-toggleda
 
     dota_respawn_roshan
 
-And a command to remove all the trees on the map would be cool. *-trees* respawns all of them, but a command that does the opposite would be convenient.
+And a command to remove all the trees on the map would be sweet. *-trees* respawns all of them, but a command that does the opposite would be convenient.
 
 Cool, thanks.
