@@ -284,7 +284,7 @@ This should be a thing with Rosh as well. Few players pay attention to this, but
 
 * **Added range indicator for items on hover**
 
-Why are mana costs on items still not shown like spells. The biggest thing I hated about Reborn killing -enableaddons was that I couldn't use [this mod anymore.](https://www.reddit.com/r/DotA2/comments/22a57n/for_those_interested_ive_made_an_item_icon/) There's really no reason why items shouldn't show mana costs on their icons. Valve is touching far more sacred territory with this whole tower aggro and neutral camp spawn box info on demand. GIVE ME MANA COSTS.
+Why are mana costs on items still not shown like spells. The biggest thing I hated about Reborn killing *-enableaddons* was that I couldn't use [this mod anymore.](https://www.reddit.com/r/DotA2/comments/22a57n/for_those_interested_ive_made_an_item_icon/) There's really no reason why items shouldn't show mana costs on their icons. Valve is touching far more sacred territory with this whole tower aggro and neutral camp spawn box info on demand. GIVE ME MANA COSTS.
 
 * **The chat cheat -item no longer requires the full item name, it will instead match to a substring to create the item**
 * **Added a chat cheat -lvlmax that levels your hero to the max and skills all your abilities**
