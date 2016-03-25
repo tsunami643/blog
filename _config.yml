@@ -45,7 +45,7 @@ theme:
   # Scripts
   google_analytics: "UA-54725251-1"
   disqus_shortname:
-  katex: true # Enable if using math markup
+  katex: false # Enable if using math markup
 
   # Localization strings
   str_follow_on: "Follow on"
