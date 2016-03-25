@@ -272,7 +272,7 @@ This is a nerf to early Rosh takers that aren't Ursa. Ursa doesn't really care b
 
 * **Fixed Bloodlust not being castable on Invulnerable allies/buildings**
 
-Hey, sweet, I'm a fan. But why not Ice Armor and Living Armor as well? Ice Armor, mainly.
+I'm a fan. But why not Ice Armor and Living Armor as well? Ice Armor, mainly.
 
 * **Added a UI setting for disabling camera zoom**
 
@@ -286,21 +286,21 @@ This should be a thing with Rosh as well. Few players pay attention to this, but
 
 Why are mana costs on items still not shown like spells. The biggest thing I hated about Reborn killing *-enableaddons* was that I couldn't use [this mod anymore.](https://www.reddit.com/r/DotA2/comments/22a57n/for_those_interested_ive_made_an_item_icon/) There's really no reason why items shouldn't show mana costs on their icons. Valve is touching far more sacred territory with this whole tower aggro and neutral camp spawn box info on demand. GIVE ME MANA COSTS.
 
-* **The chat cheat -item no longer requires the full item name, it will instead match to a substring to create the item**
-* **Added a chat cheat -lvlmax that levels your hero to the max and skills all your abilities**
+* **The chat cheat `-item` no longer requires the full item name, it will instead match to a substring to create the item**
+* **Added a chat cheat `-lvlmax` that levels your hero to the max and skills all your abilities**
 
-Oh, hey, cool. As long as we're messing with cheats, could I also get *-toggledaynight* for
+Oh, hey, neat. As long as we're messing with cheats, could I also get `-toggledaynight` for
 
     dota_daynightcycle_toggle
 
-*-pausedaynight* for
+`-pausedaynight` for
 
     dota_daynightcycle_pause 1
 
-*-roshan* for
+`-roshan` for
 
     dota_respawn_roshan
 
-And a command to remove all the trees on the map would be sweet. *-trees* respawns all of them, but a command that does the opposite would be convenient.
+And a command to remove all the trees on the map would be sweet. `-trees` respawns all of them, but a command that does the opposite would be convenient.
 
 Cool, thanks.
