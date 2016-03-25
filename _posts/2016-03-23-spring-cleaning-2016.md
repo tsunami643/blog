@@ -278,6 +278,10 @@ Hey, sweet, I'm a fan. But why not Ice Armor and Living Armor as well? Ice Armor
 
 It would be nice if this would be segregated between spectating and playing. I hate accidentally zooming when I'm playing, but I love zooming out when I'm spectating.
 
+* **Effigies and Barracks now name the player that killed them in the chat log**
+
+This should be a thing with Rosh as well. Few players pay attention to this, but Rosh provides a bounty from 150-400g to the player that last hits him in addition to the 200g team bounty.
+
 * **Added range indicator for items on hover**
 
 Why are mana costs on items still not shown like spells. The biggest thing I hated about Reborn killing -enableaddons was that I couldn't use [this mod anymore.](https://www.reddit.com/r/DotA2/comments/22a57n/for_those_interested_ive_made_an_item_icon/) There's really no reason why items shouldn't show mana costs on their icons. Valve is touching far more sacred territory with this whole tower aggro and neutral camp spawn box info on demand. GIVE ME MANA COSTS.
