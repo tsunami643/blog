@@ -9,8 +9,9 @@ feature-img: "img/support/maidennew.jpg"
 A few weeks ago, I was approached by a [redditor curating a Dota magazine](https://www.reddit.com/r/DotA2/comments/4e4fhs/recruiting_for_a_dota2_magazine/) who wanted to see if I was interested in contributing to the inaugural issue of *Feeder's Digest*. Witnessing successful efforts towards constructive content creation on /r/dota2 is about as rare as a <abbr title="topical">Team Secret LAN victory</abbr>, so how could I say no? ~~I had some archived article ideas I never got around to publishing when I was writing for Team eHug, but most of them didn't seem to fit the tone of the magazine~~ I'm lazy, so I decided to remaster one of the [most popular articles](https://www.reddit.com/r/DotA2/comments/1zogat/making_money_as_a_support/) I had written called *['Making Money as a Support.'](http://howdoiplay.com/warding/SupportMoney.pdf)* I'm republishing it here for posterity, but you can view the article and the [rest of the magazine here.](https://issuu.com/feedersdigest/docs/juneissue/1) <sup>I'm the cover story, ma!</sup>
 
 ----
+----
 
-> #Around two years ago, I wrote a well-received article on how to make money as a support.
+> # Around two years ago, I wrote a well-received article on how to make money as a support.
 
 That was during the heady days of 6.80 when: TPs cost 135 gold, couriers cost 150 gold and the flying upgrade cost 220, smoke cost 100 gold, wand had a 150 gold recipe, there were no bounty runes, observer and sentry wards didn’t stack, you could uphill miss them, and Pit Lord wasn’t released. Oh wait.
 
@@ -23,8 +24,7 @@ This is how I started off last time and, damn it, I’ll do it again. There have
 
 {:.center}
 ![Warding](/blog/img/support/article1.png)
-{:.center}
-*Oh don't mind me*
+<p style="text-align: center;"><i><sup>Oh don't mind me</sup></i></p>
 
 **Never stand in this position when you’re warding.** Besides making it blatantly obvious where you’re placing your ward, you’re also setting yourself up for Mirana arrows, Pudge hooks, and plenty of other spells. So how should you be warding? **By shift-queuing, of course. Target the ward, then shift+right click somewhere else along the same path.** This makes your warding motion practically seamless from normal movement. It seems like a small gesture, but it’s surprisingly effective at masking your warding locations. If you want to step it up a notch, intentionally stare at cliffs and don’t ward them for next level mind jukes.
 
@@ -50,7 +50,7 @@ Passive/Periodic gold comes out to 100 unreliable gold every minute. **Gold lost
 {:.center}
 ![Appended](/blog/img/support/article2.png)
 {:.center}
-*Fastest tome buyer this side of the Mississippi*
+<p style="text-align: center;"><i><sup>Fastest Tome buyer this side of the Mississippi</sup></i></p>
 
 ## 5.	 Buy generic
 The past few patches have introduced a bevy of knock-off counterparts to old support item standbys. Back in the day, a five position’s first major item was a trail of tears towards one of three items: Force, Eul’s, or Mek. If you were constantly dying on the way to those items, too bad, stack Bracers and sip some juice in the corner. Now, instead of actually really buffing support heroes, IceFrog has taken the complicated route of adding more early game item choices.
@@ -87,7 +87,7 @@ Click on an enemy and see an observer or sentry ward in their inventory? Okay, t
 {:.center}
 ![Dagger](/blog/img/support/article3.png)
 {:.center}
-*wards?????*
+<p style="text-align: center;"><i><sup>wards????</sup></i></p>
 
 ## 9.	Tailor your build
 Not only have the past few patches introduced lots of early game items, but the mid/late game repertoire has expanded significantly as well. Here are some support pickups that are roughly around the 2k gold mark: Blink Dagger, Hand of Midas, Aether Lens, Veil of Discord, Ghost Scepter, Drum of Endurance, Force Staff, Glimmer Cape, Mekansm, Vladmir’s Offering.
