@@ -13,11 +13,11 @@ A few weeks ago, I was approached by a [redditor curating a Dota magazine](https
 
 > ## Around two years ago, I wrote a well-received article on how to make money as a support.
 
-### That was during the heady days of 6.80 when: TPs cost 135 gold, couriers cost 150 gold and the flying upgrade cost 220, smoke cost 100 gold, wand had a 150 gold recipe, there were no bounty runes, observer and sentry wards didn’t stack, you could uphill miss them, and Pit Lord wasn’t released. Oh wait.
+That was during the heady days of 6.80 when: TPs cost 135 gold, couriers cost 150 gold and the flying upgrade cost 220, smoke cost 100 gold, wand had a 150 gold recipe, there were no bounty runes, observer and sentry wards didn’t stack, you could uphill miss them, and Pit Lord wasn’t released. Oh wait.
 
-### There have been plenty other support oriented changes since then, but the crux of the matter is life has gotten far easier for five positions since those dark days. So I figured, why not remaster that guide to keep up with the times? I also figured I should change the title to be more fitting as a magazine submission.
+There have been plenty other support oriented changes since then, but the crux of the matter is life has gotten far easier for five positions since those dark days. So I figured, why not remaster that guide to keep up with the times? I also figured I should change the title to be more fitting as a magazine submission.
 
-### Many of the tips I gave in the previous article are evergreen, but I have some updated knowledge that I’d like to share with the class.
+Many of the tips I gave in the previous article are evergreen, but I have some updated knowledge that I’d like to share with the class.
 
 ## 1.	 Don’t stare at the cliff when you’re warding
 
