@@ -9,7 +9,6 @@ feature-img: "img/support/maidennew.jpg"
 A few weeks ago, I was approached by a [redditor curating a Dota magazine](https://www.reddit.com/r/DotA2/comments/4e4fhs/recruiting_for_a_dota2_magazine/) who wanted to see if I was interested in contributing to the inaugural issue of *Feeder's Digest*. Witnessing successful efforts towards constructive content creation on /r/dota2 is about as rare as a <abbr title="topical">Team Secret LAN victory</abbr>, so how could I say no? ~~I had some archived article ideas I never got around to publishing when I was writing for Team eHug, but most of them didn't seem to fit the tone of the magazine~~ I'm lazy, so I decided to remaster one of the [most popular articles](https://www.reddit.com/r/DotA2/comments/1zogat/making_money_as_a_support/) I had written called *['Making Money as a Support.'](http://howdoiplay.com/warding/SupportMoney.pdf)* I'm republishing it here for posterity, but you can view the article and the [rest of the magazine here.](https://issuu.com/feedersdigest/docs/juneissue/1) <sup>I'm the cover story, ma!</sup>
 
 ----
-----
 
 ## Around two years ago, I wrote a well-received article on how to make money as a support.
 
@@ -62,14 +61,22 @@ Mango for regen and emergency mana, Faerie Fire for emergency HP, you no longer 
 
 ## 6.	 Stick around for kills
 Two years later and players still understand the assist system about as well as they understand AA’s ult tooltip. 6.87c brought some attention to the math, but most people were just like, “Well these numbers are smaller than the other numbers... so it must be... a nerf... to assist gold.” It was. But assists are still the easiest way for supports to earn cash money. These are the mechanics governing assists:
-* **Every allied hero within a 1300 radius of a kill will receive a portion of assist gold (and experience).**
-* The value of gold awarded for a kill assist is calculated from a very complicated equation that factors:
+
+1. **Every allied hero within a 1300 radius of a kill will receive a portion of assist gold (and experience).**
+
+2.  The value of gold awarded for a kill assist is calculated from a very complicated equation that factors:
+
     *	Number of assisting heroes in the radius
+
     *	The dying hero’s level
+
     *	The dying hero’s net worth
-   *	The teams’ net worth differential
-* The scoreboard assist counter will only go up if you did something to the dead hero.
-* The scoreboard assist counter means absolutely nothing other than helping you make your way to the Dotabuff Top 100 Dazzles with padded KDA stats.
+
+    *	The teams’ net worth differential
+
+3. The scoreboard assist counter will only go up if you did something to the dead hero.
+
+4. The scoreboard assist counter means absolutely nothing other than helping you make your way to the Dotabuff Top 100 Dazzles with padded KDA stats.
 
 When you’re getting ganked and you narrowly escape, **don’t run back to base immediately.** Besides the possibility that you may be able to toss out one more stun or nuke, you are awarded with reliable gold if the target dies just for standing around. And if you see someone else getting ganked...
 
