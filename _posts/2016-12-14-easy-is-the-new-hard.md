@@ -3,7 +3,7 @@ layout: "post"
 title: "Easy is the New Hard - 7.00's Offlane"
 date: "2016-12-14 10:31"
 summary:    Hard Laner? I hardly know her.
-feature-img: "img/support/maidennew.jpg"
+feature-img: "/blog/img/easyhard/easyhardbanner.jpg"
 ---
 
 I do a lot of thinking about the offlane. Maybe it's because people  Maybe brown people are just genetically predisposed to enjoying the lane.
@@ -38,9 +38,7 @@ Minor changes, but still beneficial for offlaners. A sooner night meant supports
 
 ### <a href='http://www.dota2.com/rekindlingsoul/'><font color='indianred'>6.82</font></a> - Sep. 25, 2014
 
-6.82 was a massive patch. Not necessarily for balance, it just brought the first map/terrain change the game had seen in years.
-
-Side note, I think the funniest part about looking back at this patch is how Valve justified shifting Rosh's pit ever so slightly with a full paragraph:
+6.82 was a massive patch. Not necessarily for balance, it just brought the first map/terrain change the game had seen in years. Side note, I think the funniest part about looking back at this patch is how Valve justified shifting Rosh's pit ever so slightly with a full paragraph:
 
 > ***Along with an assortment of other changes, it's moving day for Roshan. Though don't worry, he hasn't gone far. His pit now looks out upon the river from a different angle, and nearby paths have been rerouted around his legendary den. Though his location may have changed, you can count on him defending his territory with the same murderous energies.***
 
@@ -89,6 +87,7 @@ Wait for it...
 
 ----
 ![Banner](/blog/img/easyhard/700banner.png)
+
 ### <a href='http://www.dota2.com/700/gameplay/#MapChanges'><font color='indianred'>7.00</font></a> - Dec. 12, 2016
 * **Lane creeps now give 50% experience when killed by neutral creeps, instead of 35%**
 
@@ -107,6 +106,8 @@ Pulling is for the weak.
 The last few months of 6.88 brought this trend of supports/roamers often expending all their HP and mana resources and then Edge of Tomorrowing themselves in their friendly neighborhood neutral camp. It was pretty dumb. Don't get me wrong, it was smart, but it was pretty dumb. Early game, these heroes are really only as useful as the amount of mana they have. So why walk/TP back to the fountain when you can kill yourself and go back at the cost of a few seconds of unearned passive gold?
 
 Actually, why go back at all, we'll bring the fountain to you.
+
+----
 
 ## Enter the Shrine
 
