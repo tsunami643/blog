@@ -70,7 +70,7 @@ Also helped. The offlane used to get rushed down heavily before this change. Gly
 ![Banner](/blog/img/easyhard/686banner.png)
 
 ### <a href='http://www.dota2.com/balanceofpower'><font color='indianred'>6.86</font></a> - Dec. 16, 2015
-More terrain changes were added in the Balance of Power update. 'Changes' are putting it lightly, actually. This was the patch that added a brand new hard neutral camp right next to each teams' offlane next to their secret shop. Now by itself this wasn't too big a boon for offlaners. But say hello to a shiny new item by the name of:
+More terrain changes were added in the Balance of Power update. 'Changes' are putting it lightly, actually. This was the patch that added a brand new hard neutral camp right next to each team's offlane next to their secret shop. Now by itself this wasn't too big a boon for offlaners. But say hello to a shiny new item by the name of:
 
 * **Iron Talon**
   * *New item formed from Quelling Blade, Ring of Protection and a Recipe.*
