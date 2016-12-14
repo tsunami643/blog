@@ -10,80 +10,80 @@ I do a lot of thinking about the offlane. Maybe it's because people  Maybe brown
 
 When I started playing this game in 6.72 the offlane was the *hard* lane. You were shoved out into the cold with a paperclip and some bubble gum and expected to come back with a Blink Dagger within 20 minutes. I <abbr title="am">was</abbr> bad at the game back then, so I passionately avoided that lane. Then 6.79 dropped.
 
-#### [6.79](http://dota2.gamepedia.com/Version_6.79) - Oct. 21, 2013
-* Creeps now meet a bit closer to the tower in your offlane
+### [6.79](http://dota2.gamepedia.com/Version_6.79) - Oct. 21, 2013
+* **Creeps now meet a bit closer to the tower in your offlane**
 
 To this day, this is one of my least favorite changes in Dota. Not because of the balance implications, but because of how inelegant of a solution it was. I can't find any record of the actual numbers, but basically it just meant that the creeps spawning in the offlane had slower movespeed. Until they reach the T2 tower. Then they went back to full speed. But after 7:30 they spawned at normal speed the whole time.
 
 Remnants of this change still exist in the game currently. Check the movespeed of your safelane creeps as soon as they spawn at 0:00 and compare it to the offlane creeps. Safelane creeps got some serious pep in their step until they hit the T2 tower.
 
-* Non-Ancient Neutrals now split XP with all heroes in the AoE instead of just the team that killed them
-* Swapped the medium pullable Neutral Camp with the small camp
+* **Non-Ancient Neutrals now split XP with all heroes in the AoE instead of just the team that killed them**
+* **Swapped the medium pullable Neutral Camp with the small camp**
 
 Not only did the pull camp no longer provide a substantial experience boost for safe lane supports, but contesting the pull became as simple as standing around.
 
-* XP AoE increased from 1200 to 1300
-* Day/Night length decreased from 6 to 4 minutes
-* Your gold income is now 1 per 0.6 seconds, up from 1 per 0.8 seconds
+* **XP AoE increased from 1200 to 1300**
+* **Day/Night length decreased from 6 to 4 minutes**
+* **Your gold income is now 1 per 0.6 seconds, up from 1 per 0.8 seconds**
 
 Minor changes, but still beneficial for offlaners. A sooner night meant supports would have a harder time finding you to zone you out and you could slip into the side shop a little easier.
 
-#### [6.82](http://www.dota2.com/rekindlingsoul/) - Sep. 25, 2014
+### [6.82](http://www.dota2.com/rekindlingsoul/) - Sep. 25, 2014
 
 6.82 was a massive patch. Don't remember it by number? [This may jog your memory.](http://cdn.dota2.com/apps/dota2/images/rekindlingsoul/teaser.jpg)
 
 Side note, I think the funniest part about looking back at this patch is how Valve justified shifting Rosh's pit ever so slightly with a full paragraph:
 
-> Along with an assortment of other changes, it's moving day for Roshan. Though don't worry, he hasn't gone far. His pit now looks out upon the river from a different angle, and nearby paths have been rerouted around his legendary den. Though his location may have changed, you can count on him defending his territory with the same murderous energies.
+> ***Along with an assortment of other changes, it's moving day for Roshan. Though don't worry, he hasn't gone far. His pit now looks out upon the river from a different angle, and nearby paths have been rerouted around his legendary den. Though his location may have changed, you can count on him defending his territory with the same murderous energies.***
 
 Whereas in 7.00 we got:
 
-> Moved Roshan to new area near top Powerup Rune spot
+> ***Moved Roshan to new area near top Powerup Rune spot***
 
 The terrain changes weren't too dramatic for the Radiant offlane, but the Dire offlane could now move straight into the side shop without eating any trees and the clump of trees to the left of the Dire offlane got some new routes.
 
 The bigger changes were:
-* Added a Bounty Rune
-* Two runes now spawn in the river every two minutes. One of them will always be a Bounty Rune
+* **Added a Bounty Rune**
+* **Two runes now spawn in the river every two minutes. One of them will always be a Bounty Rune**
 
 Bounty Runes themselves were nice, but a guaranteed rune near your lane made offlane bottle a far more viable pickup.
 
-* Glyph of Fortification cooldown is now refreshed whenever you lose a Tier 1 tower
+* **Glyph of Fortification cooldown is now refreshed whenever you lose a Tier 1 tower**
 
 Also helped. The offlane used to get rushed down heavily before this change. Glyphs coming back after a T1 tower went down meant being able to plow through 2 tiers of offlane towers was a less viable strategy. The offlane was spared the deathball.
 
-#### [6.86](http://www.dota2.com/balanceofpower) - Dec. 16, 2015
+### [6.86](http://www.dota2.com/balanceofpower) - Dec. 16, 2015
 More terrain changes were added in the Balance of Power update. 'Changes' are putting it lightly, actually. This was the patch that added a brand new hard neutral camp right next to each teams' offlane next to their secret shop. Now by itself this wasn't too big a boon for offlaners. But say hello to a shiny new item by the name of:
 
-* Iron Talon
-  * New item formed from Quelling Blade, Ring of Protection and a Recipe.
+* **Iron Talon**
+  * *New item formed from Quelling Blade, Ring of Protection and a Recipe.*
 
 Let me tell you something. I hate this item. I hate it what it stands for. I hate how it became a consolation prize for offlaners that couldn't take the heat and had to get out of the kitchen. I hate how it became nearly as good as actually staying in the lane. I hate how core it became on so many heroes. I hate how I could never bring myself to buy it because I was too stubborn to adapt.
 
-#### [6.88b](http://dota2.gamepedia.com/Version_6.88b) - Jul. 12, 2016
-* Lane creeps now give 20% experience when killed by neutral creeps, instead of 0%.
+### [6.88b](http://dota2.gamepedia.com/Version_6.88b) - Jul. 12, 2016
+* **Lane creeps now give 20% experience when killed by neutral creeps, instead of 0%.**
 
 Wait for it.
 
-#### [6.88c](http://dota2.gamepedia.com/Version_6.88c) - Aug. 19, 2016
-* Lane creeps now give 35% experience when killed by neutral creeps, instead of 20%.
+### [6.88c](http://dota2.gamepedia.com/Version_6.88c) - Aug. 19, 2016
+* **Lane creeps now give 35% experience when killed by neutral creeps, instead of 20%.**
 
 Wait for it...
 
-#### [7.00](http://www.dota2.com/700/gameplay/#MapChanges) - Dec. 12, 2016
-* Lane creeps now give 50% experience when killed by neutral creeps, instead of 35%
+### [7.00](http://www.dota2.com/700/gameplay/#MapChanges) - Dec. 12, 2016
+* **Lane creeps now give 50% experience when killed by neutral creeps, instead of 35%**
 
 Yep, that's it. Nothing more to talk about for this bala--
 
-* **RUNES GALORE**
+* ###**RUNES GALORE**
 
 jk. [Do you love hearing this sound effect every 15 seconds?](https://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3f/Rune_of_Bounty.mp3) Boy, have I got the patch for you.
 
-* **LESS FREQUENT CAMP SPAWNS**
+* ###**LESS FREQUENT CAMP SPAWNS**
 
 Pulling is for the weak.
 
-* Dying to Neutral creeps now cause your hero to have a minimum respawn time of 26 (equal to level 6 respawn time)
+* **Dying to Neutral creeps now cause your hero to have a minimum respawn time of 26 (equal to level 6 respawn time)**
 
 The last few months of 6.88 brought this trend of supports/roamers often expending all their HP and mana resources and then Edge of Tomorrowing themselves in their friendly neighborhood neutral camp. It was pretty dumb. Don't get me wrong, it was smart, but it was pretty dumb. Early game, these heroes are really only as useful as the amount of mana they have. So why walk/TP back to the fountain when you can kill yourself and go back at the cost of a few seconds of unearned passive gold?
 
