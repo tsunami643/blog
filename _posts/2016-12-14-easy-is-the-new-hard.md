@@ -10,9 +10,9 @@ feature-img: "/img/easyhard/easyhardbanner.jpg"
 
 Maybe it's because I find the lane to be the most dynamic in the game. Maybe I enjoy the masochistic nature of the playstyle. Maybe it's because I still haven't made Be the Better Offlane.
 
-It's the last one.  It's starting to get embarassing.
+It's the last one.  I'm starting to get embarassed.
 
-But one of the biggest reasons why BTBO is still MIA is because ~~I'm ridiculously lazy~~ the offlane has been in flux recently. See when I started playing this game back in 6.72, the offlane was the *hard* lane. You were shoved out into the cold with a paperclip and some bubble gum and expected to come back with a Blink Dagger within 20 minutes. If you didn't, too bad. Git gud or die trying.
+But one of the biggest reasons why BTBO is still MIA is because ~~I'm ridiculously lazy~~ the offlane has been in serious flux. See when I started playing this game back in 6.72, the offlane was the *hard* lane. You were shoved out into the cold with a paperclip and some bubble gum and expected to come back with a Blink Dagger within 20 minutes. If you didn't, too bad. Git gud or die trying.
 
 Then, ever so slowly, the offlane started getting easier and easier. This lane wasn't built in a day, however, so I'd like to point out some choice changes that I believe got us to this point.
 
@@ -75,7 +75,9 @@ More terrain changes were added in the Balance of Power update. 'Changes' are pu
 * **Iron Talon**
   * *New item formed from Quelling Blade, Ring of Protection and a Recipe.*
 
-Let me tell you something. I hate this item. I hate it what it stands for. I hate how it became a consolation prize for offlaners that couldn't take the heat and had to get out of the kitchen. I hate how it became nearly as good as actually staying in the lane. I hate how core it became on so many heroes. I hate how I could never bring myself to buy it because I was too stubborn to adapt.
+Let me tell you something. I hate this item. I hate it what it stands for. I hate how it became a consolation prize for offlaners that couldn't take the heat and had to get out of the kitchen. I hate how it became nearly as good as actually staying in the lane. I hate how core it became on so many heroes.
+
+I hate how I could never bring myself to buy it because I was too stubborn to adapt.
 
 ----
 
@@ -115,10 +117,10 @@ Actually, why go back at all, we'll bring the fountain to you.
 
 ----
 
+## Enter the Shrine
+
 {:.center}
 ![Shrine](/blog/img/easyhard/shrine.jpg)
-
-## Enter the Shrine
 
 I'm going to hold my tongue here. Open mind and whatnot.
 
@@ -153,6 +155,8 @@ And this is just the offensive uses of the Shrine. Defensively, Shrines are amaz
 There are many ways to either nerf Shrines or buff safe lanes, but I'm going to embrace change. IceFrog has made great strides to make nearly every hero balanced. It's why there were very few traditional hero nerfs/buffs this patch.
 
 #### Maybe now it's time to make every lane balanced as well.
+
+----
 
 I don't know how accurate this article will be in the coming months, but right now, based on the incredibly small sample size of 7.00 games I've played, I think I will single-handedly usher in a new laning paradigm and redefine how we as a community play this game. Dota history will henceforth be referred to as BT and AT. PPD drops the Evil from his new company and names me his COO. Valve cancels the New Bloom Festival and instead incentivizes workshop artists to create cosmetics commemorating my face. Arteezy finally wins a TI.
 
