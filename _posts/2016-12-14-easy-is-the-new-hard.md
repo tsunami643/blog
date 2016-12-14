@@ -12,7 +12,7 @@ When I started playing this game in 6.72 the offlane was the *hard* lane. You we
 
 ----
 
-![Banner](/img/easyhard/679banner.png)
+![Banner](/blog/img/easyhard/679banner.png)
 
 ### <a href='http://dota2.gamepedia.com/Version_6.79'><font color='indianred'>6.79</font></a> - Oct. 21, 2013
 * **Creeps now meet a bit closer to the tower in your offlane**
@@ -34,7 +34,7 @@ Minor changes, but still beneficial for offlaners. A sooner night meant supports
 
 ----
 
-![Banner](/img/easyhard/682banner.png)
+![Banner](/blog/img/easyhard/682banner.png)
 
 ### <a href='http://www.dota2.com/rekindlingsoul/'><font color='indianred'>6.82</font></a> - Sep. 25, 2014
 
@@ -63,7 +63,7 @@ Also helped. The offlane used to get rushed down heavily before this change. Gly
 
 ----
 
-![Banner](/img/easyhard/686banner.png)
+![Banner](/blog/img/easyhard/686banner.png)
 
 ### <a href='http://www.dota2.com/balanceofpower'><font color='indianred'>6.86</font></a> - Dec. 16, 2015
 More terrain changes were added in the Balance of Power update. 'Changes' are putting it lightly, actually. This was the patch that added a brand new hard neutral camp right next to each teams' offlane next to their secret shop. Now by itself this wasn't too big a boon for offlaners. But say hello to a shiny new item by the name of:
@@ -75,7 +75,7 @@ Let me tell you something. I hate this item. I hate it what it stands for. I hat
 
 ----
 
-![Banner](/img/easyhard/688banner.png)
+![Banner](/blog/img/easyhard/688banner.png)
 
 ### <a href='http://dota2.gamepedia.com/Version_6.88b'><font color='indianred'>6.88b</font></a> - Jul. 12, 2016
 * **Lane creeps now give 20% experience when killed by neutral creeps, instead of 0%.**
@@ -88,7 +88,7 @@ Wait for it.
 Wait for it...
 
 ----
-![Banner](/img/easyhard/700banner.png)
+![Banner](/blog/img/easyhard/700banner.png)
 ### <a href='http://www.dota2.com/700/gameplay/#MapChanges'><font color='indianred'>7.00</font></a> - Dec. 12, 2016
 * **Lane creeps now give 50% experience when killed by neutral creeps, instead of 35%**
 
