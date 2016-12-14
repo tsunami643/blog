@@ -6,7 +6,9 @@ summary:    Hard Laner? I hardly know her.
 feature-img: "/img/easyhard/easyhardbanner.jpg"
 ---
 
-I do a lot of thinking about the offlane. Maybe it's because people  Maybe brown people are just genetically predisposed to enjoying the lane.
+## I do a lot of thinking about the offlane.
+
+Maybe it's because people  Maybe brown people are just genetically predisposed to enjoying the lane.
 
 When I started playing this game in 6.72 the offlane was the *hard* lane. You were shoved out into the cold with a paperclip and some bubble gum and expected to come back with a Blink Dagger within 20 minutes. I <abbr title="am">was</abbr> bad at the game back then, so I passionately avoided that lane. Then 6.79 dropped.
 
@@ -107,6 +109,9 @@ The last few months of 6.88 brought this trend of supports/roamers often expendi
 
 Actually, why go back at all, we'll bring the fountain to you.
 
+{:.center}
+![Shrine](/blog/img/easyhard/shrine.jpg)
+
 ----
 
 ## Enter the Shrine
@@ -121,14 +126,17 @@ They were created to provide portable fountain-esque regen for each team at two 
 
 Shrines are AoE turbo fountains on a *five minute cooldown.* Don't waste that kind of potential on a solo Sand King 7 minutes into the game. Abuse it. Literally try to kill yourself as soon as you see the enemies in lane. HP, mana, cooldowns, who cares. Go hard. When the dust settles and the enemy is licking their wounds with a tango, hit up your local corner Shrine. Not just you, but bring your carry, bring your support, bring the whole trilane. Don't be shy, it's a mere 10 second walk from your tier 1 tower and everyone's invited. The enemy safe lane shrine? That thing's like 30 seconds away. If they wanna go head-to-head shrine-to-shrine, let them. Enjoy the level advantage when they finally come back. Then five minutes later, do it again. Get a kill? Great. Enemy got away? Who cares. You're playing with house money. If every five minutes a pile of Salves and Mangoes spawned right next to your lane, would you ignore them? There's no incentive to ever leave Shrines on cooldown, especially in the early game.
 
-*pile of mango and salves*
-*nah I'll use these later*
+{:.center}
+![Shrine](/blog/img/easyhard/salves.jpg)
+<p style="text-align: center;"><i><sup>nah i'm good</sup></i></p>
 
 ## Find Religion
 
 And this is just the offensive uses of the Shrine. Defensively, Shrines are amazing as well. Pre-7.00, when a safe lane carry took the enemy T1 tower, life was good. Your jungle felt secure, your creeps move further up the lane so people approaching your lane were visible, you could relatively safely farm the jungle camp near the enemy's secret shop, maybe even sneak some damage on a T2 tower while people are distracted. Now? You're in Shrine Country now, boy. Step a little too far and TP rotations can come in right behind you. Hell, even *after* the T2 tower is down you *still* need to be careful about heroes being able to Shrine in on you.
 
-*teleports behind you* *nothing personnel kid*
+{:.center}
+![Shrine](/blog/img/easyhard/teleport.jpg)
+<p style="text-align: center;"><i><sup>pshh, nothing personnel...kid</sup></i></p>
 
 If you're a carry, which lane do you feel safer farming in? Granted, you only need one ward to scout out the possibility of Shrine-TP ganks, but that doesn't make them much easier to escape from.
 
