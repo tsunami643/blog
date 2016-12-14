@@ -89,8 +89,6 @@ The last few months of 6.88 brought this trend of supports/roamers often expendi
 
 Actually, why go back at all, we'll bring the fountain to you.
 
-* **SHRINES**
-
 ## Enter the Shrine
 
 I'm going to hold my tongue here. Open mind and whatnot.
