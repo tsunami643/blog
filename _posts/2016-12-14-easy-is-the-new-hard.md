@@ -28,7 +28,7 @@ Not only did the pull camp no longer provide a substantial experience boost for 
 
 Minor changes, but still beneficial for offlaners. A sooner night meant supports would have a harder time finding you to zone you out and you could slip into the side shop a little easier.
 
-### <font color='indianred'>[6.82](http://www.dota2.com/rekindlingsoul/)</font> - Sep. 25, 2014
+### <a href='http://www.dota2.com/rekindlingsoul/'><font color='indianred'>6.82</font></a> - Sep. 25, 2014
 
 6.82 was a massive patch. Don't remember it by number? [This may jog your memory.](http://cdn.dota2.com/apps/dota2/images/rekindlingsoul/teaser.jpg)
 
@@ -76,11 +76,11 @@ Wait for it...
 
 Yep, that's it. Nothing more to talk about for this bala--
 
-* ###**RUNES GALORE**
+* ### **RUNES GALORE**
 
 jk. [Do you love hearing this sound effect every 15 seconds?](https://hydra-media.cursecdn.com/dota2.gamepedia.com/3/3f/Rune_of_Bounty.mp3) Boy, have I got the patch for you.
 
-* ###**LESS FREQUENT CAMP SPAWNS**
+* ### **LESS FREQUENT CAMP SPAWNS**
 
 Pulling is for the weak.
 
