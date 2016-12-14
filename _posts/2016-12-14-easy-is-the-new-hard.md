@@ -3,7 +3,7 @@ layout: "post"
 title: "Easy is the New Hard - 7.00's Offlane"
 date: "2016-12-14 10:31"
 summary:    Hard Laner? I hardly know her.
-feature-img: "/blog/img/easyhard/easyhardbanner.jpg"
+feature-img: "/img/easyhard/easyhardbanner.jpg"
 ---
 
 I do a lot of thinking about the offlane. Maybe it's because people  Maybe brown people are just genetically predisposed to enjoying the lane.
