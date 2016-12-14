@@ -3,7 +3,7 @@ baseurl: "/blog"
 url: "http://howdoiplay.com"
 
 # THEME-SPECIFIC CONFIGURATION
-theme:
+theme_settings:
   # Meta
   title: tsunami blog
   avatar: avatar.png
