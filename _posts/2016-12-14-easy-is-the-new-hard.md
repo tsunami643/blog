@@ -28,7 +28,7 @@ Not only did the pull camp no longer provide a substantial experience boost for 
 
 Minor changes, but still beneficial for offlaners. A sooner night meant supports would have a harder time finding you to zone you out and you could slip into the side shop a little easier.
 
-### [6.82](http://www.dota2.com/rekindlingsoul/) - Sep. 25, 2014
+### <font color='indianred'>[6.82](http://www.dota2.com/rekindlingsoul/)</font> - Sep. 25, 2014
 
 6.82 was a massive patch. Don't remember it by number? [This may jog your memory.](http://cdn.dota2.com/apps/dota2/images/rekindlingsoul/teaser.jpg)
 
@@ -43,6 +43,7 @@ Whereas in 7.00 we got:
 The terrain changes weren't too dramatic for the Radiant offlane, but the Dire offlane could now move straight into the side shop without eating any trees and the clump of trees to the left of the Dire offlane got some new routes.
 
 The bigger changes were:
+
 * **Added a Bounty Rune**
 * **Two runes now spawn in the river every two minutes. One of them will always be a Bounty Rune**
 
