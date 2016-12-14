@@ -10,7 +10,11 @@ I do a lot of thinking about the offlane. Maybe it's because people  Maybe brown
 
 When I started playing this game in 6.72 the offlane was the *hard* lane. You were shoved out into the cold with a paperclip and some bubble gum and expected to come back with a Blink Dagger within 20 minutes. I <abbr title="am">was</abbr> bad at the game back then, so I passionately avoided that lane. Then 6.79 dropped.
 
-### [6.79](http://dota2.gamepedia.com/Version_6.79) - Oct. 21, 2013
+----
+
+![Banner](/img/easyhard/679banner.png)
+
+### <a href='http://dota2.gamepedia.com/Version_6.79'><font color='indianred'>6.79</font></a> - Oct. 21, 2013
 * **Creeps now meet a bit closer to the tower in your offlane**
 
 To this day, this is one of my least favorite changes in Dota. Not because of the balance implications, but because of how inelegant of a solution it was. I can't find any record of the actual numbers, but basically it just meant that the creeps spawning in the offlane had slower movespeed. Until they reach the T2 tower. Then they went back to full speed. But after 7:30 they spawned at normal speed the whole time.
@@ -28,9 +32,13 @@ Not only did the pull camp no longer provide a substantial experience boost for 
 
 Minor changes, but still beneficial for offlaners. A sooner night meant supports would have a harder time finding you to zone you out and you could slip into the side shop a little easier.
 
+----
+
+![Banner](/img/easyhard/682banner.png)
+
 ### <a href='http://www.dota2.com/rekindlingsoul/'><font color='indianred'>6.82</font></a> - Sep. 25, 2014
 
-6.82 was a massive patch. Don't remember it by number? [This may jog your memory.](http://cdn.dota2.com/apps/dota2/images/rekindlingsoul/teaser.jpg)
+6.82 was a massive patch. Not necessarily for balance, it just brought the first map/terrain change the game had seen in years.
 
 Side note, I think the funniest part about looking back at this patch is how Valve justified shifting Rosh's pit ever so slightly with a full paragraph:
 
@@ -53,7 +61,11 @@ Bounty Runes themselves were nice, but a guaranteed rune near your lane made off
 
 Also helped. The offlane used to get rushed down heavily before this change. Glyphs coming back after a T1 tower went down meant being able to plow through 2 tiers of offlane towers was a less viable strategy. The offlane was spared the deathball.
 
-### [6.86](http://www.dota2.com/balanceofpower) - Dec. 16, 2015
+----
+
+![Banner](/img/easyhard/686banner.png)
+
+### <a href='http://www.dota2.com/balanceofpower'><font color='indianred'>6.86</font></a> - Dec. 16, 2015
 More terrain changes were added in the Balance of Power update. 'Changes' are putting it lightly, actually. This was the patch that added a brand new hard neutral camp right next to each teams' offlane next to their secret shop. Now by itself this wasn't too big a boon for offlaners. But say hello to a shiny new item by the name of:
 
 * **Iron Talon**
@@ -61,17 +73,23 @@ More terrain changes were added in the Balance of Power update. 'Changes' are pu
 
 Let me tell you something. I hate this item. I hate it what it stands for. I hate how it became a consolation prize for offlaners that couldn't take the heat and had to get out of the kitchen. I hate how it became nearly as good as actually staying in the lane. I hate how core it became on so many heroes. I hate how I could never bring myself to buy it because I was too stubborn to adapt.
 
-### [6.88b](http://dota2.gamepedia.com/Version_6.88b) - Jul. 12, 2016
+----
+
+![Banner](/img/easyhard/688banner.png)
+
+### <a href='http://dota2.gamepedia.com/Version_6.88b'><font color='indianred'>6.88b</font></a> - Jul. 12, 2016
 * **Lane creeps now give 20% experience when killed by neutral creeps, instead of 0%.**
 
 Wait for it.
 
-### [6.88c](http://dota2.gamepedia.com/Version_6.88c) - Aug. 19, 2016
+### <a href='http://dota2.gamepedia.com/Version_6.88c'><font color='indianred'>6.88c</font></a> - Aug. 19, 2016
 * **Lane creeps now give 35% experience when killed by neutral creeps, instead of 20%.**
 
 Wait for it...
 
-### [7.00](http://www.dota2.com/700/gameplay/#MapChanges) - Dec. 12, 2016
+----
+![Banner](/img/easyhard/700banner.png)
+### <a href='http://www.dota2.com/700/gameplay/#MapChanges'><font color='indianred'>7.00</font></a> - Dec. 12, 2016
 * **Lane creeps now give 50% experience when killed by neutral creeps, instead of 35%**
 
 Yep, that's it. Nothing more to talk about for this bala--
