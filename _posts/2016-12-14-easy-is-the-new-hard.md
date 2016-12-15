@@ -75,7 +75,7 @@ More terrain changes were added in the Balance of Power update. 'Changes' are pu
 * **Iron Talon**
   * *New item formed from Quelling Blade, Ring of Protection and a Recipe.*
 
-Let me tell you something. I hate this item. I hate it what it stands for. I hate how it became a consolation prize for offlaners that couldn't take the heat and had to get out of the kitchen. I hate how it became nearly as good as actually staying in the lane. I hate how core it became on so many heroes.
+Let me tell you something. I hate this item. I hate what it stands for. I hate how it became a consolation prize for offlaners that couldn't take the heat and had to get out of the kitchen. I hate how it became nearly as good as actually staying in the lane. I hate how core it became on so many heroes.
 
 I hate how I could never bring myself to buy it because I was too stubborn to adapt.
 
