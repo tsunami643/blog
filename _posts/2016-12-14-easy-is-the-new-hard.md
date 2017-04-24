@@ -3,7 +3,7 @@ layout: "post"
 title: "Easy is the New Hard - The 7.00 Offlane"
 date: "2016-12-14 10:31"
 summary:    Hard Laner? I hardly know her.
-feature-img: "/img/easyhard/easyhardbanner.jpg"
+feature-img: "img/easyhard/easyhardbanner.jpg"
 ---
 
 ## I do a lot of thinking about the offlane.
