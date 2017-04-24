@@ -24,6 +24,31 @@
 	{% if site.theme_settings.google_fonts %}
 	<link href="//fonts.googleapis.com/css?family={{ site.theme_settings.google_fonts }}" rel="stylesheet" type="text/css">
 	{% endif %}
+	
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@tsunami643">
+	<meta name="twitter:creator" content="@tsunami643">
+	{% if page.title %}
+	<meta name="twitter:title" content="{{ page.title }}">
+	{% else %}
+	<meta name="twitter:title" content="{{ site.title }}">
+	{% endif %}
+	{% if page.url %}
+	<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+	{% endif %}
+	{% if page.description %}
+	<meta name="twitter:description" content="{{ page.description }}">
+	{% else %}
+	<meta name="twitter:description" content="{{ site.description }}">
+	{% endif %}
+	{% if page.image %}
+	<meta name="twitter:image:src" content="{{ site.url }}/blog/img/{{ page.image }}">
+	{% else % }
+	<meta name="twitter:image:src" content="{{ site.url }}/blog/img/avatar.png">
+	{% else % }
+	<meta name="twitter:image:src" content="{{ site.url }}/blog/img/avatar.png">
+	{% endif %}
 
 	<!-- KaTeX -->
 	{% if site.theme_settings.katex %}
