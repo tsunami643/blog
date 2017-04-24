@@ -30,17 +30,17 @@
 	<meta name="twitter:site" content="@tsunami643">
 	<meta name="twitter:creator" content="@tsunami643">
 	{% if page.title %}
-	<meta name="twitter:title" content="{{ page.title }}">
+	<meta name="twitter:title" content="{{ page.title }} | howdoiplay blog">
 	{% else %}
-	<meta name="twitter:title" content="{{ site.title }}">
+	<meta name="twitter:title" content="{{ site.title }} | howdoiplay blog">
 	{% endif %}
 	{% if page.url %}
 	<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
 	{% endif %}
 	{% if page.summary %}
-	<meta name="twitter:description" content="{{ page.summary }}">
+	<meta name="twitter:description" content="{{ page.summary }} Written by @tsunami643">
 	{% else %}
-	<meta name="twitter:description" content="{{ site.summary }}">
+	<meta name="twitter:description" content="{{ site.summary }} Written by @tsunami643">
 	{% endif %}
 	{% if page.feature-img %}
 	<meta name="twitter:image" content="{{ site.url }}/blog/{{ page.feature-img }}">

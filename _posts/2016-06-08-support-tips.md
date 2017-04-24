@@ -2,7 +2,7 @@
 layout: "post"
 title: "10 Sexy Support Tips"
 date: "2016-06-08 17:45"
-summary:    Fun Fearless Five-Position
+summary:    Fun Fearless Five-Position.
 feature-img: "img/support/maidennew.jpg"
 ---
 

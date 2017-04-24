@@ -2,7 +2,7 @@
 layout: post
 title: Spring Cleaning 2016 Balance Notes
 date: "2016-03-23 12:47"
-summary:    Stealth 6.86g
+summary:    Stealth 6.86g.
 feature-img: "img/springcleaning.jpg"
 ---
 
