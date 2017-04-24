@@ -26,7 +26,7 @@
 	{% endif %}
 	
 	<!-- Twitter -->
-	<meta name="twitter:card" content="summary">
+	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:site" content="@tsunami643">
 	<meta name="twitter:creator" content="@tsunami643">
 	{% if page.title %}
@@ -42,7 +42,11 @@
 	{% else %}
 	<meta name="twitter:description" content="{{ site.summary }}">
 	{% endif %}
-	<meta name="twitter:image:src" content="{{ site.url }}/blog/img/avatar.png">
+	{% if page.feature-img %}
+	<meta name="twitter:image" content="{{ site.url }}/{{ page.feature-img }}">
+	{% else %}
+	<meta name="twitter:image" content="{{ site.url }}/blog/img/avatar.png">
+	{% endif %}
 
 	<!-- KaTeX -->
 	{% if site.theme_settings.katex %}
