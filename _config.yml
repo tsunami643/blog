@@ -14,10 +14,10 @@ theme_settings:
   header_text:
   header_text_feature_image:
   footer_text: >
-   Follow me <a href="http://www.twitter.com/tsunami643">@tsunami643</a>
+   follow me <a href="http://www.twitter.com/tsunami643">@tsunami643</a>
    <br>
    <br>
-   Back to <a href="http://howdoiplay.com">howdoiplay.com</a>
+   back to the <a href="http://howdoiplay.com/blog">blog</a> or <a href="http://howdoiplay.com">howdoiplay.com</a>
 
   # Icons
   rss: true
