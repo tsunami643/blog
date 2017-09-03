@@ -110,10 +110,7 @@ li > ul, li > ol {
     margin-bottom: 0;
     margin-left: 1em;
 }
-ul {
-  list-style-position: inside;
-}
-ol {
+ul, ol {
   list-style-position: outside;
 }
 hr {
