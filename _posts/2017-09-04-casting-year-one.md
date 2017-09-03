@@ -30,7 +30,7 @@ The following months of 2016 were mostly quiet from me. I was mainly doing YouTu
 
 I wanted to go to Seattle to watch Dota on a huge screen, meet a few internet friends and personalities IRL, and maybe, *just maybe,* get recognized by a fan or two. Recently, Nahaz made an interesting aside on an episode of [*The Fiend*](https://youtu.be/IQ79b0ozE0c?t=5028) where he stated that if he were to start taking a full-time esports career more seriously, a self-funded trip to TI would be seen as more pleasure than business. Now it’s entirely possible that at Nahaz’s level that’s true, but in my experience I’ve found it to be the complete opposite.
 
-## The International 2016 – Aug. 8-13, 2016
+## The International 2016 – *Aug. 8-13, 2016*
 
 Anyone who enjoys watching competitive Dota should really make an effort to attend a Dota LAN once. For anyone who enjoys watching competitive Dota and is trying to make it as a personality in this scene, that LAN should probably be The International. TI is the yearly DotaCon. Anyone who’s anyone is there. And if you’re not anyone, this is the best place to become someone.
 
@@ -51,7 +51,7 @@ We added each other on Steam and I thought to myself, “What a nice guy. This p
 
 I was half right.
 
-## Year One – Sept. 21, 2016
+## Year One – *Sept. 21, 2016*
 
 I have meticulously catalogued every competitive cast I’ve ever taken part in. My first was *iG vs. LFY - Loser's Bracket Round 2 - Mars Dota 2 League 2016 Autumn - China Qualifiers - Sept. 21, 2016.* Real teams with real players qualifying for a real tournament broadcasted on a real channel. This was the promised land.
 
@@ -73,19 +73,23 @@ I imagine that’s because people who didn’t like my other work weren’t obli
 
 Even other casters are cagey with their criticism when requested. I don’t know why. Maybe they’re afraid of hurting your feelings. Me? I don’t care about your feelings. It’s stupid how difficult it is for newcomer casters to get legitimate feedback from trusted sources, so I want to be the change I wish to see in the world. If you think you’ve hit a wall with improvement, then you can email your best/favorite cast (play-by-play or analytical) to me at feedback<i></i>@howdoiplay.com and I will tell you why it sucked. There is no deadline on this offer, so I would like you to take advantage of this only once you are convinced you don’t know what you’re doing wrong.
 
-## WESG 2016 Asia Pacific Finals – Nov. 9-12, 2016
+## WESG 2016 Asia Pacific Finals – *Nov. 9-12, 2016*
 
 After steady grinding for one whole whopping month, it was clearly time to get mine. Historically, Summit events had given lesser known community members a chance to work at a higher level, so I figured The Summit 6 would be an ideal event for me to step up. A year prior, I had asked Kpoptosis if there was any way I could show up to The Summit 4 as a content creator in a Flax/Slacks type capacity, but unsurprisingly I didn’t make the cut. I was given a similar response by Blaze when I asked to show up to TS6. Worth a shot.
 
 However, either due to that request or the fact that I was regularly casting Dota on the BTS channel, LD knew who I was and asked me if I’d be available to commentate the [WESG 2016 APAC Finals](http://wiki.teamliquid.net/dota2/World_Electronic_Sports_Games/2016/Asia_Pacific) from their LA studio. If you have no idea this happened, I don’t blame you. It was just me, Lyrical, and Eosin, working from like 8:00p-6:00a PST casting teams you've probably have never heard of. I didn’t mind, I was at the BTS studio. *The* BTS studio. From the internet.
 
-After some day one issues, StarLadder kept the matches running smoothly throughout the tournament and I was savoring the experience of getting to cast games live in-person. Due to the weird hours, though, it really was just us three at the studio every night. By the end of the fourth and final day, I was pretty disappointed that I didn’t really get to interact with any BTS members aside from the ever-attentive Grace who would check in on us to make sure we didn’t set fire to the place or kill each other. The production crew were knee deep in preparations for The Summit 6, so I asked LD if I could get a later flight to possibly help out.
+{:.center}
+![Studio](/blog/img/yearone/studio.jpg)
+<p style="text-align: center;"><i><sup>bts_irl</sup></i></p>
+
+Barring some day one issues, StarLadder kept the matches running smoothly throughout the tournament and I was savoring the experience of getting to cast games live in-person. Due to the weird hours, though, it really was just us three at the studio every night. By the end of the fourth and final day, I was pretty disappointed that I didn’t really get to interact with any BTS members aside from the ever-attentive Grace who would check in on us to make sure we didn’t set fire to the place or kill each other. The production crew were knee deep in preparations for The Summit 6, so I asked LD if I could get a later flight to possibly help out.
 
 Even though my workplace wasn’t too pleased that I suddenly extended my impromptu vacation, I’m still very glad I got to stay those extra days. Not just because I was able to confirm that BTS did, in fact, have a staff, but it was rare opportunity to see what happens behind the curtain of an esports event. The logistics that go into equipment preparations, network infrastructure, schedule coordination, content production, sponsor arrangements, set design, lighting, hospitality, and nerd-proofing a house.
 
 I was satisfied with my first live commentary experience, seeing BTS in their pre-production element was educational, and I randomly ended up getting to spend half a day with Merlini at the DMV. I can't wait for something like this to happen again.
 
-## Practice – Nov. 2016 - Mar. 2017
+## Practice – *Nov. 2016-Mar. 2017*
 
 Turns out I could wait. Momentum in esports shifts like the tides and the water was definitely out for these few months. Here, I'd like to stress the value of social media in this industry. I originally created my [Twitter](https://www.twitter.com/tsunami643) when I was with Team eHug because I needed some central place to attribute my work to. Since then, Twitter has quietly climbed up my Chrome’s New Tab ranks and is now my most frequently visited site, beating out Reddit. Sure, it's an easy way to make yourself more known and Dota Twitter is a very amusing time waster, but it can also be surprisingly useful at times. You want to know how I got to cast with Capitalist for the [DAC 2017 EU Qualifier Finals](https://www.twitch.tv/videos/121055825)?
 
@@ -98,7 +102,7 @@ A month before this, BreakyCPK had sent out a generic ping requesting a co-caste
 
 The moral of the story is if you waste your entire day on your computer instead of being a social human being, you too can luck into esports opportunities.
 
-## Kiev Major Regional Qualifiers – CIS Region – Mar. 10-11, 2017
+## Kiev Major Regional Qualifiers – CIS Region – *Mar. 10-11, 2017*
 
 BTS released the talent invites for their Kiev Hub in early March and once I scrolled through it a few times to verify I wasn't on it, I figured I'd be on sabbatical for the next few weeks. Then around 72 hours before the qualifiers were set to begin, I learned that being invited to a Hub and being given qualifier games to cast are not mutually exclusive. Valve/PGL had assigned me 12 matches of the CIS region's group stage to cast over two days. Officially. By myself. At home.
 
@@ -154,7 +158,7 @@ test
 
 {:.center}
 ![Lookbook](/blog/img/yearone/lookbook.jpg)
-<p style="text-align: center;"><i><sup>Prep chic, flannelcore, athleisure hypebeast</sup></i></p>
+<p style="text-align: center;"><i><sup>Prep, flannelcore, athleisure hypebeast</sup></i></p>
 
 test
 
