@@ -104,21 +104,21 @@ BTS released the talent invites for their Kiev Hub in early March and once I scr
 
 Here's a quick rundown on how to not suck at broadcasting Dota:
 
-1. Get a good microphone
+1. #### Get a good microphone
 
    If you are even remotely serious about any sort of content production that involves your voice, get a real microphone. I use a pretty entry level [Audio Technica ATR2100-USB.](https://www.amazon.com/Audio-Technica-ATR2100-USB-Cardioid-Dynamic-Microphone/dp/B004QJOZS4) If you can, get an arm or shock mount as well to reduce keyboard sounds.
 
    I automatically add or deduct points from a caster's competency based on their audio quality, true facts.
 
-2. Test your stream
+2. #### Test your stream
 
-    This is such a simple checkpoint, but so many novice broadcasters still fail to do it. Here's my procedure: Do a local recording in your stream client. Check your draft, in-game, and between game overlays. Pretend-cast a quiet laning phase and a **LOUD TEAMFIGHT** to check audio levels. If you have a co-caster, get them ready in your VoIP client of choice (\*cough* Discord) and make sure your volumes sound even. If your recording looks and sounds solid, then hopefully your stream will too.
+   This is such a simple checkpoint, but so many novice broadcasters still fail to do it. Here's my procedure: Do a local recording in your stream client. Check your draft, in-game, and between game overlays. Pretend-cast a quiet laning phase and a **LOUD TEAMFIGHT** to check audio levels. If you have a co-caster, get them ready in your VoIP client of choice (\*cough* Discord) and make sure your volumes sound even. If your recording looks and sounds solid, then hopefully your stream will too.
 
    If you want to make doubly sure: Create a dummy Twitch account, enable VoDs, stream to that channel, and then check the VoD. This is also a good way to verify if your delay settings are working correctly.
 
-3. Configure your in-game audio
+3. #### Configure your in-game audio
 
-    Dota TV is extremely finicky and overall much lower quality audio-wise than Twitch, but a lot of people watch in-game and you should make the effort to cater to them. More importantly, many Dota YouTubers will capture match VoDs from downloaded replays and if you sound like garbage, viewers will instantly despise you.
+   Dota TV is extremely finicky and overall much lower quality audio-wise than Twitch, but a lot of people watch in-game and you should make the effort to cater to them. More importantly, many Dota YouTubers will capture match VoDs from downloaded replays and if you sound like garbage, viewers will instantly despise you.
 
    Right click on Dota in your Steam library -> Properties -> Launch Options and paste in.
 
@@ -130,18 +130,17 @@ Here's a quick rundown on how to not suck at broadcasting Dota:
 
    If you've configured things properly, you should be able to hear yourself in-game the way people in Dota TV will hear you.
 
-4. Learn camera control
+4. #### Learn camera control
 
-    I'm not going to get into the nitty gritty of this, I'm just going to ship you off to [Pimpmuckl's blog.](https://pimpmuckl.wordpress.com/2016/04/29/castingobs-configtutorial/)
+   I'm not going to get into the nitty gritty of this, I'm just going to ship you off to [Pimpmuckl's blog.](https://pimpmuckl.wordpress.com/2016/04/29/castingobs-configtutorial/)
 
    Actually, there are [multiple posts of his](https://pimpmuckl.wordpress.com/2016/07/11/audio-settings-for-casters-cocasters-and-streamers/) that are [relevant to this entire discussion.](https://pimpmuckl.wordpress.com/2016/08/30/finding-the-best-streaming-settings/)
 
-5. Pay attention to chat
+5. #### Pay attention to chat
 
    I'm not entirely sure this is good advice for everyone, but I've found chat to be fairly useful as a broadcaster. You can quickly find out if you're doing something egregiously wrong based off chat's reaction. Volume issues, overlay issues, still being on Last Hits twenty minutes into the game. Chat will tell you. Then you will tell them, "Hey sorry, this will be fixed in two minutes once the delay catches up." Then they will fail to understand the concept of a delay and continue freaking out.
 
    Life of a producer.
-
 
  I'm very grateful for those who vouched me to broadcast such a high profile event and it was incredibly validating for that vouch to be approved by an official body. That being said, I did far from my best work. Solo casting is not my wheelhouse, but at the end of the day it could have gone a lot worse. Thanks to all the Na'Vi games I had, I even showed up in a few NUA videos and the beginning of this Kiev Major Qualifier highlight reel.
 
