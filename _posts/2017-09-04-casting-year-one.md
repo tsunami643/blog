@@ -147,7 +147,7 @@ Here's a quick rundown on how to not suck at broadcasting Dota:
 
    Life of a producer.
 
- I'm very grateful for those who vouched me to broadcast such a high profile event and it was incredibly validating for that vouch to be approved by an official body. That being said, I did far from my best work. Solo casting is not my wheelhouse, but at the end of the day it could have gone a lot worse. Thanks to all the Na'Vi games I had, I even showed up in a few NUA videos and the beginning of this Kiev Major Qualifier highlight reel.
+ I'm very grateful for those who vouched me to broadcast such a high profile event and it was incredibly validating for that vouch to be approved by an official body. That being said, I did far from my best work. Solo casting is not my wheelhouse, but at the end of the day it could have gone a lot worse. I even showed up in a few NUA videos and the beginning of this Kiev Major Qualifier highlight reel.
 
 <div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="https://www.youtube.com/embed/0siUu5cI0hg?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
