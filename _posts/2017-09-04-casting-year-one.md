@@ -41,7 +41,7 @@ To me, the word ‘networking’ has always painted this dubious, corporate imag
 There is absolutely a degree of shamelessness to it. Would you speak to this person if you didn’t think they had any potential to better your career? If the answer is an unrepentant no, it’s usually pretty transparent and ppd may throw you in the trash.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">Everyone who gave me a business card at the after-party I wanted to let you know that I left them in the trash.</p>&mdash; Peter Dager (@Peterpandam) <a href="https://twitter.com/Peterpandam/status/896834451149275136">August 13, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><p></p>
 
 If the answer is yes, then your motive isn’t really relevant. Did you enjoy something that someone did on the internet? You should find a way to tell that person. Congratulations, you just networked. If you enjoyed speaking to someone, chances are you would probably like working with them too. If you’re lucky, the feeling is mutual.
 
@@ -90,7 +90,7 @@ I was satisfied with my first live commentary experience, seeing BTS in their pr
 Turns out I could wait. Momentum in esports shifts like the tides and the water was definitely out for these few months. Here, I'd like to stress the value of social media in this industry. I originally created my [Twitter](https://www.twitter.com/tsunami643) when I was with Team eHug because I needed some central place to attribute my work to. Since then, Twitter has quietly climbed up my Chrome’s New Tab ranks and is now my most frequently visited site, beating out Reddit. Sure, it's an easy way to make yourself more known and Dota Twitter is a very amusing time waster, but it can also be surprisingly useful at times. You want to know how I got to cast with Capitalist for the [DAC 2017 EU Qualifier Finals](https://www.twitch.tv/videos/121055825)?
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">I might need a cocaster when I wake up in 2.5 hours, who&#39;s in <a href="https://t.co/dI9deejYQL">https://t.co/dI9deejYQL</a></p>&mdash; Capitalist (@DotACapitalist) <a href="https://twitter.com/DotACapitalist/status/830013107388887040">February 10, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><p></p>
 
 That's about as good of an invitation as you could ever get to cold call a caster. I had never spoken to Cap before, although I did once [commiserate with him *on Twitter*](https://twitter.com/tsunami643/status/758089781007880192), but being that I was pretty much his only readily available choice at the last moment, he took me on.
 
