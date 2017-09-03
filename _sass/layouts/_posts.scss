@@ -1,6 +1,9 @@
 article,
 .comments {
   @extend %padding-regular;
+  @media screen and (max-width: 576px) {
+      padding: $padding-small;
+    }
   border-bottom: 1px solid $border-color;
   float: left;
   width: 100%;
@@ -49,6 +52,13 @@ header {
   }
 }
 
+@media screen and (max-width: 576px) {
+  .feature-image .post-content {
+    padding: $padding-small;
+  }
+}
+
+// HOWDOIPLAY SPECIFIC CSS
 .center {
   text-align: center;
 }
@@ -66,6 +76,9 @@ img[alt="Hero"] {
   width:100%;
   border-bottom: 1px solid $border-color;
   display: flex;
+  @media screen and (max-width: 576px) {
+    flex-direction: column;
+  }
   float: left;
 
   a, .page-title {
@@ -83,6 +96,9 @@ img[alt="Hero"] {
     border: 1px solid rgba(255, 255, 255, 0);
     text-align: center;
     width: 50%;
+    @media screen and (max-width: 576px) {
+      width: 100%;
+    }
   }
   a:hover {
     @extend a.button:hover;
