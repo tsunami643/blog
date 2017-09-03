@@ -57,8 +57,8 @@ I have meticulously catalogued every competitive cast I’ve ever taken part in.
 
 Once upon a time, I thought this cast was pretty good.
 
-<div class="video-container" style="text-align: center;"><iframe src="https://player.twitch.tv/?video=v90535107&t=17m20s&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="472" width="840"></iframe></div><p></p>
-<p style="text-align: center;"><i><sup>Cast starts at 17m20s</sup></i></p>
+<div class="video-container" style="text-align: center;"><iframe src="https://player.twitch.tv/?video=v90535107&t=17m20s&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="472" width="840"></iframe></div>
+<p style="text-align: center;"><i><sup>Starts at 17m20s</sup></i></p>
 
 Listening to it now feels like some /r/blunderyears type shit.
 
