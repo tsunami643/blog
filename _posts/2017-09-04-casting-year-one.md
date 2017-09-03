@@ -57,7 +57,7 @@ I have meticulously catalogued every competitive cast I’ve ever taken part in.
 
 Once upon a time, I thought this cast was pretty good.
 
-    <div class="video-container" style="text-align: center;"><iframe src="https://player.twitch.tv/?video=v90535107?t=17m20s&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="472" width="840"></iframe></div><p></p>
+<div class="video-container" style="text-align: center;"><iframe src="https://player.twitch.tv/?video=v90535107?t=17m20s&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="472" width="840"></iframe></div><p></p>
 
 Listening to it now feels like some /r/blunderyears type shit.
 
@@ -148,7 +148,7 @@ Here's a quick rundown on how to not suck at broadcasting Dota:
 
  I'm very grateful for those who vouched me to broadcast such a high profile event and it was incredibly validating for that vouch to be approved by an official body. That being said, I did far from my best work. Solo casting is not my wheelhouse, but at the end of the day it could have gone a lot worse. Thanks to all the Na'Vi games I had, I even showed up in a few NUA videos and the beginning of this Kiev Major Qualifier highlight reel.
 
-    <div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="https://www.youtube.com/embed/0siUu5cI0hg?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="https://www.youtube.com/embed/0siUu5cI0hg?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 <p style="text-align: center;"><i><sup>Look out for "They get all..." on the 2018 audio Chat Wheel lines</sup></i></p>
 
