@@ -40,6 +40,7 @@ To me, the word ‘networking’ has always painted this dubious, corporate imag
 
 There is absolutely a degree of shamelessness to it. Would you speak to this person if you didn’t think they had any potential to better your career? If the answer is an unrepentant no, it’s usually pretty transparent and ppd may throw you in the trash.
 
+{:.center}
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Everyone who gave me a business card at the after-party I wanted to let you know that I left them in the trash.</p>&mdash; Peter Dager (@Peterpandam) <a href="https://twitter.com/Peterpandam/status/896834451149275136">August 13, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -57,7 +58,7 @@ I have meticulously catalogued every competitive cast I’ve ever taken part in.
 
 Once upon a time, I thought this cast was pretty good.
 
-<div class="video-container" style="text-align: center;"><iframe src="https://player.twitch.tv/?video=v90535107?t=17m20s&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="472" width="840"></iframe></div><p></p>
+    <div class="video-container" style="text-align: center;"><iframe src="https://player.twitch.tv/?video=v90535107?t=17m20s&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="472" width="840"></iframe></div><p></p>
 
 Listening to it now feels like some /r/blunderyears type shit.
 
@@ -104,19 +105,19 @@ BTS released the talent invites for their Kiev Hub in early March and once I scr
 
 Here's a quick rundown on how to not suck at broadcasting Dota:
 
-1. **Get a good microphone**
+1. Get a good microphone
 
    If you are even remotely serious about any sort of content production that involves your voice, get a real microphone. I use a pretty entry level [Audio Technica ATR2100-USB.](https://www.amazon.com/Audio-Technica-ATR2100-USB-Cardioid-Dynamic-Microphone/dp/B004QJOZS4) If you can, get an arm or shock mount as well to reduce keyboard sounds.
 
    I automatically add or deduct points from a caster's competency based on their audio quality, true facts.
 
-2. **Test your stream**
+2. Test your stream
 
     This is such a simple checkpoint, but so many novice broadcasters still fail to do it. Here's my procedure: Do a local recording in your stream client. Check your draft, in-game, and between game overlays. Pretend-cast a quiet laning phase and a **LOUD TEAMFIGHT** to check audio levels. If you have a co-caster, get them ready in your VoIP client of choice (\*cough* Discord) and make sure your volumes sound even. If your recording looks and sounds solid, then hopefully your stream will too.
 
    If you want to make doubly sure: Create a dummy Twitch account, enable VoDs, stream to that channel, and then check the VoD. This is also a good way to verify if your delay settings are working correctly.
 
-3. **Configure your in-game audio**
+3. Configure your in-game audio
 
     Dota TV is extremely finicky and overall much lower quality audio-wise than Twitch, but a lot of people watch in-game and you should make the effort to cater to them. More importantly, many Dota YouTubers will capture match VoDs from downloaded replays and if you sound like garbage, viewers will instantly despise you.
 
@@ -129,13 +130,13 @@ Here's a quick rundown on how to not suck at broadcasting Dota:
          voice_loopback 1
    If you've configured things properly, you should be able to hear yourself in-game the way people in Dota TV will hear you.
 
-4. **Learn camera control**
+4. Learn camera control
 
     I'm not going to get into the nitty gritty of this, I'm just going to ship you off to [Pimpmuckl's blog.](https://pimpmuckl.wordpress.com/2016/04/29/castingobs-configtutorial/)
 
    Actually, there are [multiple posts of his](https://pimpmuckl.wordpress.com/2016/07/11/audio-settings-for-casters-cocasters-and-streamers/) that are [relevant to this entire discussion.](https://pimpmuckl.wordpress.com/2016/08/30/finding-the-best-streaming-settings/)
 
-5. **Pay attention to chat**
+5. Pay attention to chat
 
    I'm not entirely sure this is good advice for everyone, but I've found chat to be fairly useful as a broadcaster. You can quickly find out if you're doing something egregiously wrong based off chat's reaction. Volume issues, overlay issues, still being on Last Hits twenty minutes into the game. Chat will tell you. Then you will tell them, "Hey sorry, this will be fixed in two minutes once the delay catches up." Then they will fail to understand the concept of a delay and continue freaking out.
 
@@ -144,13 +145,19 @@ Here's a quick rundown on how to not suck at broadcasting Dota:
 
  I'm very grateful for those who vouched me to broadcast such a high profile event and it was incredibly validating for that vouch to be approved by an official body. That being said, I did far from my best work. Solo casting is not my wheelhouse, but at the end of the day it could have gone a lot worse. Thanks to all the Na'Vi games I had, I even showed up in a few NUA videos and the beginning of this Kiev Major Qualifier highlight reel.
 
-<div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="https://www.youtube.com/embed/0siUu5cI0hg?rel=0" frameborder="0" allowfullscreen></iframe></div>
+    <div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="https://www.youtube.com/embed/0siUu5cI0hg?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
 <p style="text-align: center;"><i><sup>Look out for "They get all..." on the 2018 audio Chat Wheel lines</sup></i></p>
 
 ## Placeholder
 
-something
+test
+
+{:.center}
+![Lookbook](/blog/img/yearone/lookbook.jpg)
+<p style="text-align: center;"><i><sup>Prep chic, flannelcore, athleisure hypebeast</sup></i></p>
+
+test
 
 ## Placeholder
 
