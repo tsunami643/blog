@@ -93,6 +93,13 @@ p, ol, ul, dl, .math-display {
   line-height: 1.5;
   margin-bottom: 1em;
 }
+
+//FIX LIST CSS
+ul, ol, dl {
+  margin: 0 0 15px 0;
+  padding-left: 20px;
+}
+
 // KaTeX math display
 .math-display {
   display: inline-block;
