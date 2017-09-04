@@ -8,7 +8,7 @@ feature-img: "img/yearone/castheader.jpg"
 
 ### I've always found comfort in reading other people's esports tales.
 
-Like from [Blitz](http://www.liquiddota.com/blogs/492656-1-2-year-summary-for-blitz), or [Capitalist](http://capitalist.gg/2016/10/26/test-post/), or [Khezu](http://www.twitlonger.com/show/n_1spa1k0), or [LD](http://www.liquiddota.com/blogs/488753-the-hardest-time-of-year), or [ppd](http://peterpandam.blogspot.com.au/2015/08/post-ti5-blog.html?m=1), or [Sheever](http://sheevergaming.com/cancer-sucks/), or [Envy](http://www.liquiddota.com/forum/dota-2-general/453564-becoming-a-dota-2-pro-my-experience-and-thoughts), or [Envy](http://www.liquiddota.com/blogs/473477-my-perspective-on-%EF%BC%A4%EF%BD%8F%EF%BD%94%EF%BC%A1%EF%BC%92), or [*Envy*](https://web.archive.org/web/20161009162806/http://npgame.gg/blog/himitsumonogatari.html), or the original (now deleted) B L O G B O Y himself, [Fluff.](https://www.reddit.com/r/DotA2/comments/207gdn/liquidfluffs_newst_blog_post_crash_and_burn_im/) So often do you only see the successes of people, but I think esports is rare in how intimately many personalities will also share with you their toils. These blogs aren't just worthwhile for their [historical significance](http://www.liquiddota.com/forum/dota-2-general/454226-going-on-leave-from-university-to-play-dota-2), but they also give perspective for the people who are looking to follow their same path.
+Like from [Blitz](http://www.liquiddota.com/blogs/492656-1-2-year-summary-for-blitz), or [Capitalist](http://capitalist.gg/2016/10/26/test-post/), or [Khezu](http://www.twitlonger.com/show/n_1spa1k0), or [LD](http://www.liquiddota.com/blogs/488753-the-hardest-time-of-year), or [ppd](http://peterpandam.blogspot.com.au/2015/08/post-ti5-blog.html?m=1), or [Envy](http://www.liquiddota.com/forum/dota-2-general/453564-becoming-a-dota-2-pro-my-experience-and-thoughts), or [Envy](http://www.liquiddota.com/blogs/473477-my-perspective-on-%EF%BC%A4%EF%BD%8F%EF%BD%94%EF%BC%A1%EF%BC%92), or [*Envy*](https://web.archive.org/web/20161009162806/http://npgame.gg/blog/himitsumonogatari.html), or the original (now deleted) B L O G B O Y himself, [Fluff.](https://www.reddit.com/r/DotA2/comments/207gdn/liquidfluffs_newst_blog_post_crash_and_burn_im/) So often do you only see the successes of people, but I think esports is rare in how intimately many personalities will also share with you their toils. These blogs aren't just worthwhile for their [historical significance](http://www.liquiddota.com/forum/dota-2-general/454226-going-on-leave-from-university-to-play-dota-2), but they also give perspective for the people who are looking to follow their same path.
 
 Nearly everyone at TI7 told me this next year is going to be straight milk and honey for casters like me. Tons of events, an obscene number of qualifiers, and an official *"structure"* defined by Valve to boot. A chance to take this voice on the road. Assuming that's all true, though, there will also be many, many, ambitious casters looking for their first breaks in the coming months. Now I've never been much of a blog guy myself, which is strange seeing as how I enjoy writing and am also painfully narcissistic. But I never review my Amazon purchases and I always ignore the extra $0.90 Google Opinion Rewards would give me to rate a restaurant, so I guess it's only fitting I let Dota be the one aspect of my life where I'm not a leech on society.
 
@@ -111,7 +111,7 @@ The moral of the story is if you waste your entire day on your computer instead 
 
 BTS released the talent invites for their Kiev Hub in early March and once I scrolled through it a few times to verify I wasn't on it, I figured I'd be on sabbatical for the next few weeks. Then around 72 hours before the qualifiers were set to begin, I learned that being invited to a Hub and being given qualifier games to cast are not mutually exclusive. Valve/PGL had assigned me 12 matches of the CIS region's group stage to cast over two days. Officially. By myself. At home.
 
-O-okay. No problem. I'd done this before... for 50 people with no stakes, but whatever. It wasn't so much the casting that had me concerned, but the fact that I couldn't guarantee if my internet connection would stay stable. I was still streaming every once in a while on Twitch recreationally, but any of my viewers would quickly tell you that my connection is [frustratingly](/blog/img/yearone/tracert.jpg) [unreliable.](/blog/img/yearone/tracert2.jpg) In the limited time I had, I tried taking a few precautions. I called Comcast to see if they could fix any routing (they didn't), I updated the firmware on my router (did nothing), I even went through the trouble of adding some subtle moving embers to the static production asset I was provided.
+O-okay. No problem. I'd done this before... for 50 people with no stakes, but whatever. It wasn't so much the solo casting that had me concerned, but the fact that I couldn't guarantee that my internet connection would stay stable. I was still streaming every once in a while on Twitch recreationally, but any of my viewers would quickly tell you that my connection is [frustratingly](/blog/img/yearone/tracert.jpg) [unreliable.](/blog/img/yearone/tracert2.jpg) In the limited time I had, I tried taking a few precautions. I called Comcast to see if they could fix any routing (they didn't), I updated the firmware on my router (did nothing), I even went and added some tiny moving embers to the static production asset we were provided.
 
 <div class="video" style="text-align: center;">
 <video playsinline autoplay loop muted poster="/blog/img/yearone/kievfinal.jpg" width="750">
@@ -121,7 +121,7 @@ O-okay. No problem. I'd done this before... for 50 people with no stakes, but wh
 </video></div>
 <p></p>
 
-This wasn't just for the *#productionvalue*, but to help me notice if I was dropping frames between games as I watched the delayed stream on my laptop. The rest of the show came from experience, so here's a quick rundown on how to not suck at broadcasting Dota:
+This wasn't just for the *#productionvalue*, but to help me notice how bad frame drops may be between games as I watched the delayed stream on my laptop. The rest of the show came from experience, so here's a quick rundown on how to not suck at broadcasting Dota:
 
 1. #### Get a good microphone
 
@@ -167,16 +167,37 @@ This wasn't just for the *#productionvalue*, but to help me notice if I was drop
 
 <p style="text-align: center;"><i><sup>Look out for "They get all..." on the 2018 audio Chat Wheel lines</sup></i></p>
 
-## Placeholder
+## The International 2017 Qualifiers – BTS ‘Hot Hub TI Machine’ – Jun. 23-30, 2017
 
-test
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">hello friends, end of june 2017 on the twitch enjoy one whole week of<br><br>tsunami_irl <a href="https://t.co/u4BjBCKcpG">pic.twitter.com/u4BjBCKcpG</a></p>&mdash; tsunami (@tsunami643) <a href="https://twitter.com/tsunami643/status/872886174142124036">June 8, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+In May, I was asked if I would be interested in attending the BTS TI7 Hub. I had watched every TI Hub since its inception and now I was actually going to be a part of one. After the WESG event, I was already familiar with some aspects of casting live. However, paneling, tricasting, and doing all this in concert with a production team would be new territory for me.
+
+The other new thing would be appearing live, on camera. I had shown my face before in *Be the Better Support*, but I still enjoyed that veil between my real life and internet life. Preserving that was just a personal thing, though recently it was becoming clearer to me that it wasn't helping my career interests. The number of people who recognize me off voice rather than off looks is like 10:1 based off my trips to The Boston Major and TIs. And I don't talk a lot when I'm walking around. So I was more excited, than apprehensive, about appearing on stream. None of these people know who I am. I could be anyone. I could be cool. I could be a dude with a beard. I could dress however I want.
 
 {:.center}
 ![Lookbook](/blog/img/yearone/lookbook.jpg)
 <p style="text-align: center;"><i><sup>Preppy casual, flannelcore, athleisure hypebeast</sup></i></p>
 
-test
+There were many milestones achieved in the span of that one woefully quick week. I got to cast a multiple games with Draskyl, LD, Merlini, ODPixel, and Tobi. I got to collaborate with content producers whose work I've respected for years with HotBid, Fwosh, and Pyrion.
 
-## Placeholder
+But most importantly, I got to prove to myself that I am able to keep pace with the best. The best. These people are among *the best in the world* at what they do. Yeah, maybe providing commentary for one specific competitive video game in English on the internet isn't the most revered craft, but how often do you get the opportunity to work with someone who's literally the best in their field? I worked one summer at Dairy Queen and I was a 10k MMR prodigy at making Blizzards, but there will never be a <abbr title="It'd be more entertaining to watch than competitive Overwatch, though. HEYOOO.">Blizzternational for me to demonstrate my mastery.</abbr>
 
-something else
+In any industry, when you're unproven, you're a risk. My invitation to this Hub was a risk. *He's never worked an event before, he's never participated in a panel before, he's only done games with like 3 different shoutcasters.* I know I'm good, but that doesn't matter if no one else knows. The sooner you can prove you're an asset, the less risky you become. *He's a competent caster, he has a voice people like, he made some YouTube videos Reddit enjoyed, he doesn't seem like a prick.* If and when someone decides you're a risk worth taking, then you do your best to convince them it was worth it.
+
+## Vanity Stats – Sep. 2016 - Jul. 2017
+
+Ticketed casts: *143 pro games according to datdota*
+
+Events attended: *2*
+
+Favorite game cast: [*Na'Vi vs. Alliance - Winner's Finals Game 2 - DOTA Summit 7 - European Qualifier - May 13, 2017*](http://www.dotabuff.com/matches/3176125586) -- [YouTube VoD](https://www.youtube.com/watch?v=-RRktajAlY0) | [Twitch VoD](https://www.twitch.tv/videos/143014763) | [Highlights](https://www.youtube.com/watch?v=yqveKqA7c8w)
+
+## The future, except not on a twitlonger so who cares
+
+A lot happened for me in the past twelve months, but this has been a journey four years in the making. I wrote [that first volume of tips](https://www.reddit.com/r/DotA2/comments/18reu6/tsunamis_hero_tips_and_counters_vol_i/) when I was supposed to be paying attention in an Immunology course. *Be the Better Carry* came about from an idea I had when Lil B popped up on shuffle during a conversation with a coworker. In an Asian family, pursuing a career path in any creative field is quite taboo. To be fair, I'm sure my parents were right and film school would have *probably* been a fool's errand. Esports is an entertainment industry like any other. It's volatile. Backing a game by an inscrutable company like Valve is even riskier. If tomorrow Valve randomly announced that TI8 would be the last TI ever, I honestly wouldn't even be surprised. But I've been playing it safe for quite a while and my mind is never further from work than when I'm at some Dota event.
+
+A year ago, I was on the precipice of leaving content production altogether. Now I'm wondering at what point should I roll the dice to pursue it full time.
+<p></p>
+...and become the first professional Artifact commentator.
