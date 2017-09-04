@@ -51,7 +51,7 @@ We added each other on Steam and I thought to myself, “What a nice guy. This p
 
 I was half right.
 
-## Year One – *Sept. 21, 2016*
+## Year One – *Sep. 21, 2016*
 
 I have meticulously catalogued every competitive cast I’ve ever taken part in. My first was *iG vs. LFY - Loser's Bracket Round 2 - Mars Dota 2 League 2016 Autumn - China Qualifiers - Sept. 21, 2016.* Real teams with real players qualifying for a real tournament broadcasted on a real channel. This was the promised land.
 
@@ -167,7 +167,7 @@ This wasn't just for the *#productionvalue*, but to help me notice how bad frame
 
 <p style="text-align: center;"><i><sup>Look out for "They get all..." on the 2018 audio Chat Wheel lines</sup></i></p>
 
-## The International 2017 Qualifiers – BTS ‘Hot Hub TI Machine’ – Jun. 23-30, 2017
+## The International 2017 Qualifiers – BTS ‘Hot Hub TI Machine’ – *Jun. 23-30, 2017*
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">hello friends, end of june 2017 on the twitch enjoy one whole week of<br><br>tsunami_irl <a href="https://t.co/u4BjBCKcpG">pic.twitter.com/u4BjBCKcpG</a></p>&mdash; tsunami (@tsunami643) <a href="https://twitter.com/tsunami643/status/872886174142124036">June 8, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -186,13 +186,13 @@ But most importantly, I got to prove to myself that I am able to keep pace with 
 
 In any industry, when you're unproven, you're a risk. My invitation to this Hub was a risk. *He's never worked an event before, he's never participated in a panel before, he's only done games with like 3 different shoutcasters.* I know I'm good, but that doesn't matter if no one else knows. The sooner you can prove you're an asset, the less risky you become. *He's a competent caster, he has a voice people like, he made some YouTube videos Reddit enjoyed, he doesn't seem like a prick.* If and when someone decides you're a risk worth taking, then you do your best to convince them it was worth it.
 
-## Vanity Stats – Sep. 2016 - Jul. 2017
+## Vanity Stats – *Sep. 2016-Jul. 2017*
 
 Ticketed casts: *143 pro games according to datdota*
 
 Events attended: *2*
 
-Favorite game cast: [*Na'Vi vs. Alliance - Winner's Finals Game 2 - DOTA Summit 7 - European Qualifier - May 13, 2017*](http://www.dotabuff.com/matches/3176125586) -- [YouTube VoD](https://www.youtube.com/watch?v=-RRktajAlY0) | [Twitch VoD](https://www.twitch.tv/videos/143014763) | [Highlights](https://www.youtube.com/watch?v=yqveKqA7c8w)
+Favorite game cast: [*Na'Vi vs. Alliance - Winner's Finals Game 2 - DOTA Summit 7 - European Qualifier - May 13, 2017*](http://www.dotabuff.com/matches/3176125586) -- [YouTube VoD](https://www.youtube.com/watch?v=-RRktajAlY0) \| [Twitch VoD](https://www.twitch.tv/videos/143014763) \| [Highlights](https://www.youtube.com/watch?v=yqveKqA7c8w)
 
 ## The future, except not on a twitlonger so who cares
 
