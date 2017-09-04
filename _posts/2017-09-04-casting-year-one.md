@@ -113,7 +113,7 @@ BTS released the talent invites for their Kiev Hub in early March and once I scr
 
 O-okay. No problem. I'd done this before... for 50 people with no stakes, but whatever. It wasn't so much the casting that had me concerned, but the fact that I couldn't guarantee if my internet connection would stay stable. I had still been streaming recreationally, but any of my viewers would quickly tell you that my connection is [frustratingly](/blog/img/yearone/tracert.jpg) [unreliable.](/blog/img/yearone/tracert2.jpg) I even went through the trouble of adding some subtle moving embers to the static production asset I was provided.
 
-<div class="video-container" style="text-align: center;"><video src="/blog/img/yearone/kievfinal.webm" width="750" autoplay loop></video></div>
+<div class="video" style="text-align: center;"><video src="/blog/img/yearone/kievfinal.webm" width="750" autoplay loop></video></div><br>
 
 This wasn't for the #productionvalue, but to help quickly notice if I was dropping frames between games as I watched the delayed stream on my laptop. The rest of the show came from experience, so here's a quick rundown on how to not suck at broadcasting Dota:
 
