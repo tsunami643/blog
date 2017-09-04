@@ -111,11 +111,17 @@ The moral of the story is if you waste your entire day on your computer instead 
 
 BTS released the talent invites for their Kiev Hub in early March and once I scrolled through it a few times to verify I wasn't on it, I figured I'd be on sabbatical for the next few weeks. Then around 72 hours before the qualifiers were set to begin, I learned that being invited to a Hub and being given qualifier games to cast are not mutually exclusive. Valve/PGL had assigned me 12 matches of the CIS region's group stage to cast over two days. Officially. By myself. At home.
 
-O-okay. No problem. I'd done this before... for 50 people with no stakes, but whatever. It wasn't so much the casting that had me concerned, but the fact that I couldn't guarantee if my internet connection would stay stable. I had still been streaming recreationally, but any of my viewers would quickly tell you that my connection is [frustratingly](/blog/img/yearone/tracert.jpg) [unreliable.](/blog/img/yearone/tracert2.jpg) I even went through the trouble of adding some subtle moving embers to the static production asset I was provided.
+O-okay. No problem. I'd done this before... for 50 people with no stakes, but whatever. It wasn't so much the casting that had me concerned, but the fact that I couldn't guarantee if my internet connection would stay stable. I was still streaming every once in a while on Twitch recreationally, but any of my viewers would quickly tell you that my connection is [frustratingly](/blog/img/yearone/tracert.jpg) [unreliable.](/blog/img/yearone/tracert2.jpg) In the limited time I had, I tried taking a few precautions. I called Comcast to see if they could fix any routing (they didn't), I updated the firmware on my router (did nothing), I even went through the trouble of adding some subtle moving embers to the static production asset I was provided.
 
-<div class="video" style="text-align: center;"><video src="/blog/img/yearone/kievfinal.webm" width="750" autoplay loop></video></div><p></p>
+<div class="video" style="text-align: center;">
+<video playsinline autoplay loop muted poster="/blog/img/yearone/kievfinal.jpg" width="750">
+  <source src="/blog/img/yearone/kievfinal.mp4" type="video/mp4">
+  <source src="/blog/img/yearone/kievfinal.webm" type="video/webm">
+  <source src="/blog/img/yearone/kievfinal.ogv" type="video/ogg">
+</video></div>
+<p></p>
 
-This wasn't for the *#productionvalue*, but to help me quickly notice if I was dropping frames between games as I watched the delayed stream on my laptop. The rest of the show came from experience, so here's a quick rundown on how to not suck at broadcasting Dota:
+This wasn't just for the *#productionvalue*, but to help me notice if I was dropping frames between games as I watched the delayed stream on my laptop. The rest of the show came from experience, so here's a quick rundown on how to not suck at broadcasting Dota:
 
 1. #### Get a good microphone
 
