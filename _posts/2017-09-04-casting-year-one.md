@@ -57,7 +57,7 @@ I have meticulously catalogued every competitive cast I’ve ever taken part in.
 
 Once upon a time, I thought this cast was pretty good.
 
-<div class="video-container" style="text-align: center;"><iframe src="https://player.twitch.tv/?video=v90535107&t=17m20s&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="472" width="840"></iframe></div>
+<div class="responsivevideo"><div class="video-container" style="text-align: center;"><iframe src="https://player.twitch.tv/?video=v90535107&t=17m20s&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="472" width="840"></iframe></div></div>
 <p style="text-align: center;"><i><sup>Starts at 17m20s</sup></i></p>
 
 Listening to it now feels like some /r/blunderyears type shit.
@@ -115,7 +115,7 @@ O-okay. No problem. I'd done this before... for 50 people with no stakes, but wh
 
 <div class="video" style="text-align: center;"><video src="/blog/img/yearone/kievfinal.webm" width="750" autoplay loop></video></div><p></p>
 
-This wasn't for the #productionvalue, but to help quickly notice if I was dropping frames between games as I watched the delayed stream on my laptop. The rest of the show came from experience, so here's a quick rundown on how to not suck at broadcasting Dota:
+This wasn't for the *#productionvalue*, but to help me quickly notice if I was dropping frames between games as I watched the delayed stream on my laptop. The rest of the show came from experience, so here's a quick rundown on how to not suck at broadcasting Dota:
 
 1. #### Get a good microphone
 
@@ -125,7 +125,7 @@ This wasn't for the #productionvalue, but to help quickly notice if I was droppi
 
 2. #### Test your stream
 
-   This is such a simple checkpoint, but so many novice broadcasters still fail to do it. Here's my procedure: Do a local recording in your stream client. Check your draft, in-game, and between game overlays. Pretend-cast a quiet laning phase and a **LOUD TEAMFIGHT** to check audio levels. If you have a co-caster, get them ready in your VoIP client of choice (\*cough* Discord) and make sure your volumes sound even. If your recording looks and sounds solid, then hopefully your stream will too.
+   This is such a simple checkpoint, but so many novice broadcasters still fail to do it. Here's my procedure: Do a local recording in your stream client. Check your draft, in-game, and between game overlays. Pretend-cast a <sup>quiet laning phase</sup> and a **LOUD TEAMFIGHT** to check audio levels. If you have a co-caster, get them ready in your VoIP client of choice (\*cough* Discord) and make sure your volumes sound even. If your recording looks and sounds solid, then hopefully your stream will too.
 
    If you want to make doubly sure: Create a dummy Twitch account, enable VoDs, stream to that channel, and then check the VoD. This is also a good way to verify if your delay settings are working correctly.
 
@@ -157,7 +157,7 @@ This wasn't for the #productionvalue, but to help quickly notice if I was droppi
 
  I'm very grateful for those who vouched me to broadcast such a high profile event and it was incredibly validating for that vouch to be approved by an official body. That being said, I did far from my best work. Solo casting is not my wheelhouse, but at the end of the day it could have gone a lot worse. I even showed up in a few NUA videos and the beginning of this Kiev Major Qualifier highlight reel.
 
-<div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="https://www.youtube.com/embed/0siUu5cI0hg?rel=0" frameborder="0" allowfullscreen></iframe></div>
+<div class="responsivevideo"><div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="https://www.youtube.com/embed/0siUu5cI0hg?rel=0" frameborder="0" allowfullscreen></iframe></div></div>
 
 <p style="text-align: center;"><i><sup>Look out for "They get all..." on the 2018 audio Chat Wheel lines</sup></i></p>
 
