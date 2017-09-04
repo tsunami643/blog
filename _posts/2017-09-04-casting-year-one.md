@@ -115,8 +115,8 @@ O-okay. No problem. I'd done this before... for 50 people with no stakes, but wh
 
 <div class="video" style="text-align: center;">
 <video playsinline autoplay loop muted poster="/blog/img/yearone/kievfinal.jpg" width="750">
-  <source src="/blog/img/yearone/kievfinal.mp4" type="video/mp4">
   <source src="/blog/img/yearone/kievfinal.webm" type="video/webm">
+  <source src="/blog/img/yearone/kievfinal.mp4" type="video/mp4">
   <source src="/blog/img/yearone/kievfinal.ogv" type="video/ogg">
 </video></div>
 <p></p>
