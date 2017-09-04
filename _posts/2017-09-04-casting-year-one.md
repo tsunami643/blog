@@ -188,9 +188,21 @@ In any industry, when you're unproven, you're a risk. My invitation to this Hub 
 
 ## Vanity Stats – *Sep. 2016-Jul. 2017*
 
-Ticketed casts: *143 pro games according to datdota*
+*Stats powered by [datdota](http://datdota.com/caster/2744346) and [@followNoxville](https://twitter.com/followNoxville/status/904709259811835905)*
+
+Ticketed casts: *143 pro games*
 
 Events attended: *2*
+
+Highest kills/min game: *2.12* - [*Na'Vi vs. Team Empire - Dota Pit League Season 5 - CIS Qualifier - Oct. 23, 2016*](https://www.dotabuff.com/matches/2730680469) -- [Highlights](https://www.youtube.com/watch?v=_e8rgb3HE-M)
+
+Lowest kills/min game: *0.54* - [*iG vs. LFY - Series A-4 Group Stage - DAC 2017 - China Qualifier - Jan. 13, 2017*](https://www.dotabuff.com/matches/2914098996) -- [Twitch VoD](https://www.twitch.tv/videos/114557513?t=02h36m14s)
+
+Shortest game: *13:04* - [*Na'Vi vs. Hive - Kiev Major Regional Qualifiers - CIS Region - Mar. 11, 2017*](https://www.dotabuff.com/matches/3048419187) -- [Twitch VoD](https://www.twitch.tv/videos/129048607)
+
+Longest game: *1:49:04* - *See below*
+
+Highest kill game: *129 kills* - *See below*
 
 Favorite game cast: [*Na'Vi vs. Alliance - Winner's Finals Game 2 - DOTA Summit 7 - European Qualifier - May 13, 2017*](http://www.dotabuff.com/matches/3176125586) -- [YouTube VoD](https://www.youtube.com/watch?v=-RRktajAlY0) \| [Twitch VoD](https://www.twitch.tv/videos/143014763) \| [Highlights](https://www.youtube.com/watch?v=yqveKqA7c8w)
 
