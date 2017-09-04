@@ -188,8 +188,6 @@ In any industry, when you're unproven, you're a risk. My invitation to this Hub 
 
 ## Vanity Stats – *Sep. 2016-Jul. 2017*
 
-*Stats powered by [datdota](http://datdota.com/caster/2744346) and [@followNoxville](https://twitter.com/followNoxville/status/904709259811835905)*
-
 | Category                    | Number    | Match                                                                            | Date          | VoD                                   |
 |-----------------------------|-----------|----------------------------------------------------------------------------------|---------------|---------------------------------------|
 | Ticketed Professional Casts | 143       |                                                                                  |               |                                       |
@@ -200,6 +198,8 @@ In any industry, when you're unproven, you're a risk. My invitation to this Hub 
 | Longest Game                | 1:49:04   | See Below                                                                        |               |                                       |
 | Highest Kill Game           | 129       | See Below                                                                        |               |                                       |
 | Favorite Game Cast          | 1         | [Na’Vi vs. Alliance - Winner’s Finals Game 2 - DOTA Summit 7 - European Qualifier](http://www.dotabuff.com/matches/3176125586) | May 13, 2017  | [YouTube VoD](https://www.youtube.com/watch?v=-RRktajAlY0) \| [Twitch VoD](https://www.twitch.tv/videos/143014763) \| [Highlights](https://www.youtube.com/watch?v=yqveKqA7c8w) |
+
+<div style="text-align: right">*Powered by [datdota](http://datdota.com/caster/2744346) and [@followNoxville](https://twitter.com/followNoxville/status/904709259811835905)*</div>
 
 ## The future, except not on a twitlonger so who cares
 
