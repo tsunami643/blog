@@ -111,11 +111,11 @@ The moral of the story is if you waste your entire day on your computer instead 
 
 BTS released the talent invites for their Kiev Hub in early March and once I scrolled through it a few times to verify I wasn't on it, I figured I'd be on sabbatical for the next few weeks. Then around 72 hours before the qualifiers were set to begin, I learned that being invited to a Hub and being given qualifier games to cast are not mutually exclusive. Valve/PGL had assigned me 12 matches of the CIS region's group stage to cast over two days. Officially. By myself. At home.
 
-O-okay. No problem. I'd done this before... for 50 people with no stakes, but whatever. It wasn't so much the casting that had me concerned, but the fact that I couldn't guarantee if my internet connection would stay stable. I had still been streaming recreationally, but any of my viewers would quickly tell you that my connection is [frustratingly](/blog/yearone/tracert.jpg) [unreliable.](/blog/yearone/tracert2.jpg) I even went through the trouble of adding some moving embers on the static production asset I was given.
+O-okay. No problem. I'd done this before... for 50 people with no stakes, but whatever. It wasn't so much the casting that had me concerned, but the fact that I couldn't guarantee if my internet connection would stay stable. I had still been streaming recreationally, but any of my viewers would quickly tell you that my connection is [frustratingly](/blog/yearone/tracert.jpg) [unreliable.](/blog/yearone/tracert2.jpg) I even went through the trouble of adding some subtle moving embers to the static production asset I was provided.
 
-<video src="/blog/img/yearone/kievfinal.webm" width="852" height="480" align="center" autoplay loop></video>
+<video src="/blog/img/yearone/kievfinal.webm" width="800 autoplay loop></video><br>
 
-This wasn't (just) for the #productionvalue, but to help quickly check if I was dropping frames between games. The rest of the show came from experience, so here's a quick rundown on how to not suck at broadcasting Dota:
+This wasn't for the #productionvalue, but to help quickly check if I was dropping frames between games. The rest of the show came from experience, so here's a quick rundown on how to not suck at broadcasting Dota:
 
 1. #### Get a good microphone
 
