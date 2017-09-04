@@ -72,7 +72,7 @@ I'm not going to fish here, I myself [have enjoyed](https://www.reddit.com/r/Dot
 
 {:.center}
 ![Shot](/blog/img/yearone/shot.jpg)
-<p style="text-align: center;"><i><sup>I have a folder with some of my favorites</sup></i></p>
+<p style="text-align: center;"><i><sup>It's like high school debate class all over again</sup></i></p>
 
 I imagine that’s because people who didn’t like my other work weren’t obligated to pay attention to me. With casting, people who don’t like you are mostly forced to pay attention to you and they will not be happy about it and they will share with everyone that they are not happy about it. The worst part is that much of the 'criticism' is rarely ever constructive. Viewers don’t care *why* they don’t like you, they just know they don’t like you. The rest is your problem. You'll notice in a few of those Reddit threads how I tried to reach out to people for any critiques whatsoever. I think I got a grand total of two PMs. Both of them were from very nice people telling me I was doing a great job. I do love preaching to my own choir, but I would also like to improve the sermons.
 
@@ -111,7 +111,11 @@ The moral of the story is if you waste your entire day on your computer instead 
 
 BTS released the talent invites for their Kiev Hub in early March and once I scrolled through it a few times to verify I wasn't on it, I figured I'd be on sabbatical for the next few weeks. Then around 72 hours before the qualifiers were set to begin, I learned that being invited to a Hub and being given qualifier games to cast are not mutually exclusive. Valve/PGL had assigned me 12 matches of the CIS region's group stage to cast over two days. Officially. By myself. At home.
 
-Here's a quick rundown on how to not suck at broadcasting Dota:
+O-okay. No problem. I'd done this before... for 50 people with no stakes, but whatever. It wasn't so much the casting that had me concerned, but the fact that I couldn't guarantee if my internet connection would stay stable. I had still been streaming recreationally, but any of my viewers would quickly tell you that my connection is [frustratingly](/blog/yearone/tracert.jpg) [unreliable.](/blog/yearone/tracert2.jpg) I even went through the trouble of adding some moving embers on the static production asset I was given.
+
+<video src="/blog/img/yearone/kievfinal.webm" width="852" height="480" align="center" autoplay loop></video>
+
+This wasn't (just) for the #productionvalue, but to help quickly check if I was dropping frames between games. The rest of the show came from experience, so here's a quick rundown on how to not suck at broadcasting Dota:
 
 1. #### Get a good microphone
 
