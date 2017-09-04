@@ -2,7 +2,7 @@
 layout: "post"
 title: "One Year in Digital Sports"
 date: "2017-09-04 08:08"
-summary:    how is caster formed
+summary:    Just tips, no counters
 feature-img: "img/yearone/castheader.jpg"
 ---
 
@@ -170,7 +170,7 @@ This wasn't just for the *#productionvalue*, but to help me notice how bad frame
 ## The International 2017 Qualifiers – BTS ‘Hot Hub TI Machine’ – *Jun. 23-30, 2017*
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">hello friends, end of june 2017 on the twitch enjoy one whole week of<br><br>tsunami_irl <a href="https://t.co/u4BjBCKcpG">pic.twitter.com/u4BjBCKcpG</a></p>&mdash; tsunami (@tsunami643) <a href="https://twitter.com/tsunami643/status/872886174142124036">June 8, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><p></p>
 
 In May, I was asked if I would be interested in attending the BTS TI7 Hub. I had watched every TI Hub since its inception and now I was actually going to be a part of one. After the WESG event, I was already familiar with some aspects of casting live. However, paneling, tricasting, and doing all this in concert with a production team would be new territory for me.
 
