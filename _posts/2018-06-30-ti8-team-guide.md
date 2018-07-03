@@ -38,7 +38,7 @@ These teams were directly invited to TI by virtue of a new system Valve created 
 
 **How did they qualify?**
 
-<div class="responsivevideo"><div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="https://www.youtube.com/embed/oWBDZo3axYg?start=1710&?rel=0" frameborder="0" allowfullscreen></iframe></div></div>
+<div class="responsivevideo"><div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="https://www.youtube.com/embed/oWBDZo3axYg?start=1710&rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe></div></div>
 
 **What can we expect?** Of all past TI championship squads, Team Liquid has by far maintained the most consistent success in their post-Aegis season. With the team once again winning the penultimate tournament before The International, the stars are aligning for yet another Liquid victory.
 
