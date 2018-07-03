@@ -44,6 +44,8 @@ ____
 
 No pressure.
 
+____
+
 ![Banner](/blog/img/ti8teams/lgdbanner.png)
 
 ## PSG.LGD
@@ -62,10 +64,12 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 **What would success look like?** Having said that, '\_\_\_\_\_\_\_，\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\!'
 
+____
+
 ![Banner](/blog/img/ti8teams/secretbanner.png)
 
 ## Team Secret
-
+____
 **Notable tournament placings** Dreamleague S8 and S9 champions. Also won the meme Captain's Draft tournament.
 
 **How did they qualify?** Attended the most DPC events of any team (tied with Newbee). Did reasonably well in a few of them.
@@ -178,8 +182,8 @@ Maybe they changed rosters after the lock
 
 ## Team Serenity - *China Regional Qualifier #1*
 
-**Notable tournament placings** ???
-**Notable tournament attendances** ???
+**Notable tournament placings** ???  
+**Notable tournament attendances** ???  
 **Notable players** ???
 
 **How did they qualify?** In the divine game of mahjong that randomly determines whichever Chinese team is intra-regionally strongest on any given week, the gods willed that Serenity shall be victorious.
