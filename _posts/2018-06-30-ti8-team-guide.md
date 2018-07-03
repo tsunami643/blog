@@ -6,6 +6,8 @@ summary:    How to sound smart to Dota players.
 feature-img: "img/yearone/blog/img/ti8header.jpg"
 ---
 
+# HELLO PERSON WITH RSS FEED, PLS IGNORE, THIS IS STILL A WORK IN PROGRESS
+
 It's that time of year again. But your weird friend isn't taking a weeks vacation to go to Seattle, no, it's Vancouver this time. Here's a quick way to get caught up to speed.
 
 # The Invitees
