@@ -12,7 +12,7 @@ It's that time of year again. But your weird friend isn't taking a weeks vacatio
 
 These teams were directly invited to TI by virtue of a new system Valve created called the "DPC" or the *Dota Pro Circuit.* It was implemented as a means of giving some transparency and structure to an otherwise inscrutable invitation process.
 
-![Banner](/img/ti8teams/vpbanner.png)
+![Banner](/ti8teams/vpbanner.png)
 
 ## Virtus<i></i>.pro
 
@@ -26,7 +26,7 @@ These teams were directly invited to TI by virtue of a new system Valve created 
 
 **What would success look like?** Even after swapping a player out halfway through the season, VP has only grown stronger with each passing tournament. Anything short of a grand finals appearance would undoubtedly be a disappointment to the team, their fans, and battle point predictions.
 
-![Banner](/img/ti8teams/liquidbanner.png)
+![Banner](/ti8teams/liquidbanner.png)
 
 ## Team Liquid
 
@@ -44,7 +44,7 @@ These teams were directly invited to TI by virtue of a new system Valve created 
 
 No pressure.
 
-![Banner](/img/ti8teams/lgdbanner.png)
+![Banner](/ti8teams/lgdbanner.png)
 
 ## PSG.LGD
 
@@ -62,7 +62,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 **What would success look like?** Having said that, "\__________，_____________________!"
 
-![Banner](/img/ti8teams/secretbanner.png)
+![Banner](/ti8teams/secretbanner.png)
 
 ## Team Secret
 
@@ -76,7 +76,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 **What would success look like?** Despite always being *pretty good*, Team Secret's highest placing at any International since the organization's inception was 7/8<sup>th</sup> at TI5. So ideally better than that.
 
-![Banner](/img/ti8teams/mineskibanner.png)
+![Banner](/ti8teams/mineskibanner.png)
 
 ## Mineski
 
@@ -90,7 +90,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 **What would success look like?** An iceiceice Aegis would be like the DiCaprio Oscar in terms of reddit self-satisfaction.
 
-![Banner](/img/ti8teams/vicibanner.png)
+![Banner](/ti8teams/vicibanner.png)
 
 ## Vici Gaming
 
@@ -104,7 +104,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 **What would success look like?** On home soil, with so much financial and political capital invested in the tournament, the team has to make the knockout round.
 
-![Banner](/img/ti8teams/newbeebanner.png)
+![Banner](/ti8teams/newbeebanner.png)
 
 ## Newbee
 
@@ -118,7 +118,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 **What would success look like?** "You expect to win a championship at your first TI? You're just an ordinary person... not a god. Second TI is no excuse though, you better win."
 
-![Banner](/img/ti8teams/thunderbanner.png)
+![Banner](/ti8teams/thunderbanner.png)
 
 ## VGJ.Thunder
 
@@ -128,7 +128,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 <div class="video">
 <video playsinline autoplay loop muted poster="/blog/img/yearone/kievfinal.jpg" width="640">
-  <source src="/blog/img/ti8teams/luigiwins.webm" type="video/webm">
+  <source src="/blog/ti8teams/luigiwins.webm" type="video/webm">
 </video></div>
 <p></p>
 
@@ -142,7 +142,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 Maybe they changed rosters after the lock
 
-![Banner](/img/ti8teams/ogbanner.png)
+![Banner](/ti8teams/ogbanner.png)
 
 ## OG - *Europe Regional Qualifier*
 
@@ -156,7 +156,7 @@ Maybe they changed rosters after the lock
 
 **What would success look like?** After multiple failed International runs, it would be only fitting that OG do well at the first TI where they're actually considered underdogs
 
-![Banner](/img/ti8teams/winstrikebanner.png)
+![Banner](/ti8teams/winstrikebanner.png)
 
 ## Winstrike Team - *CIS Regional Qualifier*
 
@@ -170,7 +170,7 @@ Maybe they changed rosters after the lock
 
 **What would success look like?** Earlier in the season, Iceberg mentioned in interviews that they themselves don't expect to do particularly well, just getting to TI was the main goal. So mission accomplished. The real success would be if the roster stays together post-TI.
 
-![Banner](/img/ti8teams/serenitybanner.png)
+![Banner](/ti8teams/serenitybanner.png)
 
 ## Team Serenity - *China Regional Qualifier #1*
 
@@ -186,7 +186,7 @@ Maybe they changed rosters after the lock
 
 **What would success look like?** Not getting banned by ACE next year would be a good start.
 
-![Banner](/img/ti8teams/igbanner.png)
+![Banner](/ti8teams/igbanner.png)
 
 ## Invictus Gaming - *China Regional Qualifier #2*
 
@@ -202,7 +202,7 @@ Maybe they changed rosters after the lock
 
 **What would success look like?** The longer they stay in the tournament, the longer I can keep blindly picking Boboka for fantasy points.
 
-![Banner](/img/ti8teams/painbanner.png)
+![Banner](/ti8teams/painbanner.png)
 
 ## PaiN Gaming - *South America Regional Qualifier*
 
@@ -216,7 +216,7 @@ Maybe they changed rosters after the lock
 
 **What would success look like?** People *still* bring up SG e-sports.
 
-![Banner](/img/ti8teams/stormbanner.png)
+![Banner](/ti8teams/stormbanner.png)
 
 ## VGJ.Storm - *North America Regional Qualifier #1*
 
@@ -230,7 +230,7 @@ Maybe they changed rosters after the lock
 
 **What would success look like?** As of the end of qualifiers, Storm would appear to be NA's best shot at bringing home the title.
 
-![Banner](/img/ti8teams/egbanner.png)
+![Banner](/ti8teams/egbanner.png)
 
 ## Evil Geniuses - *North America Regional Qualifier #2*
 
@@ -246,7 +246,7 @@ Maybe they changed rosters after the lock
 
 Anything short of a scorched earth loser's bracket run in which EG personally executes every last punk would just be a missed opportunity for *The DPC*'s season 1 finale.
 
-![Banner](/img/ti8teams/opticbanner.png)
+![Banner](/ti8teams/opticbanner.png)
 
 ## OpTic Gaming - *North America Regional Qualifier #3*
 
@@ -260,7 +260,7 @@ Anything short of a scorched earth loser's bracket run in which EG personally ex
 
 **What would success look like?** Doing so well that Call of Duty players take a break from tweeting 'Who's up?' and decide to actually watch Dota 2.
 
-![Banner](/img/ti8teams/fnaticbanner.png)
+![Banner](/ti8teams/fnaticbanner.png)
 
 ## Fnatic - *Southeast Asia Regional Qualifier #1*
 
@@ -276,7 +276,7 @@ Anything short of a scorched earth loser's bracket run in which EG personally ex
 
 For he is at peace.
 
-![Banner](/img/ti8teams/tncbanner.png)
+![Banner](/ti8teams/tncbanner.png)
 
 ## TNC Predator - *Southeast Asia Regional Qualifier #2*
 
