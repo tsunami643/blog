@@ -12,9 +12,10 @@ It's that time of year again. But your weird friend isn't taking a weeks vacatio
 
 These teams were directly invited to TI by virtue of a new system Valve created called the "DPC" or the *Dota Pro Circuit.* It was implemented as a means of giving some transparency and structure to an otherwise inscrutable invitation process.
 
-![Banner](/blog/img/ti8teams/vpbanner.png)
-
-## Virtus<i></i>.pro
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/vpbanner.png" alt="Banner"></p>
+<h2 style="margin: 0px;">Virtus.pro</h2>
+<hr style="margin-top: 0.5em;">
 
 **Notable tournament placings** Just say ESL and some random city that sounds famous, but isn't  really known for tourism. Chances are VP won something there. *"Yeah, they looked really good at ESL... Düsseldorf. I didn't watch it, though. Fuck Facebook."*
 
@@ -25,10 +26,11 @@ These teams were directly invited to TI by virtue of a new system Valve created 
 **How to sound smart talking about VP** "Lil was the problem."
 
 **What would success look like?** Even after swapping a player out halfway through the season, VP has only grown stronger with each passing tournament. Anything short of a grand finals appearance would undoubtedly be a disappointment to the team, their fans, and battle point predictions.
-____
-![Banner](/blog/img/ti8teams/liquidbanner.png)
 
-## Team Liquid
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/liquidbanner.png" alt="Banner"></p>
+<h2 style="margin: 0px;">Team Liquid</h2>
+<hr style="margin-top: 0.5em;">
 
 **Notable tournament placings** TI7 champions, China Dota 2 Supermajor champions. Never won a real Major, though.
 
@@ -63,12 +65,11 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 **What would success look like?** Having said that, '\_\_\_\_\_\_\_，\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\!'
 
-____
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/secretbanner.png" alt="Banner"></p>
+<h2 style="margin: 0px;">Team Secret</h2>
+<hr style="margin-top: 0.5em;">
 
-![Banner](/blog/img/ti8teams/secretbanner.png)
-
-## Team Secret
-____
 **Notable tournament placings** Dreamleague S8 and S9 champions. Also won the meme Captain's Draft tournament.
 
 **How did they qualify?** Attended the most DPC events of any team (tied with Newbee). Did reasonably well in a few of them.
@@ -79,12 +80,11 @@ ____
 
 **What would success look like?** Despite always being *pretty good*, Team Secret's highest placing at any International since the organization's inception was 7/8<sup>th</sup> at TI5. So ideally better than that.
 
-____
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/mineskibanner.png" alt="Banner"></p>
+<h2 style="margin: 0px;">Mineski</h2>
+<hr style="margin-top: 0.5em;">
 
-![Banner](/blog/img/ti8teams/mineskibanner.png)
-
-## <center>Mineski</center>
-____
 **Notable tournament placings** DAC 2018 Major champions
 
 **How did they qualify?** While allegedly on the brink of disbanding, the squad managed to beat LGD on their home turf to win DAC. Thankfully, with VP and Liquid vacuuming up all the other DPC points, that Major win was all Mineski needed to secure their TI invite.
@@ -95,11 +95,10 @@ ____
 
 **What would success look like?** An iceiceice Aegis would be like the DiCaprio Oscar in terms of reddit self-satisfaction.
 
-____
-
-![Banner](/blog/img/ti8teams/vicibanner.png)
-
-## Vici Gaming
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/vicibanner.png" alt="Banner"></p>
+<h2 style="margin: 0px;">Vici Gaming</h2>
+<hr style="margin-top: 0.5em;">
 
 **Notable tournament placings** A whole bunch of 2<sup>nd</sup> place finishes
 
@@ -111,9 +110,10 @@ ____
 
 **What would success look like?** On home soil, with so much financial and political capital invested in the tournament, the team has to make the knockout round.
 
-![Banner](/blog/img/ti8teams/newbeebanner.png)
-
-## Newbee
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/newbeebanner.png" alt="Banner"></p>
+<h2 style="margin: 0px;">Newbee</h2>
+<hr style="margin-top: 0.5em;">
 
 **Notable tournament placings** A whole bunch of 3<sup>rd</sup> place finishes
 
@@ -125,9 +125,10 @@ ____
 
 **What would success look like?** "You expect to win a championship at your first TI? You're just an ordinary person... not a god. Second TI is no excuse though, you better win."
 
-![Banner](/blog/img/ti8teams/thunderbanner.png)
-
-## VGJ.Thunder
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/thunderbanner.png" alt="Banner"></p>
+<h2 style="margin: 0px;">VGJ.Thunder</h2>
+<hr style="margin-top: 0.5em;">
 
 **Notable tournament placings** 2<sup>nd</sup> place at the Bucharest Major. Also won Galaxy Battles, but I'm the only person who cares about that tournament.
 
@@ -149,9 +150,10 @@ ____
 
 Maybe they changed rosters after the lock
 
-![Banner](/blog/img/ti8teams/ogbanner.png)
-
-## OG - *Europe Regional Qualifier*
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/ogbanner.png" alt="Banner"></p>
+<h2 style="margin: 0px;">OG - <i>Europe Regional Qualifier</i></h2>
+<hr style="margin-top: 0.5em;">
 
 **Notable tournament placings** The current roster was assembled around two weeks before TI qualifiers began, so... The International 2018: Europe Open Qualifier #1 champions
 
@@ -163,9 +165,10 @@ Maybe they changed rosters after the lock
 
 **What would success look like?** After multiple failed International runs, it would be only fitting that OG do well at the first TI where they're actually considered underdogs
 
-![Banner](/blog/img/ti8teams/winstrikebanner.png)
-
-## Winstrike Team - *CIS Regional Qualifier*
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/winstrikebanner.png" alt="Banner"></p>
+<h2 style="margin: 0px;">Winstrike Team - <i>CIS Regional Qualifier</i></h2>
+<hr style="margin-top: 0.5em;">
 
 **Notable tournament placings** 3<sup>rd</sup> place at Epicenter XL Major
 
@@ -177,9 +180,10 @@ Maybe they changed rosters after the lock
 
 **What would success look like?** Earlier in the season, Iceberg mentioned in interviews that they themselves don't expect to do particularly well, just getting to TI was the main goal. So mission accomplished. The real success would be if the roster stays together post-TI.
 
-![Banner](/blog/img/ti8teams/serenitybanner.png)
-
-## Team Serenity - *China Regional Qualifier #1*
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/serenitybanner.png" alt="Banner"></p>
+<h2 style="margin: 0px;">Team Serenity - <i>China Regional Qualifier #1</i></h2>
+<hr style="margin-top: 0.5em;">
 
 **Notable tournament placings** ???  
 **Notable tournament attendances** ???  
@@ -193,9 +197,10 @@ Maybe they changed rosters after the lock
 
 **What would success look like?** Not getting banned by ACE next year would be a good start.
 
-![Banner](/blog/img/ti8teams/igbanner.png)
-
-## Invictus Gaming - *China Regional Qualifier #2*
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/igbanner.png" alt="Banner"></p>
+<h2 style="margin: 0px;">Invictus Gaming - <i>China Regional Qualifier #2</i></h2>
+<hr style="margin-top: 0.5em;">
 
 **Notable tournament placings** World Cyber Arena 2017 champions... I guess
 
@@ -209,9 +214,10 @@ Maybe they changed rosters after the lock
 
 **What would success look like?** The longer they stay in the tournament, the longer I can keep blindly picking Boboka for fantasy points.
 
-![Banner](/blog/img/ti8teams/painbanner.png)
-
-## PaiN Gaming - *South America Regional Qualifier*
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/painbanner.png" alt="Banner"></p>
+<h2 style="margin: 0px;">PaiN Gaming - <i>South America Regional Qualifier</i></h2>
+<hr style="margin-top: 0.5em;">
 
 **Notable tournament placings** 3<sup>rd</sup> place at ESL Birmingham Major
 
@@ -223,9 +229,10 @@ Maybe they changed rosters after the lock
 
 **What would success look like?** People *still* bring up SG e-sports.
 
-![Banner](/blog/img/ti8teams/stormbanner.png)
-
-## VGJ.Storm - *North America Regional Qualifier #1*
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/stormbanner.png" alt="Banner"></p>
+<h2 style="margin: 0px;">VGJ.Storm - <i>North America Regional Qualifier #1</i></h2>
+<hr style="margin-top: 0.5em;">
 
 **Notable tournament placings** GESC: Thailand  Minor champion, 2<sup>nd</sup> place at MDL Changsha Major
 
@@ -237,9 +244,10 @@ Maybe they changed rosters after the lock
 
 **What would success look like?** As of the end of qualifiers, Storm would appear to be NA's best shot at bringing home the title.
 
-![Banner](/blog/img/ti8teams/egbanner.png)
-
-## Evil Geniuses - *North America Regional Qualifier #2*
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/egbanner.png" alt="Banner"></p>
+<h2 style="margin: 0px;">Evil Geniuses - <i>North America Regional Qualifier #2</i></h2>
+<hr style="margin-top: 0.5em;">
 
 **Notable tournament placings** GESC: Thailand  Minor champion, 2<sup>nd</sup> place at MDL Changsha Major
 
@@ -253,9 +261,10 @@ Maybe they changed rosters after the lock
 
 Anything short of a scorched earth loser's bracket run in which EG personally executes every last punk would just be a missed opportunity for *The DPC*'s season 1 finale.
 
-![Banner](/blog/img/ti8teams/opticbanner.png)
-
-## OpTic Gaming - *North America Regional Qualifier #3*
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/opticbanner.png" alt="Banner"></p>
+<h2 style="margin: 0px;">OpTic Gaming - <i>North America Regional Qualifier #3</i></h2>
+<hr style="margin-top: 0.5em;">
 
 **Notable tournament placings** StarLadder S5 Minor champions, 2<sup>nd</sup> place at ESL Birmingham Major
 
@@ -267,9 +276,10 @@ Anything short of a scorched earth loser's bracket run in which EG personally ex
 
 **What would success look like?** Doing so well that Call of Duty players take a break from tweeting 'Who's up?' and decide to actually watch Dota 2.
 
-![Banner](/blog/img/ti8teams/fnaticbanner.png)
-
-## Fnatic - *Southeast Asia Regional Qualifier #1*
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/fnaticbanner.png" alt="Banner"></p>
+<h2 style="margin: 0px;">Fnatic - <i>Southeast Asia Regional Qualifier #1</i></h2>
+<hr style="margin-top: 0.5em;">
 
 **Notable tournament placings** 4<sup>th</sup> place at both the ESL Katowice and Birmingham Majors
 
@@ -283,9 +293,10 @@ Anything short of a scorched earth loser's bracket run in which EG personally ex
 
 For he is at peace.
 
-![Banner](/blog/img/ti8teams/tncbanner.png)
-
-## TNC Predator - *Southeast Asia Regional Qualifier #2*
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/tncbanner.png" alt="Banner"></p>
+<h2 style="margin: 0px;">TNC Predator - <i>Southeast Asia Regional Qualifier #2</i></h2>
+<hr style="margin-top: 0.5em;">
 
 **Notable tournament placings** 4<sup>th</sup> place at DAC 2018 Major, 2<sup>nd</sup> place at MDL Macau Minor
 
