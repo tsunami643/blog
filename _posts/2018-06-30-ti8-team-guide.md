@@ -60,7 +60,7 @@ In other words, these guys are the world's best chance at saving Dota from becom
 
 The previous paragraph is complete bullshit, but you bought it. That's because if there's anything that makes you sound smart talking about LGD, it's explaining convoluted Chinese memes to redditors who don't really understand them and just want to post, 'Wow, Chinese memes are so high level! xD'
 
-**What would success look like?** Having said that, "\_\_\_\_\_\_\_\_\_\_，\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_!"
+**What would success look like?** Having said that, '\_\_\_\_\_\_\_，\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\!'
 
 ![Banner](/blog/img/ti8teams/secretbanner.png)
 
@@ -75,10 +75,12 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 **How to sound smart talking about Secret** "Did you know that Puppey has competed in every single TI? Yeah, competed."
 
 **What would success look like?** Despite always being *pretty good*, Team Secret's highest placing at any International since the organization's inception was 7/8<sup>th</sup> at TI5. So ideally better than that.
+
 ____
+
 ![Banner](/blog/img/ti8teams/mineskibanner.png)
 
-## Mineski
+## <center>Mineski</center>
 ____
 **Notable tournament placings** DAC 2018 Major champions
 
@@ -89,6 +91,8 @@ ____
 **How to sound smart talking about Mineski** Don't say anything, just start doing push-ups.
 
 **What would success look like?** An iceiceice Aegis would be like the DiCaprio Oscar in terms of reddit self-satisfaction.
+
+____
 
 ![Banner](/blog/img/ti8teams/vicibanner.png)
 
