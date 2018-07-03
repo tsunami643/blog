@@ -44,12 +44,11 @@ ____
 
 No pressure.
 
-____
+<hr style="margin-bottom: 1.2em;">
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/lgdbanner.png" alt="Banner"></p>
+<h2 style="margin: 0px;">PSG.LGD</h2>
+<hr style="margin-top: 0.5em;">
 
-![Banner](/blog/img/ti8teams/lgdbanner.png)
-
-## PSG.LGD
-____
 **Notable tournament placings** Epicenter XL Major champions, MDL Changsha Major champions
 
 **How did they qualify?** LGD went from mostly irrelevant Chinese bottom feeder to French sponsored TI contender in the span of two months starting with a 2<sup>nd</sup> place finish at DAC in April to winning MDL in May.
