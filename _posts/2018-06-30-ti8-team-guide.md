@@ -128,7 +128,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 <div class="video">
 <video playsinline autoplay loop muted poster="/blog/img/yearone/kievfinal.jpg" width="640">
-  <source src="/blog/blog/img/ti8teams/luigiwins.webm" type="video/webm">
+  <source src="/blog/img/ti8teams/luigiwins.webm" type="video/webm">
 </video></div>
 <p></p>
 
