@@ -25,8 +25,8 @@ These teams were directly invited to TI by virtue of a new system Valve created 
 **How to sound smart talking about VP** "Lil was the problem."
 
 **What would success look like?** Even after swapping a player out halfway through the season, VP has only grown stronger with each passing tournament. Anything short of a grand finals appearance would undoubtedly be a disappointment to the team, their fans, and battle point predictions.
-
-![Banner](/blog/img/blog/img/ti8teams/liquidbanner.png)
+____
+![Banner](/blog/img/ti8teams/liquidbanner.png)
 
 ## Team Liquid
 
@@ -47,7 +47,7 @@ No pressure.
 ![Banner](/blog/img/ti8teams/lgdbanner.png)
 
 ## PSG.LGD
-
+____
 **Notable tournament placings** Epicenter XL Major champions, MDL Changsha Major champions
 
 **How did they qualify?** LGD went from mostly irrelevant Chinese bottom feeder to French sponsored TI contender in the span of two months starting with a 2<sup>nd</sup> place finish at DAC in April to winning MDL in May.
@@ -75,11 +75,11 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 **How to sound smart talking about Secret** "Did you know that Puppey has competed in every single TI? Yeah, competed."
 
 **What would success look like?** Despite always being *pretty good*, Team Secret's highest placing at any International since the organization's inception was 7/8<sup>th</sup> at TI5. So ideally better than that.
-
+____
 ![Banner](/blog/img/ti8teams/mineskibanner.png)
 
 ## Mineski
-
+____
 **Notable tournament placings** DAC 2018 Major champions
 
 **How did they qualify?** While allegedly on the brink of disbanding, the squad managed to beat LGD on their home turf to win DAC. Thankfully, with VP and Liquid vacuuming up all the other DPC points, that Major win was all Mineski needed to secure their TI invite.
@@ -127,7 +127,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 **How did they qualify?**
 
 <div class="video">
-<video playsinline autoplay loop muted poster="/blog/img/yearone/kievfinal.jpg" width="640">
+<video playsinline autoplay loop muted poster="/blog/img/ti8teams/luigiwins.jpg" width="640">
   <source src="/blog/img/ti8teams/luigiwins.webm" type="video/webm">
 </video></div>
 <p></p>
