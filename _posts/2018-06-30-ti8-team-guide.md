@@ -44,7 +44,7 @@ These teams were directly invited to TI by virtue of a new system Valve created 
 
 **How to sound smart talking about Liquid**
 
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Calling Liquid a &quot;filler pick&quot; is blatantlly ridiculous.  They&#39;re the best early game team in pro Dota; so far 7.06 seems VERY good for them</p>&mdash; Nahaz (@NahazDota) <a href="https://twitter.com/NahazDota/status/867702326508781568?ref_src=twsrc%5Etfw">May 25, 2017</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Calling Liquid a &quot;filler pick&quot; is blatantlly ridiculous.  They&#39;re the best early game team in pro Dota; so far 7.06 seems VERY good for them</p>&mdash; Nahaz (@NahazDota) <a href="https://twitter.com/NahazDota/status/867702326508781568?ref_src=twsrc%5Etfw">May 25, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- "Calling Liquid a 'filler pick' is blatantlly ridiculous.  They're the best early game team in pro Dota; so far 7.06 seems VERY good for them" -->
