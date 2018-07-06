@@ -80,6 +80,11 @@ select {
 blockquote {
   font-size: larger;
   font-style: italic;
+  margin: 0.25em 0;
+}
+
+blockquote p {
+  line-height: 2;
 }
 
 //VIDEO CSS
