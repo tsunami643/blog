@@ -259,14 +259,26 @@ Maybe they changed rosters after the lock
 **Notable tournament placings** Two out of their five players won the MDL Macau Major and the other three won the GESC: Indonesia Minor. By these powers combined, they earned a total 0 usable DPC points.
 
 **How did they qualify?** EG has been deciding how to play Dota via Mad Libs for the past nine months.
+
 >Former EG member <u><i><b>Fear</b></u></i> will be returning to the <u><i><b>active roster</b></u></i> to <u><i><b>play support</b></u></i> for our team!
 
 ><u><i><b>Sumail</b></u></i> will be taking over the role of <u><i><b>offlane</b></u></i> as we say goodbye to <u><i><b>Universe</b></u></i>. 
 
 >Bulba will return as coach for the <u><i><b>ninth</b></u></i> time.
 
->Former EG member <select name="cars"><option>Fear</option><option>ppd</option><option>Demon</option><option>Merlini</option></select> will be to <select name="cars"><option>play support</option><option>captain the Rainbow 6 Siege team</option><option>feed Sumail bananas</option></select>!
-
+>Former EG member <select required>
+<option value=""hidden>Player Name</option>
+<option>Fear</option>
+<option>ppd</option>
+<option>Demon</option>
+<option>Merlini</option>
+</select> 
+will be to
+<select required>
+<option>play support</option>
+<option>captain the Rainbow 6 Siege team</option>
+<option>feed Sumail bananas</option>
+</select>!
 
 After these maneuvers failed to produce results, the boys decided to consult a Ouija board
 
