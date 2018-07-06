@@ -267,15 +267,14 @@ Maybe they changed rosters after the lock
 >Bulba will return as coach for the <u><i><b>ninth</b></u></i> time.
 
 >Former EG member <select>
-<option value=""hidden>Player Name</option>
+<option hidden>Player</option>
 <option>Fear</option>
 <option>ppd</option>
 <option>Demon</option>
-<option>Merlini</option>
 </select> 
 will be to
-<select required>
-<option value=""hidden>Role</option>
+<select>
+<option hidden>Role</option>
 <option>play support</option>
 <option>captain the Rainbow 6 Siege team</option>
 <option>feed Sumail bananas</option>
