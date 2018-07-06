@@ -25,7 +25,7 @@ These teams were directly invited to TI by virtue of a new system Valve created 
 
 **What can we expect?** With their first place DPC finish at the end of the season they're arguably the favorites coming into TI8. They won so many points you could theoretically buy one of their players and automatically get a spot at TI. Oh wait.
 
-**How to sound smart talking about VP** "Lil was the problem."
+**How to sound smart talking about VP** "LAKAD MATATAAAAAAAG."
 
 **What would success look like?** Even after swapping a player out halfway through the season, VP has only grown stronger with each passing tournament. Anything short of a grand finals appearance would undoubtedly be a disappointment to the team, their fans, and battle point predictions.
 
@@ -36,8 +36,7 @@ These teams were directly invited to TI by virtue of a new system Valve created 
 
 **Notable tournament placings** TI7 champions, China Dota 2 Supermajor champions. Never won a real Major, though.
 
-**How did they qualify?**
-
+**How did they qualify?**  
 <div class="responsivevideo"><div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="https://www.youtube.com/embed/oWBDZo3axYg?start=1710&rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe></div></div>
 
 **What can we expect?** Of all past TI championship squads, Team Liquid has by far maintained the most consistent success in their post-Aegis season. With the team once again winning the penultimate tournament before The International, the stars are aligning for yet another Liquid victory.
@@ -119,7 +118,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 **Notable tournament placings** A whole bunch of 3<sup>rd</sup> place finishes
 
-**How did they qualify?** TI7's runners-up gave a decidedly less than stellar performance this season, but it was enough to squeeze into the DPC top 8 for a TI invite anyway. Their biggest mistake was getting revenge on Liquid too early in the season, thus preventing the Sccc ultra instinct arc.
+**How did they qualify?** TI7's runners-up gave a less than stellar performance this season, but it was enough to squeeze into the DPC top 8 for a TI invite anyway. Their biggest mistake was getting revenge on Liquid too early in the year, thus preventing the Sccc ultra instinct arc.
 
 **What can we expect?** This squad didn't have *amazing* results before TI7 either. They were good enough to be directly invited, but most people considered LFY or LGD to be the strongest Chinese teams at that TI. Perhaps history will repeat itself.
 
@@ -132,10 +131,9 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 <h2 style="margin: 0px;">VGJ.Thunder</h2>
 <hr style="margin-top: 0.5em;">
 
-**Notable tournament placings** 2<sup>nd</sup> place at the Bucharest Major. Also won Galaxy Battles, but I'm the only person who cares about that tournament.
+**Notable tournament placings** 2<sup>nd</sup> place at The Bucharest Major. Also won Galaxy Battles II, but I'm the only person who cares about that tournament.
 
-**How did they qualify?**
-
+**How did they qualify?**  
 <div class="video">
 <video playsinline autoplay loop muted poster="/blog/img/ti8teams/luigiwins.jpg" width="640">
   <source src="/blog/img/ti8teams/luigiwins.webm" type="video/webm">
@@ -176,13 +174,13 @@ Maybe they changed rosters after the lock
 
 **Notable tournament placings** 3<sup>rd</sup> place at Epicenter XL Major
 
-**How did they qualify?** \**read in deep announcer voice while imagining smash cuts of esports poses and smoke machines*\* Formerly known as ***FlyToMoon,*** this squad of CIS rejects took their ***region by storm*** after being assembled during the ***second half*** of the season. ***Brash, aggressive, and unpredictable.*** This roster has the ***experience to dominate*** and the ***confidence to go with it.*** This is... ***Winstrike Team.*** \**cut back to panel as Redeye says 'Yes, indeed...' and then asks Cap a question about Iceberg probably*\*
+**How did they qualify?** \**read in deep announcer voice while imagining smash cuts of esports poses and smoke machines*\* Formerly known as ***FlyToMoon,*** this squad of CIS rejects took their ***region by storm*** after being assembled during the ***second half*** of the season. ***Brash, aggressive, and unpredictable.*** This roster has the ***experience to dominate*** and the ***confidence to go with it.*** This is... ***Winstrike.*** \**cut back to panel as Redeye says 'Yes, indeed...' and then asks Cap a question about Iceberg probably*\*
 
 **What can we expect?** Entertaining games and maybe a few upsets, but a deep run by Winstrike is among the darkest of horses.
 
 **How to sound smart talking about Winstrike** "This is good for Bitcoin."
 
-**What would success look like?** Earlier in the season, Iceberg mentioned in interviews that they themselves don't expect to do particularly well, just getting to TI was the main goal. So mission accomplished. The real success would be if the roster stays together post-TI.
+**What would success look like?** Earlier in the season, Iceberg mentioned in an interview that they themselves don't expect to do particularly well, just getting to TI was the main goal. So mission accomplished. The real success would be if the roster stays together for more than two months post-TI.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/serenitybanner.png" alt="Banner"></p>
@@ -197,7 +195,7 @@ Maybe they changed rosters after the lock
 
 **What can we expect?** Honestly, no one knows. Anyone who claims otherwise is just trying to sound smart.
 
-**How to sound smart talking about Serenity** "lmaoooo maybe if you watched actual amateur dota instead of grant's trashcan na pub streams youd know my boys have been looking like TI winners since hcup season 8."
+**How to sound smart talking about Serenity** "lmaoooo maybe if you watched *actual* amateur dota and not grant streams of trashcan na pubs youd know my boys have been looking like TI winners since hcup season 8."
 
 **What would success look like?** Not getting banned by ACE next year would be a good start.
 
@@ -210,13 +208,12 @@ Maybe they changed rosters after the lock
 
 **How did they qualify?** iG was the *only* team to be directly invited to the Chinese qualifiers since literally every other team messed around with their rosters at some point. After narrowly making it through a group stage tiebreaker, and then losing to Serenity in the playoffs, iG 2-0'd LFY to become the 6<sup>th</sup> Chinese representative at TI8.
 
-**What can we expect?** For the sake of justifying the two Chinese regional qualifier slots, they better hope they at least make it out of group stage.
+**What can we expect?** i dunno
 
-**How to sound smart talking about iG**
-
+**How to sound smart talking about iG**  
 <div class="responsivevideo"><div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="https://www.youtube.com/embed/KhQio49YG-Q?rel=0" frameborder="0" allowfullscreen></iframe></div></div>
 
-**What would success look like?** The longer they stay in the tournament, the longer I can keep blindly picking Boboka for fantasy points.
+**What would success look like?** For the sake of justifying the two Chinese regional qualifier slots, they better hope they at least make it out of group stage.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/painbanner.png" alt="Banner"></p>
@@ -225,7 +222,7 @@ Maybe they changed rosters after the lock
 
 **Notable tournament placings** 3<sup>rd</sup> place at ESL Birmingham Major
 
-**How did they qualify?** *Combat Log: Day 86 of SA qualifiers. Skol supplies running low. Game 7 has been delayed until after Sooths gets back from church for Nossa Senhora Aparecida. Rumor is the group stage may be played out again after we discovered Thunder Predator's coach had been standing outside our window the entire series.*
+**How did they qualify?** *Combat Log: Day 86 of SA qualifiers. Skol supplies running low. Game 7 has been delayed until after Sooths gets back from church for Nossa Senhora Aparecida. Rumor is the group stage may be played out again after we discovered Thunder Predator's coach was standing outside a window our entire series.*
 
 **What can we expect?** Puppey is among of the 
 
@@ -238,9 +235,9 @@ Maybe they changed rosters after the lock
 <h2 style="margin: 0px;">VGJ.Storm - <i>North America Regional Qualifier #1</i></h2>
 <hr style="margin-top: 0.5em;">
 
-**Notable tournament placings** GESC: Thailand  Minor champion, 2<sup>nd</sup> place at MDL Changsha Major
+**Notable tournament placings** GESC: Thailand Minor champions, 2<sup>nd</sup> place at MDL Changsha Major
 
-**How did they qualify?** In the nine months since this team's formation in Sept. 2017, there were a whopping thirteen different players to don the VGJ.Storm tag at some point during the season. The addition of Resolut1on as the one position seemed the solution in bringing the rotations to a conclusion.
+**How did they qualify?** Since this team's formation in Sept. 2017, there have been a whopping thirteen different players to don the VGJ.Storm tag at some point during the season. The addition of Resolut1on as the one position seemed the solution in bringing the rotations to a conclusion.
 
 **What can we expect?** Puppey is among of the 
 
@@ -253,7 +250,7 @@ Maybe they changed rosters after the lock
 <h2 style="margin: 0px;">Evil Geniuses - <i>North America Regional Qualifier #2</i></h2>
 <hr style="margin-top: 0.5em;">
 
-**Notable tournament placings** GESC: Thailand  Minor champion, 2<sup>nd</sup> place at MDL Changsha Major
+**Notable tournament placings** GESC: Indonesia Minor champions with 3/5 current players
 
 **How did they qualify?** EG has been deciding their roster through markov chains for the past nine months. The program corrupted and accidentally took two of OG's players along for the ride.
 
@@ -263,7 +260,7 @@ Maybe they changed rosters after the lock
 
 **What would satisfaction look like?** It's not even about the Aegis, it's about the storylines. EG vs Optic would be the highest stakes Sumail-ppd showdown to date. EG vs OG could either be 7Mad's Austerlitz or Waterloo. And of course, EG vs VGJ.Storm=Hassanbowl.
 
-Anything short of a scorched earth loser's bracket run in which EG personally executes every last punk would just be a missed opportunity for *The DPC*'s season 1 finale.
+Anything short of a scorched earth loser's bracket run in which EG personally executes every last punk would just be a missed opportunity for *The DPC* season 1 finale.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/opticbanner.png" alt="Banner"></p>
@@ -289,7 +286,7 @@ Anything short of a scorched earth loser's bracket run in which EG personally ex
 
 **How did they qualify?** Simply put, they didn't choke. After losing their way to both TNCs in the group stage, Fnatic awoke their masters to then 2-0 each of them in playoffs and claim the first qualifier spot.
 
-**What can we expect?** and even higher blood pressure.
+**What can we expect?** Let it All Out of You
 
 **How to sound smart talking about Fnatic** "Dude, of course he counts. TI1's rules were different, he could've competed at any point!"
 
