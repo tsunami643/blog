@@ -258,29 +258,15 @@ Maybe they changed rosters after the lock
 
 **Notable tournament placings** Two out of their five players won the MDL Macau Major and the other three won the GESC: Indonesia Minor. By these powers combined, they earned a total 0 usable DPC points.
 
-**How did they qualify?** EG has been deciding how to play Dota via Mad Libs for the past nine months.
+**How did they qualify?** EG has been deciding how to play Dota via Mad Libs for the past couple of months.
 
->Former EG member <u><i><b>Fear</b></u></i> will be returning to the <u><i><b>active roster</b></u></i> to <u><i><b>play support</b></u></i> for our team!
+>Former EG member <select><option hidden>Player</option><option>Fear</option><option>ppd</option><option>DeMoN</option></select> will be joining our <select><option hidden>Organization</option><option>Dota 2 roster</option><option>stream team</option><option>Rainbow 6 squad</option></select> to <select><option hidden>Role</option><option>play support</option><option>coach</option><option>feed Sumail bananas</option></select>!
 
-><u><i><b>Sumail</b></u></i> will be taking over the role of <u><i><b>offlane</b></u></i> as we say goodbye to <u><i><b>Universe</b></u></i>. 
+><select><option hidden>Player</option><option>Suma1l</option><option>Arteezy</option><option>Bulba</option></select> will be taking over as <select><option hidden>Position</option><option>offlaner</option><option>quadcore</option><option>jungler</option></select> as we say goodbye to <select><option hidden>Literally Anyone Who Isn't Sumail</option><option>Universe</option><option>Misery</option><option>Bulba</option></select>.
 
->Bulba will return as coach for the <u><i><b>ninth</b></u></i> time.
+After these maneuvers failed to produce results, the boys decided to consult the forbidden texts and made a roster change just six days before the Supermajor.
 
->Former EG member <select>
-<option hidden>Player</option>
-<option>Fear</option>
-<option>ppd</option>
-<option>Demon</option>
-</select> 
-will be to
-<select>
-<option hidden>Role</option>
-<option>play support</option>
-<option>captain the Rainbow 6 Siege team</option>
-<option>feed Sumail bananas</option>
-</select>!
-
-After these maneuvers failed to produce results, the boys decided to consult a Ouija board
+>We appreciate your <select><option hidden>Platitude</option><option>continued patience</option><option>passionate support</option><option>angry tweets</option></select> and are excited to announce the addition of <select><option hidden>Player #1 You'd Least Expect</option><option>Fly</option><option>Dendi</option><option>Poopkid</option></select> and <select><option hidden>Player #2 You'd Least Expect</option><option>s4</option><option>Doublelift</option><option>Daigo</option></select>.
 
 **What can we expect?** Several hundred threads on /r/dota2/new/ justifying, decrying, and celebrating every minute-to-minute moment during EG matches. Oh you mean how are they going to do in the tournament? Hell if I know.
 
