@@ -42,12 +42,11 @@ These teams were directly invited to TI by virtue of a new system Valve created 
 
 **What can we expect?** Of all past TI championship squads, Team Liquid has by far maintained the most consistent success in their post-Aegis season. With the team once again winning the penultimate tournament before The International, the stars are aligning for yet another Liquid victory.
 
-**How to sound smart talking about Liquid**
+**How to sound smart talking about Liquid** <!-- "Calling Liquid a 'filler pick' is blatantlly ridiculous.  They're the best early game team in pro Dota; so far 7.06 seems VERY good for them" -->
 
 <blockquote class="twitter-tweet tw-align-center" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Calling Liquid a &quot;filler pick&quot; is blatantlly ridiculous.  They&#39;re the best early game team in pro Dota; so far 7.06 seems VERY good for them</p>&mdash; Nahaz (@NahazDota) <a href="https://twitter.com/NahazDota/status/867702326508781568?ref_src=twsrc%5Etfw">May 25, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<!-- "Calling Liquid a 'filler pick' is blatantlly ridiculous.  They're the best early game team in pro Dota; so far 7.06 seems VERY good for them" -->
+<p></p>
 
 **What would success look like?** First Aegis defenders, first repeat champion(s), first two-time organization victory, world's highest earning esports players for a long time to come.
 
@@ -81,7 +80,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 **How did they qualify?** Attended the most DPC events of any team (tied with Newbee). Did reasonably well in a few of them.
 
-**What can we expect?** Puppey is among of the 
+**What can we expect?** Secret is by far the least consistent team in the top 4 DPC, but they'll usually put on a show with exotic picks.
 
 **How to sound smart talking about Secret** "Did you know that Puppey has competed in every single TI? Yeah, competed."
 
@@ -94,7 +93,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 **Notable tournament placings** DAC 2018 Major champions
 
-**How did they qualify?** While allegedly on the brink of disbanding, the squad managed to beat LGD on their home turf to win DAC. Thankfully, with VP and Liquid vacuuming up all the other DPC points, that Major win was all Mineski needed to secure their TI invite.
+**How did they qualify?** While allegedly on the brink of disbanding, this squad managed to beat LGD on their own home turf to win DAC. Thankfully, with VP and Liquid vacuuming up all the other DPC points, that Major win was all Mineski needed to secure their TI invite.
 
 **What can we expect?** Mineski is one of those teams that people are mostly unsurprised no matter what result they get. Drown in group stage? *Eh, it happens.* Dominant winner's side run? *Knew they had it in them.* Don't even qualify? *Wow, SEA is so competitive!*
 
@@ -257,9 +256,24 @@ Maybe they changed rosters after the lock
 <h2 style="margin: 0px;">Evil Geniuses - <i>North America Regional Qualifier #2</i></h2>
 <hr style="margin-top: 0.5em;">
 
-**Notable tournament placings** GESC: Indonesia Minor champions with 3/5 current players
+**Notable tournament placings** Two out of their five players won the MDL Macau Major and the other three won the GESC: Indonesia Minor. By these powers combined, they earned a total 0 usable DPC points.
 
-**How did they qualify?** EG has been deciding their roster through markov chains for the past nine months. The program corrupted and accidentally took two of OG's players along for the ride.
+**How did they qualify?** EG has been deciding how to play Dota via Mad Libs for the past nine months.
+>Former EG member <u><i><b>Fear</b></u></i> will be returning to the <u><i><b>active roster</b></u></i> to <u><i><b>play support</b></u></i> for our team!
+
+><u><i><b>Sumail</b></u></i> will be taking over the role of <u><i><b>offlane</b></u></i> as we say goodbye to <u><i><b>Universe</b></u></i>. 
+
+>Bulba will return as coach for the <u><i><b>ninth</b></u></i> time.
+
+<p id="test" onclick="myFunction()">Click me to change my text color.</p>
+
+<script>
+function myFunction() {
+ document.getElementById("test").style.color = "red";
+}
+</script>
+
+After these maneuvers failed to produce results, the boys decided to consult a Ouija board
 
 **What can we expect?** Several hundred threads on /r/dota2/new/ justifying, decrying, and celebrating every minute-to-minute moment during EG matches. Oh you mean how are they going to do in the tournament? Hell if I know.
 
