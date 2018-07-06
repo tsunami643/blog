@@ -265,13 +265,8 @@ Maybe they changed rosters after the lock
 
 >Bulba will return as coach for the <u><i><b>ninth</b></u></i> time.
 
-<p id="test" onclick="myFunction()">Click me to change my text color.</p>
+>Former EG member <select name="cars"><option>Fear</option><option>ppd</option><option>Demon</option><option>Merlini</option></select> will be to <select name="cars"><option>play support</option><option>captain the Rainbow 6 Siege team</option><option>feed Sumail bananas</option></select>!
 
-<script>
-function myFunction() {
- document.getElementById("test").style.color = "red";
-}
-</script>
 
 After these maneuvers failed to produce results, the boys decided to consult a Ouija board
 
