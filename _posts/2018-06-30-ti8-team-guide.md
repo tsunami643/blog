@@ -42,8 +42,11 @@ These teams were directly invited to TI by virtue of a new system Valve created 
 
 **What can we expect?** Of all past TI championship squads, Team Liquid has by far maintained the most consistent success in their post-Aegis season. With the team once again winning the penultimate tournament before The International, the stars are aligning for yet another Liquid victory.
 
-**How to sound smart talking about Liquid** <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Calling Liquid a &quot;filler pick&quot; is blatantlly ridiculous.  They&#39;re the best early game team in pro Dota; so far 7.06 seems VERY good for them</p>&mdash; Nahaz (@NahazDota) <a href="https://twitter.com/NahazDota/status/867702326508781568?ref_src=twsrc%5Etfw">May 25, 2017</a></blockquote>
+**How to sound smart talking about Liquid**
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Calling Liquid a &quot;filler pick&quot; is blatantlly ridiculous.  They&#39;re the best early game team in pro Dota; so far 7.06 seems VERY good for them</p>&mdash; Nahaz (@NahazDota) <a href="https://twitter.com/NahazDota/status/867702326508781568?ref_src=twsrc%5Etfw">May 25, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <!-- "Calling Liquid a 'filler pick' is blatantlly ridiculous.  They're the best early game team in pro Dota; so far 7.06 seems VERY good for them" -->
 
 **What would success look like?** First Aegis defenders, first repeat champion(s), first two-time organization victory, world's highest earning esports players for a long time to come.
