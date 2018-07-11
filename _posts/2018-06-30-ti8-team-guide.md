@@ -168,7 +168,9 @@ Maybe they changed rosters after the lock
 
 **How did they qualify?** Ritsu would've needed five more bladders worth of post-draft prep time to beat Europe's DPC qualifier gatekeeping kings.
 
-**What can we expect?** https://media.giphy.com/media/l1J3TiHtjuhUIfusU/giphy.gif
+**What can we expect?**
+
+<img src="/blog/img/ti8teams/ana.webp" onerror="this.onerror=null;this.src='/blog/img/ti8teams/ana.gif';" alt="">
 
 **How to sound smart talking about OG** "I was spamming OG.Topson before Meteor Hammer Invoker was even a twinkle in his eyes."
 
