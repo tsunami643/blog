@@ -69,7 +69,7 @@ In other words, these guys are the world's best chance at saving Dota from becom
 
 The previous paragraph is complete bullshit, but you bought it. That's because if there's anything that makes you sound smart talking about LGD, it's explaining convoluted Chinese memes to redditors who don't really understand them and just want to post, 'Wow, Chinese memes are so high level! xD'
 
-**What would success look like?** Having said that, '\_\_\_\_\_\_\_，\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\!'
+**What would success look like?** Having said that, "\_\_\_\_\_\_\_，\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\!"
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/secretbanner.png" alt="Banner"></p>
@@ -116,7 +116,7 @@ But not win.
 
 **How to sound smart talking about VG** "I saw LaNm in the bathroom. It's true."
 
-**What would success look like?** Fenrir and LaNm doing well enough that they don't "retire" after TI8.
+**What would success look like?** Fenrir and LaNm doing well enough that they don't 'retire' after TI8.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/newbeebanner.png" alt="Banner"></p>
@@ -234,9 +234,9 @@ Maybe they changed rosters after the lock
 
 **How did they qualify?** *Combat Log: Day 86 of SA qualifiers. Skol supplies running low. Game 7 has been delayed until after Sooths gets back from church for Nossa Senhora Aparecida. Rumor is the group stage may be played out again after we discovered Thunder Predator's coach was standing outside a window our entire series.*
 
-**What can we expect?** Puppey is among of the 
+**What can we expect?** This is only the second time a South American team has even appeared at an International, so expectations are tempered.
 
-**How to sound smart talking about Pain** "Did you know that Puppey has competed in every single TI? Yeah competed."
+**How to sound smart talking about PaiN** "Did you know that Puppey has competed in every single TI? Yeah competed."
 
 **What would success look like?** A result more memorable than the SG e-sports Kiev Major run to become the new go-to moment whenever people argue over the strength of SA Dota.
 
@@ -295,7 +295,7 @@ Anything short of a scorched earth loser's bracket run in which EG personally ex
 
 **How to sound smart talking about OpTic** "*True Sight*? Nah fam, I can't wait to see the *Vision* episode on this."
 
-**What would success look like?** Doing so well that Call of Duty players take a break from tweeting "Who's up?" and decide to voluntarily watch Dota 2.
+**What would success look like?** Doing so well that Call of Duty players take a break from tweeting 'Who's up?' and decide to voluntarily watch Dota 2.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/fnaticbanner.png" alt="Banner"></p>
