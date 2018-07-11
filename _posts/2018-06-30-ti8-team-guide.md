@@ -8,11 +8,11 @@ feature-img: "img/ti8teams/ti8header.png"
 
 # HELLO PERSON WITH RSS FEED, PLS IGNORE, THIS IS STILL A WORK IN PROGRESS
 
-It's that time of year again. But your weird friend isn't taking a weeks vacation to go to Seattle, no, it's Vancouver this time. Here's a quick way to get caught up to speed.
+It's that time of year again. But your weird friend isn't taking a weeks vacation to go to Seattle, no, it's Vancouver this time. Here's a quick way to get caught up to speed. Maybe you 
 
 # The Invitees
 
-These teams were directly invited to TI by virtue of a new system Valve created called the "DPC" or the *Dota Pro Circuit.* It was implemented as a means of giving some transparency and structure to an otherwise inscrutable invitation process.
+These teams were directly invited to TI through a new system Valve implemented this year called the *Dota Pro Circuit* or "DPC." It was created as a means of giving some transparency and structure to an otherwise inscrutable invitation process.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/vpbanner.png" alt="Banner"></p>
@@ -23,7 +23,7 @@ These teams were directly invited to TI by virtue of a new system Valve created 
 
 **How did they qualify?** Got top 4 in seven out of the eight majors they attended and then proceeded to win half of them.
 
-**What can we expect?** With their first place DPC finish at the end of the season they're arguably the favorites coming into TI8. They won so many points you could theoretically buy one of their players and automatically get a spot at TI. Oh wait.
+**What can we expect?** With their 1st place DPC finish at the end of the season they're arguably the favorites coming into TI8. They won so many points you could theoretically buy one of their players and automatically get a spot at TI. Oh wait.
 
 **How to sound smart talking about VP** "LAKAD MATATAAAAAAAG."
 
@@ -40,7 +40,7 @@ These teams were directly invited to TI by virtue of a new system Valve created 
 <div class="responsivevideo"><div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="https://www.youtube.com/embed/oWBDZo3axYg?start=1710&rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe></div></div>
 <p></p>
 
-**What can we expect?** Of all past TI championship squads, Team Liquid has by far maintained the most consistent success in their post-Aegis season. With the team once again winning the penultimate tournament before The International, the stars are aligning for yet another Liquid victory.
+**What can we expect?** Of all the past TI championship squads, Team Liquid has by far maintained the most consistent success in their post-Aegis season. With the team once again winning the penultimate tournament before The International, the stars are aligning for yet another Liquid victory.
 
 **How to sound smart talking about Liquid** <!-- "Calling Liquid a 'filler pick' is blatantlly ridiculous.  They're the best early game team in pro Dota; so far 7.06 seems VERY good for them" -->
 
@@ -48,7 +48,7 @@ These teams were directly invited to TI by virtue of a new system Valve created 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p></p>
 
-**What would success look like?** First Aegis defenders, first repeat champion(s), first two-time organization victory, world's highest earning esports players for a long time to come.
+**What would success look like?** First Aegis defenders, first repeat champion(s), first two-time organization victory, world's highest earning esports prize winners for a long time to come.
 
 No pressure.
 
@@ -80,9 +80,9 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 **How did they qualify?** Attended the most DPC events of any team (tied with Newbee). Did reasonably well in a few of them.
 
-**What can we expect?** Secret is by far the least consistent team in the top 4 DPC, but they'll usually put on a show with exotic picks.
+**What can we expect?** Heroes you usually don't see being played in roles you usually won't expect losing to teams Secret usually should beat.
 
-**How to sound smart talking about Secret** "Did you know that Puppey has competed in every single TI? Yeah, competed."
+**How to sound smart talking about Secret** "Oh, I wonder if this is a Yapzor \*insert any hero here\*. You haven't seen them run it? It's really strong."
 
 **What would success look like?** Despite always being *pretty good*, Team Secret's highest placing at any International since the organization's inception was 7/8<sup>th</sup> at TI5. So ideally better than that.
 
@@ -108,13 +108,15 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 **Notable tournament placings** A whole bunch of 2<sup>nd</sup> place finishes
 
-**How did they qualify?** The frontrunning Chinese team for a VG has been giving middle-of-the-pack results throughout the course of the year
+**How did they qualify?** Middle of the pack results during the season translating into a middle of the pack DPC ranking finish.
 
-**What can we expect?** Puppey is among of the 
+**What can we expect?** Just some real solid Dotes. You know, a real focus on the fundamentals. The guys are gonna give it their all. Show some real hustle out there.
 
-**How to sound smart talking about VG** "Did you know that Puppey has competed in every single TI? Yeah competed."
+But not win.
 
-**What would success look like?** On home soil, with so much financial and political capital invested in the tournament, the team has to make the knockout round.
+**How to sound smart talking about VG** "I saw LaNm in the bathroom. It's true."
+
+**What would success look like?** Fenrir and LaNm doing well enough that they don't "retire" after TI8.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/newbeebanner.png" alt="Banner"></p>
@@ -151,7 +153,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 **How to sound smart talking about Thunder** "ddc is so underrated."
 
-**What would success look like?** ddc becoming accurately rated by being the final all-TI attendee to earn an Aegis.
+**What would success look like?** Beyond ddc becoming accurately rated and the final all-TI attendee to earn an Aegis, a victory for their coach, the ever-lovable rOtK, would be something to celebrate for Eastern and Western Dota fans alike.
 
 # The Qualifiers
 
@@ -166,9 +168,9 @@ Maybe they changed rosters after the lock
 
 **How did they qualify?** Ritsu would've needed five more bladders worth of post-draft prep time to beat Europe's DPC qualifier gatekeeping kings.
 
-**What can we expect?** The biggest question mark is Topson, who's first real LAN will be TI8.
+**What can we expect?** https://media.giphy.com/media/l1J3TiHtjuhUIfusU/giphy.gif
 
-**How to sound smart talking about OG** "Did you know that Puppey has competed in every single TI? Yeah competed."
+**How to sound smart talking about OG** "I was spamming OG.Topson before Meteor Hammer Invoker was even a twinkle in his eyes."
 
 **What would success look like?** After multiple failed International runs, it would be only fitting that OG do well at the first TI where they're actually considered underdogs
 
@@ -234,7 +236,7 @@ Maybe they changed rosters after the lock
 
 **How to sound smart talking about Pain** "Did you know that Puppey has competed in every single TI? Yeah competed."
 
-**What would success look like?** People *still* bring up SG e-sports.
+**What would success look like?** A result more memorable than the SG e-sports Kiev Major run to become the new go-to moment whenever people argue over the strength of SA Dota.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/stormbanner.png" alt="Banner"></p>
@@ -243,7 +245,7 @@ Maybe they changed rosters after the lock
 
 **Notable tournament placings** GESC: Thailand Minor champions, 2<sup>nd</sup> place at MDL Changsha Major
 
-**How did they qualify?** Since this team's formation in Sept. 2017, there have been a whopping thirteen different players to don the VGJ.Storm tag at some point during the season. The addition of Resolut1on as the one position seemed the solution in bringing the rotations to a conclusion.
+**How did they qualify?** Since this team's formation in Sept. 2017, there were a whopping thirteen different players to don the VGJ.Storm tag at some point during the season. The addition of Resolut1on as the one position was the solution.
 
 **What can we expect?** Puppey is among of the 
 
@@ -256,7 +258,7 @@ Maybe they changed rosters after the lock
 <h2 style="margin: 0px;">Evil Geniuses - <i>North America Regional Qualifier #2</i></h2>
 <hr style="margin-top: 0.5em;">
 
-**Notable tournament placings** Two out of their five players won the MDL Macau Major and the other three won the GESC: Indonesia Minor.
+**Notable tournament placings** Two out of their five players won the MDL Macau Major and the other three won the GESC: Indonesia Minor. Together, this five man roster had zero usable DPC points.
 
 **How did they qualify?** EG has been deciding how to play Dota via Mad Libs for the past couple of months.
 
@@ -270,7 +272,7 @@ After these maneuvers failed to produce results, the boys decided to consult the
 
 **What can we expect?** Several hundred threads on */r/dota2/new/* justifying, decrying, and celebrating every minute-to-minute moment during EG matches.
 
-How are they going to do in the tournament? Hell if I know.
+Oh, how are they going to do in the tournament? Hell if I know.
 
 **How to sound smart talking about EG** "Did you know that Puppey has competed in every single TI? Yeah competed."
 
@@ -287,11 +289,11 @@ Anything short of a scorched earth loser's bracket run in which EG personally ex
 
 **How did they qualify?** After getting DPCockblocked by VP in three separate events, Zai, 33, and their ragtag band of former TI panelists managed to snag the final spot in NA over compLexity and Immortals.
 
-**What can we expect?** You'd think that being the only NA team to collect any relevant points this season would mean OpTic's the most experienced roster in the region, but coming out as the runt of the qualifier's litter wasn't a great look.
+**What can we expect?** Being the only NA team to collect any relevant points this season should mean that OpTic was the most experienced roster in the region, but coming out as the runt of the qualifier's litter wasn't a great look.
 
-**How to sound smart talking about OpTic** "The T is capital."
+**How to sound smart talking about OpTic** "*True Sight*? Nah fam, I can't wait to see the *Vision* episode on this."
 
-**What would success look like?** Doing so well that Call of Duty players take a break from tweeting 'Who's up?' and decide to actually watch Dota 2.
+**What would success look like?** Doing so well that Call of Duty players take a break from tweeting "Who's up?" and decide to voluntarily watch Dota 2.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/fnaticbanner.png" alt="Banner"></p>
@@ -300,7 +302,7 @@ Anything short of a scorched earth loser's bracket run in which EG personally ex
 
 **Notable tournament placings** 4<sup>th</sup> place at both the ESL Katowice and Birmingham Majors
 
-**How did they qualify?** Simply put, they didn't choke. After losing their way to both TNCs in the group stage, Fnatic awoke their masters to then 2-0 each of them in playoffs and claim the first qualifier spot.
+**How did they qualify?** Simply put, they didn't choke. After losing their way to both TNCs in the group stage, Fnatic went plus ultra in playoffs to then 2-0 each of them and claim the first qualifier spot.
 
 **What can we expect?** Let it All Out of You
 
