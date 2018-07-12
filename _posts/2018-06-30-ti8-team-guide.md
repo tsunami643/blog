@@ -206,7 +206,7 @@ Maybe they made the cardinal sin of changing their rosters after February 5<sup>
 
 **How to sound smart talking about Serenity** "lmaoooo maybe if you watched *actual* amateur dota and not grant streams of trashcan na pubs youd know my boys have been looking like TI winners since hcup season 8."
 
-**What would success look like?** Not getting banned by ACE next year would be a good start.
+**What would success look like?** Not getting banned by ACE next year.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/igbanner.png" alt="Banner"></p>
@@ -278,7 +278,7 @@ Oh, how are they going to do in the tournament? Hell if I know.
 
 **How to sound smart talking about EG** "The current EG roster is the largest waste of potential in the history of dota."
 
-**What would satisfaction look like?** It's not even about the Aegis, it's about the storylines. EG vs Optic would be the highest stakes Sumail-ppd showdown to date. EG vs OG could either be 7Mad's Austerlitz or Waterloo. And of course, EG vs VGJ.Storm=Hassanbowl.
+**What would satisfaction look like?** It's not even about the Aegis, it's about the storylines. EG vs OpTic would be the highest stakes Sumail-ppd showdown to date. EG vs OG could either be 7Mad's Austerlitz or Waterloo. And of course, EG vs VGJ.Storm=Hassanbowl.
 
 Anything short of a scorched earth loser's bracket run in which EG personally executes every last punk would just be a missed opportunity for *The DPC* season 1 finale.
 
@@ -295,7 +295,7 @@ Anything short of a scorched earth loser's bracket run in which EG personally ex
 
 **How to sound smart talking about OpTic** "*True Sight*? Nah fam, I can't wait to see the *Vision* episode on this."
 
-**What would success look like?** Doing so well that Call of Duty players take a break from tweeting 'Who's up?' and decide to voluntarily watch Dota 2.
+**What would success look like?** Doing so well that Call of Duty players take a break from tweeting 'Who's up?' and voluntarily decide to watch Dota 2.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/fnaticbanner.png" alt="Banner"></p>
