@@ -8,11 +8,11 @@ feature-img: "img/ti8teams/ti8header.png"
 
 # HELLO PERSON WITH RSS FEED, PLS IGNORE, THIS IS STILL A WORK IN PROGRESS
 
-It's that time of year again. But your weird friend isn't taking a weeks vacation to go to Seattle, no, it's Vancouver this time. Here's a quick way to get caught up to speed. Maybe you 
+It's that time of year again. Perhaps yo. Or maybe your weird friend's yearly pilgrimage to Seattle has been re-routed to Vancouver and you're shocked to learn they allow this kind of degeneracy in Canada too. Whatever the case, here's a quick guide to get up to speed.
 
 # The Invitees
 
-These teams were directly invited to TI through a new system Valve implemented this year called the *Dota Pro Circuit* or "DPC." It was created as a means of giving some transparency and structure to an otherwise inscrutable invitation process.
+These teams were directly invited to TI through a new system Valve implemented this year called the *Dota Pro Circuit* or "DPC." Instead of the old 
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/vpbanner.png" alt="Banner"></p>
@@ -157,7 +157,7 @@ And not win.
 
 # The Qualifiers
 
-Maybe they changed rosters after the lock
+Maybe they made the cardinal sin of changing their rosters after February 5<sup>th</sup>. Whatever the case, these teams 
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/ogbanner.png" alt="Banner"></p>
@@ -170,7 +170,7 @@ Maybe they changed rosters after the lock
 
 **What can we expect?**
 
-<img src="/blog/img/ti8teams/ana.webp" onerror="this.onerror=null;this.src='/blog/img/ti8teams/ana.gif';" alt="">
+<img src="/blog/img/ti8teams/ana.webp" onerror="this.onerror=null;this.src='/blog/img/ti8teams/ana.gif';" alt="" style="width: 350px;">
 
 **How to sound smart talking about OG** "I was spamming OG.Topson before Meteor Hammer Invoker was even a twinkle in his eyes."
 
@@ -183,7 +183,7 @@ Maybe they changed rosters after the lock
 
 **Notable tournament placings** 3<sup>rd</sup> place at Epicenter XL Major
 
-**How did they qualify?** \**read in deep announcer voice while imagining smash cuts of esports poses and smoke machines*\* Formerly known as ***FlyToMoon,*** this squad of CIS rejects took their ***region by storm*** after being assembled during the ***second half*** of the season. ***Brash, aggressive, and unpredictable.*** This roster has the ***experience to dominate*** and the ***confidence to go with it.*** This is... ***Winstrike.*** \**cut back to panel as Redeye says 'Yes, indeed...' and then asks Cap a question about Iceberg probably*\*
+**How did they qualify?** \**read in deep announcer voice while imagining smash cuts of esports poses in smoke machines*\* Formerly known as ***FlyToMoon,*** this squad of CIS rejects took their ***region by storm*** after being assembled during the ***second half*** of the season. ***Brash, aggressive, and unpredictable.*** This roster has the ***experience to dominate*** and the ***confidence to go with it.*** This is... ***Winstrike.*** \**cut back to panel as Redeye says 'Yes, indeed...' and then asks Cap a question about Iceberg probably*\*
 
 **What can we expect?** Entertaining games and maybe a few upsets, but a deep run by Winstrike is among the darkest of horses.
 
@@ -217,7 +217,7 @@ Maybe they changed rosters after the lock
 
 **How did they qualify?** iG was the *only* team to be directly invited to the Chinese qualifiers since literally every other team messed around with their rosters at some point. After narrowly making it through a group stage tiebreaker, and then losing to Serenity in the playoffs, iG 2-0'd LFY to become the 6<sup>th</sup> Chinese representative at TI8.
 
-**What can we expect?** Probably not much, but Agressif and Q *were* on the TI5 CDEC squad that Cinderella story'd their way from wild cards to grand finals. Just putting that out there.
+**What can we expect?** Probably nothing special, but Agressif and Q *were* on the TI5 CDEC squad that Cinderella story'd their way from wild cards to grand finals.
 
 **How to sound smart talking about iG**  
 <div class="responsivevideo"><div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="https://www.youtube.com/embed/KhQio49YG-Q?rel=0" frameborder="0" allowfullscreen></iframe></div></div>
@@ -236,7 +236,7 @@ Maybe they changed rosters after the lock
 
 **What can we expect?** This is only the second time a South American team has even appeared at an International, so expectations are tempered. Lest we forget, however, this is the same PaiN that beat Liquid in a Bo1 and then a Bo3 during the ESL Birmingham group stage, so a few upsets are definitely on the table.
 
-**How to sound smart talking about PaiN** "Did you know that Puppey has competed in every single TI? Yeah competed."
+**How to sound smart talking about PaiN** "VAMOOOOS! CAPINAR O LOTEEEEE! O SONHO TÁ VIVO."
 
 **What would success look like?** A result more memorable than the SG e-sports Kiev Major run to become the new watershed moment whenever people argue over the strength of SA Dota.
 
@@ -253,7 +253,7 @@ Maybe they changed rosters after the lock
 
 **How to sound smart talking about Storm** "Oh I'm sorry, how many of your team's players are actually American?"
 
-**What would success look like?** So many USA chants you'll forget the tournament is actually in Canada.
+**What would success look like?** So many USA chants you'll forget this TI is actually in Canada.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/egbanner.png" alt="Banner"></p>
