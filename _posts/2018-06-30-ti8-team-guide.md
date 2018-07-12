@@ -270,7 +270,7 @@ Maybe they made the cardinal sin of changing their rosters after February 5<sup>
 
 After these maneuvers failed to produce results, the boys decided to consult the forbidden texts and made one of the most drastic roster changes possible just six days before the Supermajor.
 
->We appreciate your <select><option hidden>Platitude</option><option>continued patience</option><option>passionate support</option><option>angry tweets</option></select> and are excited to announce the additions of <select><option hidden>Player #1 You'd Least Expect</option><option>Fly</option><option>Dendi</option><option>Poopkid</option></select> and <select><option hidden>Player #2 You'd Least Expect</option><option>s4</option><option>Doublelift</option><option>Daigo</option></select> to our Dota 2 team.
+>We appreciate your <select><option hidden>Platitude</option><option>continued patience</option><option>passionate support</option><option>angry tweets</option></select> and are excited to announce the additions of <select><option hidden>Player #1 You'd Least Expect</option><option>Fly</option><option>Dendi</option><option>Poopkid</option></select> and <select><option hidden>Player #2 You'd Least Expect</option><option>s4</option><option>Doublelift</option><option>HookGangGod</option></select> to our Dota 2 team.
 
 **What can we expect?** Several hundred threads on */r/dota2/new/* justifying, decrying, and celebrating every minute-to-minute moment during EG matches.
 
