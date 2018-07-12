@@ -108,7 +108,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 **Notable tournament placings** A whole bunch of 2<sup>nd</sup> place finishes
 
-**How did they qualify?** Middle of the pack results during the season translating into a middle of the pack DPC ranking finish.
+**How did they qualify?** Middle of the pack tournament results translating into a middle of the pack DPC result.
 
 **What can we expect?** Just some real solid Dotes. You know, a real focus on the fundamentals. The guys are gonna give it their all. Show some real hustle out there.
 
@@ -172,7 +172,7 @@ Maybe they made the cardinal sin of changing their rosters after February 5<sup>
 
 <img src="/blog/img/ti8teams/ana.webp" onerror="this.onerror=null;this.src='/blog/img/ti8teams/ana.gif';" alt="" style="width: 350px;">
 
-**How to sound smart talking about OG** "I was spamming OG.Topson before Meteor Hammer Invoker was even a twinkle in his eyes."
+**How to sound smart talking about OG** "I was spamming 'OG.TOPSON' in chat before Meteor Hammer Invoker was even a twinkle in his eyes."
 
 **What would success look like?** After multiple failed International runs, it would be only fitting that OG do well at the first TI where they're actually considered underdogs
 
@@ -234,7 +234,7 @@ Maybe they made the cardinal sin of changing their rosters after February 5<sup>
 
 **How did they qualify?** *Combat Log: Day 86 of SA qualifiers. Skol supplies running low. Game 7 has been delayed until after Sooths gets back from church for Nossa Senhora Aparecida. Rumor is the group stage may be played out again after we discovered Thunder Predator's coach was standing outside a window our entire series.*
 
-**What can we expect?** This is only the second time a South American team has even appeared at an International, so expectations are tempered. Lest we forget, however, this is the same PaiN that beat Liquid in a Bo1 and then a Bo3 during the ESL Birmingham group stage, so a few upsets are definitely on the table.
+**What can we expect?** This is only the second time a South American team has even appeared at an International, so expectations are tempered. Lest we forget, however, this is the same PaiN that beat Liquid in a Bo1 and then a Bo3 during the ESL Birmingham group stage, so a few surprise wins are definitely on the table.
 
 **How to sound smart talking about PaiN** "VAMOOOOS! CAPINAR O LOTEEEEE! O SONHO TÁ VIVO."
 
