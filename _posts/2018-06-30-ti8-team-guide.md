@@ -295,7 +295,7 @@ Anything short of a scorched earth loser's bracket run in which EG personally ex
 
 **How to sound smart talking about OpTic** "*True Sight*? Nah fam, I can't wait to see the *Vision* episode on this."
 
-**What would success look like?** Doing so well that Call of Duty players take a break from tweeting 'Who's up?' and voluntarily decide to watch Dota 2.
+**What would success look like?** Doing so well that Call of Duty players take a break from tweeting 'Who's up?' and decide to voluntarily watch Dota 2.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/fnaticbanner.png" alt="Banner"></p>
@@ -310,7 +310,7 @@ Anything short of a scorched earth loser's bracket run in which EG personally ex
 
 **How to sound smart talking about Fnatic** "Dude, of course he counts. TI1's rules were different, he could've competed at any point!"
 
-**What would success look like?** Abed shakes all remaining 10k MMR doubt, DJ expands his LAN cafe empire, Universe solidifies his spot as the most legendary player in the history of the game, KyoAni begins storyboarding an OVA of EE's life, and pieliedie finally closes his eyes.
+**What would success look like?** Abed shakes all remaining 10k MMR doubt, DJ expands his LAN cafe empire, Universe solidifies his spot on Dota 2's Mount Rushmore, KyoAni begins storyboarding an OVA of EE's life, and pieliedie finally closes his eyes.
 
 For he is at peace.
 
