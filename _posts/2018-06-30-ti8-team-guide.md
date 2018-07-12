@@ -23,11 +23,11 @@ These teams were directly invited to TI through a new system Valve implemented t
 
 **How did they qualify?** Got top 4 in seven out of the eight majors they attended and then proceeded to win half of them.
 
-**What can we expect?** With their 1st place DPC finish at the end of the season they're arguably the favorites coming into TI8. They won so many points you could theoretically buy one of their players and automatically get a spot at TI. Oh wait.
+**What can we expect?** With their 1<sup>st</sup> place DPC ranking finish, they're arguably the favorites coming into TI8. They won so many points you could theoretically buy one of their players and automatically get a spot at TI. Oh wait.
 
-**How to sound smart talking about VP** "LAKAD MATATAAAAAAAG."
+**How to sound smart talking about VP** "They're going to LAKAD MATATAAAG in three... two... one..."
 
-**What would success look like?** Even after swapping a player out halfway through the season, VP has only grown stronger with each passing tournament. Anything short of a grand finals appearance would undoubtedly be a disappointment to the team, their fans, and battle point predictions.
+**What would success look like?** Anything short of a grand finals appearance would undoubtedly be a disappointment to the team, their fans, and bracket predictions.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/liquidbanner.png" alt="Banner"></p>
@@ -48,7 +48,7 @@ These teams were directly invited to TI through a new system Valve implemented t
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p></p>
 
-**What would success look like?** First Aegis defenders, first repeat champion(s), first two-time organization victory, world's highest earning esports prize winners for a long time to come.
+**What would success look like?** First Aegis defenders, first repeat champion(s), first two-time organization victory, world's highest earning esports prize winners for at least a few years.
 
 No pressure.
 
@@ -59,7 +59,7 @@ No pressure.
 
 **Notable tournament placings** Epicenter XL Major champions, MDL Changsha Major champions
 
-**How did they qualify?** LGD went from mostly irrelevant Chinese bottom feeder to French sponsored TI contender in the span of two months starting with a 2<sup>nd</sup> place finish at DAC in April to winning MDL in May.
+**How did they qualify?** LGD went from mostly irrelevant Chinese bottom feeder to French sponsored TI contender in a whirlwind two months starting with a 2<sup>nd</sup> place finish at DAC in April to winning MDL in May.
 
 **What can we expect?** The lore behind TI champions is every alternate year is a "China year." TI1 - Na'Vi (Western), TI2 - iG (Chinese), TI3 - Alliance (Western), TI4 - Newbee (Chinese), TI5 - EG (Western), TI6 - Wings (Chinese), TI7 - Liquid (Western).
 
@@ -93,7 +93,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 **Notable tournament placings** DAC 2018 Major champions
 
-**How did they qualify?** While allegedly on the brink of disbanding, this squad managed to beat LGD on their own home turf to win DAC. Thankfully, with VP and Liquid vacuuming up all the other DPC points, that Major win was all Mineski needed to secure their TI invite.
+**How did they qualify?** While allegedly on the brink of disbanding, the squad managed to beat LGD on their own home turf to win DAC. Thankfully, with VP and Liquid vacuuming up all the other DPC points, that Major win was all Mineski needed to secure their TI invite.
 
 **What can we expect?** Mineski is one of those teams that people are mostly unsurprised no matter what result they get. Drown in group stage? *Eh, it happens.* Dominant winner's side run? *Knew they had it in them.* Don't even qualify? *Wow, SEA is so competitive!*
 
@@ -112,7 +112,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 **What can we expect?** Just some real solid Dotes. You know, a real focus on the fundamentals. The guys are gonna give it their all. Show some real hustle out there.
 
-But not win.
+And not win.
 
 **How to sound smart talking about VG** "I saw LaNm in the bathroom. It's true."
 
@@ -217,7 +217,7 @@ Maybe they changed rosters after the lock
 
 **How did they qualify?** iG was the *only* team to be directly invited to the Chinese qualifiers since literally every other team messed around with their rosters at some point. After narrowly making it through a group stage tiebreaker, and then losing to Serenity in the playoffs, iG 2-0'd LFY to become the 6<sup>th</sup> Chinese representative at TI8.
 
-**What can we expect?** i dunno
+**What can we expect?** Probably not much, but Agressif and Q *were* on the TI5 CDEC squad that Cinderella story'd their way from wild cards to grand finals. Just putting that out there.
 
 **How to sound smart talking about iG**  
 <div class="responsivevideo"><div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="https://www.youtube.com/embed/KhQio49YG-Q?rel=0" frameborder="0" allowfullscreen></iframe></div></div>
@@ -234,11 +234,11 @@ Maybe they changed rosters after the lock
 
 **How did they qualify?** *Combat Log: Day 86 of SA qualifiers. Skol supplies running low. Game 7 has been delayed until after Sooths gets back from church for Nossa Senhora Aparecida. Rumor is the group stage may be played out again after we discovered Thunder Predator's coach was standing outside a window our entire series.*
 
-**What can we expect?** This is only the second time a South American team has even appeared at an International, so expectations are tempered.
+**What can we expect?** This is only the second time a South American team has even appeared at an International, so expectations are tempered. Lest we forget, however, this is the same PaiN that beat Liquid in a Bo1 and then a Bo3 during the ESL Birmingham group stage, so a few upsets are definitely on the table.
 
 **How to sound smart talking about PaiN** "Did you know that Puppey has competed in every single TI? Yeah competed."
 
-**What would success look like?** A result more memorable than the SG e-sports Kiev Major run to become the new go-to moment whenever people argue over the strength of SA Dota.
+**What would success look like?** A result more memorable than the SG e-sports Kiev Major run to become the new watershed moment whenever people argue over the strength of SA Dota.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/stormbanner.png" alt="Banner"></p>
@@ -247,13 +247,13 @@ Maybe they changed rosters after the lock
 
 **Notable tournament placings** GESC: Thailand Minor champions, 2<sup>nd</sup> place at MDL Changsha Major
 
-**How did they qualify?** Since this team's formation in Sept. 2017, there were a whopping thirteen different players to don the VGJ.Storm tag at some point during the season. The addition of Resolut1on as the one position was the solution.
+**How did they qualify?** Since this team's formation in Sept. 2017, there were a whopping thirteen different players to don the VGJ.Storm tag at some point during the season. The addition of Resolut1on as the one position was the conclusion.
 
-**What can we expect?** Puppey is among of the 
+**What can we expect?** It's no coincidence that the team with the most American players on the roster made it through the NA qualifiers first.
 
-**How to sound smart talking about Storm** "Did you know that Puppey has competed in every single TI? Yeah competed."
+**How to sound smart talking about Storm** "Oh I'm sorry, how many of your team's players are actually American?"
 
-**What would success look like?** As of the end of qualifiers, Storm would appear to be NA's best shot at bringing home the title.
+**What would success look like?** So many USA chants you'll forget the tournament is actually in Canada.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/egbanner.png" alt="Banner"></p>
@@ -276,7 +276,7 @@ After these maneuvers failed to produce results, the boys decided to consult the
 
 Oh, how are they going to do in the tournament? Hell if I know.
 
-**How to sound smart talking about EG** "Did you know that Puppey has competed in every single TI? Yeah competed."
+**How to sound smart talking about EG** "The current EG roster is the largest waste of potential in the history of dota."
 
 **What would satisfaction look like?** It's not even about the Aegis, it's about the storylines. EG vs Optic would be the highest stakes Sumail-ppd showdown to date. EG vs OG could either be 7Mad's Austerlitz or Waterloo. And of course, EG vs VGJ.Storm=Hassanbowl.
 
