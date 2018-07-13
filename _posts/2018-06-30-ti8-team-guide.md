@@ -183,7 +183,7 @@ The next ten teams came through an online qualifier within their respective regi
 
 **Notable tournament placings** 3<sup>rd</sup> place at Epicenter XL Major
 
-**How did they qualify?** \**read in deep announcer voice while imagining smash cuts of esports poses in smoke machines*\* Formerly known as ***FlyToMoon,*** this squad of CIS rejects took their ***region by storm*** after being assembled during the ***second half*** of the season. ***Brash, aggressive, and unpredictable.*** This roster has the ***experience to dominate*** and the ***confidence to go with it.*** This is... ***Winstrike.*** \**cut back to panel as Redeye says 'Yes, indeed...' and then asks Cap a question about Iceberg probably*\*
+**How did they qualify?** \**read in deep announcer voice while imagining smash cuts of esports poses shrouded by smoke machines*\* Formerly known as ***FlyToMoon,*** this squad of CIS rejects took their ***region by storm*** after being assembled during the ***second half*** of the season. ***Brash, aggressive, and unpredictable.*** This roster has the ***experience to dominate*** and the ***confidence to go with it.*** This is... ***Winstrike.*** \**cut back to panel as Redeye says 'Yes, indeed...' and then asks Cap a question about Iceberg probably*\*
 
 **What can we expect?** Entertaining games and maybe a few upsets, but a deep run by Winstrike is among the darkest of horses.
 
@@ -217,7 +217,7 @@ The next ten teams came through an online qualifier within their respective regi
 
 **How did they qualify?** iG was the *only* team to be directly invited to the Chinese qualifiers since literally every other team messed around with their rosters at some point. After narrowly making it through a group stage tiebreaker, and then losing to Serenity in the playoffs, iG 2-0'd LFY to become the 6<sup>th</sup> Chinese representative at TI8.
 
-**What can we expect?** Probably nothing special, but Agressif and Q *were* on the TI5 CDEC squad that Cinderella story'd their way from wild cards to grand finals.
+**What can we expect?** Probably nothing special, but it's worth noting that Agressif and Q *were* on the TI5 CDEC squad that Cinderella story'd their way from wild cards to grand finals.
 
 **How to sound smart talking about iG**  
 <div class="responsivevideo"><div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="https://www.youtube.com/embed/KhQio49YG-Q?rel=0" frameborder="0" allowfullscreen></iframe></div></div>
@@ -260,9 +260,9 @@ The next ten teams came through an online qualifier within their respective regi
 <h2 style="margin: 0px;">Evil Geniuses - <i>North America Regional Qualifier #2</i></h2>
 <hr style="margin-top: 0.5em;">
 
-**Notable tournament placings** Two out of their five players won the MDL Macau Major and the other three won the GESC: Indonesia Minor. Together, this five man roster had zero usable DPC points.
+**Notable tournament placings** Two out of their five players won the MDL Macau Major and the other three won the GESC: Indonesia Minor. By these powers combined, this five man roster had zero usable DPC points.
 
-**How did they qualify?** EG has been deciding how to play Dota via Mad Libs for the past couple of months.
+**How did they qualify?** EG has been deciding how to play Dota via Mad Libs this past year.
 
 >Former EG member <select><option hidden>Player</option><option>Fear</option><option>ppd</option><option>Demon</option></select> will be joining our <select><option hidden>Organization</option><option>Dota 2 roster</option><option>stream team</option><option>Rainbow 6 squad</option></select> to <select><option hidden>Role</option><option>play support</option><option>coach</option><option>feed Sumail bananas</option></select> !
 
@@ -333,4 +333,4 @@ Scientists have yet to determine if a second game is possible.
 
 ----
 
-This article was inspired by a *New York Times* [guide to World Cup teams](https://www.nytimes.com/2018/06/11/sports/world-cup-groups.html) appropriated for Dota [as suggested by @SkimGaming.](https://twitter.com/SkimGaming/status/1007998992498790401)
+This article was inspired by a *New York Times* [guide to World Cup teams](https://www.nytimes.com/2018/06/11/sports/world-cup-groups.html) appropriated for Dota as suggested by [@SkimGaming.](https://twitter.com/SkimGaming/status/1007998992498790401)
