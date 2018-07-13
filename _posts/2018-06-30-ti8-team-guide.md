@@ -8,26 +8,26 @@ feature-img: "img/ti8teams/ti8header.png"
 
 # HELLO PERSON WITH RSS FEED, PLS IGNORE, THIS IS STILL A WORK IN PROGRESS
 
-It's that time of year again. Perhaps yo. Or maybe your weird friend's yearly pilgrimage to Seattle has been re-routed to Vancouver and you're shocked to learn they allow this kind of degeneracy in Canada too. Whatever the case, here's a quick guide to get up to speed.
+It's that time of year again. Perhaps you already heard . Or maybe your weird friend's yearly pilgrimage to Seattle has been re-routed to Vancouver and you're shocked to learn they allow this kind of degeneracy in Canada too. Whatever the case, here's a quick guide to get up to speed.
 
 # The Invitees
 
-These teams were directly invited to TI through a new system Valve implemented this year called the *Dota Pro Circuit* or "DPC." Instead of the old 
+These eight teams were directly invited to The International through a new system Valve implemented this year called the *Dota Pro Circuit* or '*DPC*'. Instead of the old, ambiguous, invitation process of 'do pretty good in the five months before TI,' teams were given a new, clearer, invitation process of 'do pretty good in the five months before TI and don't you dare mess with your roster.'
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/vpbanner.png" alt="Banner"></p>
 <h2 style="margin: 0px;">Virtus.pro</h2>
 <hr style="margin-top: 0.5em;">
 
-**Notable tournament placings** Just say ESL and some random city that sounds famous, but isn't  really known for tourism. Chances are VP won something there. *"Yeah, they looked really good at ESL... Düsseldorf. I didn't watch it, though. Fuck Facebook."*
+**Notable tournament placings** Just say ESL and some random city that sounds famous, but isn't really known for tourism. Chances are VP won something there. *"Yeah, they looked really good at ESL... Düsseldorf. I didn't watch it, though. Fuck Facebook."*
 
 **How did they qualify?** Got top 4 in seven out of the eight majors they attended and then proceeded to win half of them.
 
-**What can we expect?** With their 1<sup>st</sup> place DPC ranking finish, they're arguably the favorites coming into TI8. They won so many points you could theoretically buy one of their players and automatically get a spot at TI. Oh wait.
+**What can we expect?** With their top DPC ranking finish, they're arguably the favorites coming into TI8. They won so many points you could theoretically buy one of their players and automatically get a spot at TI. Oh wait.
 
-**How to sound smart talking about VP** "They're going to LAKAD MATATAAAG in three... two... one..."
+**How to sound smart talking about VP** "Maybe Sansheng should've made a guide on how to deal with a chat wheel."
 
-**What would success look like?** Anything short of a grand finals appearance would undoubtedly be a disappointment to the team, their fans, and bracket predictions.
+**What would success look like?** Anything short of a grand finals appearance would undoubtedly be a disappointment to the team, their fans, and people hoping to get the 50 correct predictions Battle Pass achievement from VP matches.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/liquidbanner.png" alt="Banner"></p>
@@ -40,7 +40,7 @@ These teams were directly invited to TI through a new system Valve implemented t
 <div class="responsivevideo"><div class="video-container" style="text-align: center;"><iframe width="840" height="472" src="https://www.youtube.com/embed/oWBDZo3axYg?start=1710&rel=0&cc_load_policy=1" frameborder="0" allowfullscreen></iframe></div></div>
 <p></p>
 
-**What can we expect?** Of all the past TI championship squads, Team Liquid has by far maintained the most consistent success in their post-Aegis season. With the team once again winning the penultimate tournament before The International, the stars are aligning for yet another Liquid victory.
+**What can we expect?** Of all the past TI championship squads, Team Liquid has by far maintained the most consistent success in their post-Aegis season. With the team once again winning the penultimate tournament before The International, this could potentially be another year of the horse.
 
 **How to sound smart talking about Liquid** <!-- "Calling Liquid a 'filler pick' is blatantlly ridiculous.  They're the best early game team in pro Dota; so far 7.06 seems VERY good for them" -->
 
@@ -48,7 +48,7 @@ These teams were directly invited to TI through a new system Valve implemented t
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <p></p>
 
-**What would success look like?** First Aegis defenders, first repeat champion(s), first two-time organization victory, world's highest earning esports prize winners for at least a few years.
+**What would success look like?** First defense of the Aegis, first repeat champion(s), first two-time organization victory, world's highest earning esports prize winners for at least a few years to come.
 
 No pressure.
 
@@ -80,7 +80,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 **How did they qualify?** Attended the most DPC events of any team (tied with Newbee). Did reasonably well in a few of them.
 
-**What can we expect?** Heroes you usually don't see being played in roles you usually won't expect losing to teams Secret usually should beat.
+**What can we expect?** Heroes you usually don't see being played in roles you usually wouldn't expect losing to teams Secret usually should beat.
 
 **How to sound smart talking about Secret** "Oh, I wonder if this is a Yapzor \*insert any hero here\*. You haven't seen them run it? It's really strong."
 
@@ -153,11 +153,11 @@ And not win.
 
 **How to sound smart talking about Thunder** "ddc is so underrated."
 
-**What would success look like?** Beyond ddc becoming accurately rated and the final all-TI attendee to earn an Aegis, a victory for their coach, the ever-lovable rOtK, would be something to celebrate for Eastern and Western Dota fans alike.
+**What would success look like?** Beyond ddc becoming the last of the <abbr title="Puppey, Universe, Kuroky, ddc">Elite Four all-TI attendees</abbr> to earn an Aegis, a victory for their coach, the ever-lovable rOtK, would be something to celebrate for Eastern and Western Dota fans alike.
 
 # The Qualifiers
 
-Maybe they made the cardinal sin of changing their rosters after February 5<sup>th</sup>. Whatever the case, these teams 
+The next ten teams came through an online qualifier within their respective regions. Half of them had to even go through a Bo1 madhouse open qualifier for committing the cardinal sin of wanting to change their rosters after February 5<sup>th</sup>.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/ogbanner.png" alt="Banner"></p>
@@ -236,7 +236,7 @@ Maybe they made the cardinal sin of changing their rosters after February 5<sup>
 
 **What can we expect?** This is only the second time a South American team has even appeared at an International, so expectations are tempered. Lest we forget, however, this is the same PaiN that beat Liquid in a Bo1 and then a Bo3 during the ESL Birmingham group stage, so a few surprise wins are definitely on the table.
 
-**How to sound smart talking about PaiN** "VAMOOOOS! CAPINAR O LOTEEEEE! O SONHO TÁ VIVO."
+**How to sound smart talking about PaiN** "VAMOOOOS! CAPINAR O LOTE! O SONHO TÁ VIVO."
 
 **What would success look like?** A result more memorable than the SG e-sports Kiev Major run to become the new watershed moment whenever people argue over the strength of SA Dota.
 
@@ -331,4 +331,6 @@ Scientists have yet to determine if a second game is possible.
 
 **What would success look like?** The longer they stay in the tournament, the longer I can keep blindly picking Raven for easy fantasy points.
 
-INSPIRED BY https://www.nytimes.com/2018/06/11/sports/world-cup-groups.html
+----
+
+This article was inspired by a *New York Times* [guide to World Cup teams](https://www.nytimes.com/2018/06/11/sports/world-cup-groups.html) appropriated for Dota [as suggested by @SkimGaming.](https://twitter.com/SkimGaming/status/1007998992498790401)
