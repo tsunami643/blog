@@ -47,6 +47,36 @@
 	<meta name="twitter:image" content="{{ site.url }}/blog/img/avatar.png">
 	{% endif %}
 
+	<!-- Open Graph -->
+	<meta content="tsunami blog" property="og:site_name">
+	{% if page.title %}
+  	<meta content="{{ page.title }}" property="og:title">
+	{% else %}
+  	<meta content="{{ site.title }}" property="og:title">
+	{% endif %}
+	{% if page.title %}
+  	<meta content="article" property="og:type">
+	{% else %}
+  	<meta content="website" property="og:type">
+	{% endif %}
+	{% if page.summary %}
+  	<meta content="{{ page.summary }}" property="og:description">
+	{% else %}
+  	<meta content="{{ site.summary }}" property="og:description">
+	{% endif %}
+	{% if page.url %}
+  	<meta content="{{ site.url }}{{ page.url }}" property="og:url">
+	{% endif %}
+	{% if page.date %}
+  	<meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+  	<meta content="{{ site.url }}/about/" property="article:author">
+	{% endif %}
+	{% if page.feature-img %}
+  	<meta content="{{ site.url }}/blog/{{ page.feature-img }}" property="og:image">
+	{% else %}
+  	<meta content="{{ site.url }}/blog/img/avatar.png" property="og:image">
+	{% endif %}
+
 	<!-- KaTeX -->
 	{% if site.theme_settings.katex %}
 	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css">
