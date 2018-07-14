@@ -50,6 +50,7 @@ header {
   }
   .post-content {
     @extend %padding-regular;
+    padding-bottom: 1%;
   }
 }
 
