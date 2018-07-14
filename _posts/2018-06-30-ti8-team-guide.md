@@ -331,4 +331,4 @@ Scientists have yet to determine if a second game is possible.
 
 ----
 
-<p style="margin-bottom: 0.5em;font-size: smaller;">This article was inspired by a <i>New York Times</i> <a href="https://www.nytimes.com/2018/06/11/sports/world-cup-groups.html">guide to World Cup teams</a> and appropriated for Dota as suggested by <a href="https://twitter.com/SkimGaming/status/1007998992498790401">@SkimGaming.</a></p>
+<p style="text-align: justify;margin-bottom: 0.5em;font-size: smaller;">This article was inspired by a <i>New York Times</i> <a href="https://www.nytimes.com/2018/06/11/sports/world-cup-groups.html">guide to World Cup teams</a> and appropriated for Dota as suggested by <a href="https://twitter.com/SkimGaming/status/1007998992498790401">@SkimGaming.</a></p>
