@@ -2,7 +2,7 @@
 layout: "post"
 title: "The International 2018: A Practical Guide to All 18 Teams"
 date: "2017-09-04 08:08"
-summary:    How to sound smart to Dota players.
+summary:    The bare minimum information you need to know before speaking to a Dota player this August.
 feature-img: "img/ti8teams/ti8header.png"
 ---
 
@@ -12,9 +12,9 @@ It's that time of year again. Perhaps you already heard . Or maybe your weird fr
 
 # The Invitees
 
-These eight teams were directly invited to TI8 through a new system Valve implemented this year called the *Dota Pro Circuit* or '*DPC*'. Instead of the old, ambiguous, invitation process of 'do pretty good in the five months before TI,' teams were given a new, clearer, invitation process of 'do pretty good in the five months before TI and don't you dare mess with your roster.' No one ended up invited by a technicality, but make no mistake, there exists a vast gap in skill between the upper and lower echelons of this top 8.
+These eight teams were directly invited to TI8 through a new system Valve implemented this year called the *Dota Pro Circuit* or '*DPC*'. Instead of the old, ambiguous, invitation process of 'do pretty good in the five months before TI,' players were given a new, clearer, invitation process of 'do pretty good in the five months before TI and don't you dare mess with your roster.' That's not to say any team ended up invited due to a technicality, but make no mistake, there exists a vast gap in skill between the upper and lower tiers of this top 8.
 
-The beauty of TI is that most of those skill differences go out the window anyway.
+The beauty is most of those skill differences go out the window once you're at The International.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/vpbanner.png" alt="Banner"></p>
