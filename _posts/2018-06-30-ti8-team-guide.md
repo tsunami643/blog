@@ -12,7 +12,9 @@ It's that time of year again. Perhaps you already heard . Or maybe your weird fr
 
 # The Invitees
 
-These eight teams were directly invited to The International through a new system Valve implemented this year called the *Dota Pro Circuit* or '*DPC*'. Instead of the old, ambiguous, invitation process of 'do pretty good in the five months before TI,' teams were given a new, clearer, invitation process of 'do pretty good in the five months before TI and don't you dare mess with your roster.'
+These eight teams were directly invited to TI8 through a new system Valve implemented this year called the *Dota Pro Circuit* or '*DPC*'. Instead of the old, ambiguous, invitation process of 'do pretty good in the five months before TI,' teams were given a new, clearer, invitation process of 'do pretty good in the five months before TI and don't you dare mess with your roster.' No one ended up invited by a technicality, but make no mistake, there exists a vast gap in skill between the upper and lower echelons of this top 8.
+
+The beauty of TI is that most of those skill differences go out the window anyway.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/vpbanner.png" alt="Banner"></p>
@@ -157,7 +159,7 @@ And not win.
 
 # The Qualifiers
 
-The next ten teams came through an online qualifier within their respective regions. Half of them had to even go through a Bo1 madhouse open qualifier for committing the cardinal sin of wanting to change their rosters after February 5<sup>th</sup>.
+The other ten teams came through online qualifiers within their respective regions. Half of them had to even go through a Bo1 madhouse open qualifier for committing the cardinal sin of wanting to change their rosters after February 5<sup>th</sup>.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/ogbanner.png" alt="Banner"></p>
@@ -331,4 +333,4 @@ Scientists have yet to determine if a second game is possible.
 
 ----
 
-<p style="text-align: justify;margin-bottom: 0.5em;font-size: smaller;">This article was inspired by a <i>New York Times</i> <a href="https://www.nytimes.com/2018/06/11/sports/world-cup-groups.html">guide to World Cup teams</a> and appropriated for Dota as suggested by <a href="https://twitter.com/SkimGaming/status/1007998992498790401">@SkimGaming.</a></p>
+<p style="text-align: justify;margin-bottom: 0.5em;font-size: smaller;">This article was inspired by a <i>New York Times</i> <a href="https://www.nytimes.com/2018/06/11/sports/world-cup-groups.html">guide to World Cup teams</a> and appropriated for Dota as suggested by <a href="https://twitter.com/SkimGaming/status/1007998992498790401">@SkimGaming.</a> Much appreciation to the people who exhaustively update all the tournament and team results on Liquipedia as well as those responsible for this exceptionally detailed <a href="https://liquipedia.net/dota2/Dota_Pro_Circuit/Stats">Dota Pro Circuit stats page.</a></p>
