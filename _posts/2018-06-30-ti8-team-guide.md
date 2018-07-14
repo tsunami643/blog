@@ -183,7 +183,7 @@ The next ten teams came through an online qualifier within their respective regi
 
 **Notable tournament placings** 3<sup>rd</sup> place at Epicenter XL Major
 
-**How did they qualify?** \**read in deep announcer voice while imagining smash cuts of esports poses shrouded by smoke machines*\* Formerly known as ***FlyToMoon,*** this squad of CIS rejects took their ***region by storm*** after being assembled during the ***second half*** of the season. ***Brash, aggressive, and unpredictable.*** This roster has the ***experience to dominate*** and the ***confidence to go with it.*** This is... ***Winstrike.*** \**cut back to panel as Redeye says 'Yes, indeed...' and then asks Cap a question about Iceberg probably*\*
+**How did they qualify?** \**read in deep announcer voice while imagining smash cuts of esports poses shrouded by smoke machines*\* Formerly known as ***FlyToMoon,*** this squad of CIS rejects took their ***region by storm*** after being assembled during the ***second half*** of the season. ***Brash, aggressive, and unpredictable.*** This roster has the ***experience to dominate*** and the ***confidence to go with it.*** This is... ***Winstrike.*** \**cut back to panel as Redeye says "Yes, indeed..." and then asks Cap a question about Iceberg probably*\*
 
 **What can we expect?** Entertaining games and maybe a few upsets, but a deep run by Winstrike is among the darkest of horses.
 
@@ -236,7 +236,7 @@ The next ten teams came through an online qualifier within their respective regi
 
 **What can we expect?** This is only the second time a South American team has even appeared at an International, so expectations are tempered. Lest we forget, however, this is the same PaiN that beat Liquid in a Bo1 and then a Bo3 during the ESL Birmingham group stage, so a few surprise wins are definitely on the table.
 
-**How to sound smart talking about PaiN** "VAMOOOOS! CAPINAR O LOTE! O SONHO TÁ VIVO."
+**How to sound smart talking about PaiN** "O SONHO TÁ VIVO. CAPINAR O LOTE! VAMOOOOS!"
 
 **What would success look like?** A result more memorable than the SG e-sports Kiev Major run to become the new watershed moment whenever people argue over the strength of SA Dota.
 
@@ -247,11 +247,11 @@ The next ten teams came through an online qualifier within their respective regi
 
 **Notable tournament placings** GESC: Thailand Minor champions, 2<sup>nd</sup> place at MDL Changsha Major
 
-**How did they qualify?** Since this team's formation in Sept. 2017, there were a whopping thirteen different players to don the VGJ.Storm tag at some point during the season. The addition of Resolut1on as the one position was the conclusion.
+**How did they qualify?** Since this team's formation in Sept. 2017, there were a whopping thirteen different players to don the VGJ.Storm tag at some point during the season. The addition of Resolut1on as the one position was the culmination, but it's no coincidence that the team with the most American players on the roster made it through the NA qualifiers first.
 
-**What can we expect?** It's no coincidence that the team with the most American players on the roster made it through the NA qualifiers first.
+**What can we expect?** Jeremy Lin to make his yearly cameo, but now with some actual skin in the game.
 
-**How to sound smart talking about Storm** "Oh I'm sorry, how many of your team's players are actually American?"
+**How to sound smart talking about Storm** "BSJ was ahead of his time."
 
 **What would success look like?** So many USA chants you'll forget this TI is actually in Canada.
 
@@ -262,7 +262,7 @@ The next ten teams came through an online qualifier within their respective regi
 
 **Notable tournament placings** Two out of their five players won the MDL Macau Major and the other three won the GESC: Indonesia Minor. By these powers combined, this five man roster had zero usable DPC points.
 
-**How did they qualify?** EG has been deciding how to play Dota via Mad Libs this past year.
+**How did they qualify?** EG has been deciding how to play Dota via Mad Libs for the past year.
 
 >Former EG member <select><option hidden>Player</option><option>Fear</option><option>ppd</option><option>Demon</option></select> will be joining our <select><option hidden>Organization</option><option>Dota 2 roster</option><option>stream team</option><option>Rainbow 6 squad</option></select> to <select><option hidden>Role</option><option>play support</option><option>coach</option><option>feed Sumail bananas</option></select> !
 
@@ -273,8 +273,6 @@ After these maneuvers failed to produce results, the boys decided to consult the
 >We appreciate your <select><option hidden>Platitude</option><option>continued patience</option><option>passionate support</option><option>angry tweets</option></select> and are excited to announce the additions of <select><option hidden>Player #1 You'd Least Expect</option><option>Fly</option><option>Dendi</option><option>Poopkid</option></select> and <select><option hidden>Player #2 You'd Least Expect</option><option>s4</option><option>Doublelift</option><option>HookGangGod</option></select> to our Dota 2 team.
 
 **What can we expect?** Several hundred threads on */r/dota2/new/* justifying, decrying, and celebrating every minute-to-minute moment during EG matches.
-
-Oh, how are they going to do in the tournament? Hell if I know.
 
 **How to sound smart talking about EG** "The current EG roster is the largest waste of potential in the history of dota."
 
@@ -291,7 +289,7 @@ Anything short of a scorched earth loser's bracket run in which EG personally ex
 
 **How did they qualify?** After getting DPCockblocked by VP in three separate events, Zai, 33, and their ragtag band of former TI panelists managed to snag the final spot in NA over compLexity and Immortals.
 
-**What can we expect?** Being the only NA team to collect any relevant points this season should mean that OpTic was the most experienced roster in the region, but coming out as the runt of the qualifier's litter wasn't a great look.
+**What can we expect?** Being the only NA team to collect any relevant points this season should've meant that OpTic was the most vetted roster in the region, but coming out as the runt of the qualifier's litter wasn't a great look.
 
 **How to sound smart talking about OpTic** "*True Sight*? Nah fam, I can't wait to see the *Vision* episode on this."
 
@@ -333,4 +331,4 @@ Scientists have yet to determine if a second game is possible.
 
 ----
 
-This article was inspired by a *New York Times* [guide to World Cup teams](https://www.nytimes.com/2018/06/11/sports/world-cup-groups.html) appropriated for Dota as suggested by [@SkimGaming.](https://twitter.com/SkimGaming/status/1007998992498790401)
+<p style="font-size: smaller;">This article was inspired by a *New York Times* [guide to World Cup teams](https://www.nytimes.com/2018/06/11/sports/world-cup-groups.html) and appropriated for Dota as suggested by [@SkimGaming.](https://twitter.com/SkimGaming/status/1007998992498790401)</p>
