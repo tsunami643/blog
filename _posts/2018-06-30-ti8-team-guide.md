@@ -6,15 +6,15 @@ summary:    The bare minimum information you need to know before speaking to a D
 feature-img: "img/ti8teams/ti8header.png"
 ---
 
-# HELLO PERSON WITH RSS FEED, PLS IGNORE, THIS IS STILL A WORK IN PROGRESS
+## HELLO PERSON WITH RSS FEED, PLS IGNORE, THIS IS STILL A WORK IN PROGRESS
 
-It's that time of year again. Perhaps you already heard . Or maybe your weird friend's yearly pilgrimage to Seattle has been re-routed to Vancouver and you're shocked to learn they allow this kind of degeneracy in Canada too. Whatever the case, here's a quick guide to get up to speed.
+It's that time of year again. Perhaps you already heard . Or maybe your weird friend's yearly pilgrimage to Seattle has been re-routed to Vancouver and you're shocked to learn they allow this kind of degeneracy in Canada too. Whatever the case, here's a quick guide to get you up to speed.
 
 # The Invitees
 
-These eight teams were directly invited to TI8 through a new system Valve implemented this year called the *Dota Pro Circuit* or '*DPC*'. Instead of the old, ambiguous, invitation process of 'do pretty good in the five months before TI,' players were given a new, clearer, invitation process of 'do pretty good in the five months before TI and don't you dare mess with your roster.' That's not to say any team ended up invited due to a technicality, but make no mistake, there exists a vast gap in skill between the upper and lower tiers of this top 8.
+These eight teams were directly invited to TI8 through a new system Valve implemented this year called the *Dota Pro Circuit* or '*DPC*'. Instead of the old, ambiguous, invitation process of 'do pretty good in the five months before TI,' players were given a new, clearer, invitation process of 'do pretty good in the five months before TI and don't you dare mess with your roster.' That's not to say any team ended up invited due to a technicality, but make no mistake, there exists a significant skill gap between the upper and lower tiers of this list.
 
-The beauty of The International is that most of those skill differences tend to go out the window.
+The beauty of The International is that most of these skill differences tend to go out the window.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/vpbanner.png" alt="Banner"></p>
@@ -118,7 +118,7 @@ And not win.
 
 **How to sound smart talking about VG** "I saw LaNm in the bathroom. It's true."
 
-**What would success look like?** Fenrir and LaNm doing well enough that they don't 'retire' after TI8.
+**What would success look like?** Fenrir and LaNm doing well enough that they don't """retire""" after TI8.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/newbeebanner.png" alt="Banner"></p>
@@ -159,14 +159,14 @@ And not win.
 
 # The Qualifiers
 
-The other ten teams came through online qualifiers within their respective regions. Half of them had to even go through a Bo1 madhouse open qualifier for committing the cardinal sin of wanting to change their rosters after February 5<sup>th</sup>.
+The other ten teams came through online qualifiers within their respective regions. Half of them had to even go through a Bo1 madhouse open qualifier for committing the cardinal sin of wanting to change rosters after February 5<sup>th</sup>.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/ogbanner.png" alt="Banner"></p>
 <h2 style="margin: 0px;">OG - <i>Europe Regional Qualifier</i></h2>
 <hr style="margin-top: 0.5em;">
 
-**Notable tournament placings** The current roster was assembled around two weeks before TI qualifiers began, so... The International 2018: Europe Open Qualifier #1 champions
+**Notable tournament placings** The current roster was assembled around two weeks before TI qualifiers began, so... The International 2018: Europe Open Qualifier #1 champions.
 
 **How did they qualify?** Ritsu would've needed five more bladders worth of post-draft prep time to beat Europe's DPC qualifier gatekeeping kings.
 
@@ -174,7 +174,7 @@ The other ten teams came through online qualifiers within their respective regio
 
 <img src="/blog/img/ti8teams/ana.webp" onerror="this.onerror=null;this.src='/blog/img/ti8teams/ana.gif';" alt="" style="width: 350px;">
 
-**How to sound smart talking about OG** "I was spamming 'OG.TOPSON' in chat before Meteor Hammer Invoker was even a twinkle in his eyes."
+**How to sound smart talking about OG** "I was spamming '*OG.TOPSON*' in chat before Meteor Hammer Invoker was even a twinkle in his eyes."
 
 **What would success look like?** After multiple failed International runs, it would be only fitting that OG do well at the first TI where they're actually considered underdogs
 
@@ -240,7 +240,7 @@ The other ten teams came through online qualifiers within their respective regio
 
 **How to sound smart talking about PaiN** "O SONHO TÁ VIVO. CAPINAR O LOTE! VAMOOOOS!"
 
-**What would success look like?** A result more memorable than the SG e-sports Kiev Major run to become the new watershed moment whenever people argue over the strength of SA Dota.
+**What would success look like?** A result more memorable than the SG e-sports Kiev Major run to become the new landmark moment people cite when arguing over the strength of SA Dota.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/stormbanner.png" alt="Banner"></p>
@@ -249,7 +249,7 @@ The other ten teams came through online qualifiers within their respective regio
 
 **Notable tournament placings** GESC: Thailand Minor champions, 2<sup>nd</sup> place at MDL Changsha Major
 
-**How did they qualify?** Since this team's formation in Sept. 2017, there were a whopping thirteen different players to don the VGJ.Storm tag at some point during the season. The addition of Resolut1on as the one position was the culmination, but it's no coincidence that the team with the most American players on the roster made it through the NA qualifiers first.
+**How did they qualify?** Since this team's formation in Sept. 2017, there were a whopping thirteen different players to don the VGJ.Storm tag at some point during the season. The addition of Resolut1on as the one position was the conclusion, but it's no coincidence that the team with the most American players made it through the NA qualifiers first.
 
 **What can we expect?** Jeremy Lin to make his yearly cameo, but now with some actual skin in the game.
 
@@ -262,9 +262,9 @@ The other ten teams came through online qualifiers within their respective regio
 <h2 style="margin: 0px;">Evil Geniuses - <i>North America Regional Qualifier #2</i></h2>
 <hr style="margin-top: 0.5em;">
 
-**Notable tournament placings** Two out of their five players won the MDL Macau Major and the other three won the GESC: Indonesia Minor. By these powers combined, this five man roster had zero usable DPC points.
+**Notable tournament placings** Three out of their five players won the GESC: Indonesia Minor and the other two won the MDL Macau Major. By these powers combined, this full roster had zero usable DPC points.
 
-**How did they qualify?** EG has been deciding how to play Dota via Mad Libs for the past year.
+**How did they qualify?** EG has basically been playing Dota Mad Libs for the past year.
 
 >Former EG member <select><option hidden>Player</option><option>Fear</option><option>ppd</option><option>Demon</option></select> will be joining our <select><option hidden>Organization</option><option>Dota 2 roster</option><option>stream team</option><option>Rainbow 6 squad</option></select> to <select><option hidden>Role</option><option>play support</option><option>coach</option><option>feed Sumail bananas</option></select> !
 
@@ -280,7 +280,7 @@ After these maneuvers failed to produce results, the boys decided to consult the
 
 **What would satisfaction look like?** It's not even about the Aegis, it's about the storylines. EG vs OpTic would be the highest stakes Sumail-ppd showdown to date. EG vs OG could either be 7Mad's Austerlitz or Waterloo. And of course, EG vs VGJ.Storm=Hassanbowl.
 
-Anything short of a scorched earth loser's bracket run in which EG personally executes every last punk would just be a missed opportunity for *The DPC* season 1 finale.
+Anything short of a scorched earth loser's bracket run in which EG personally eliminates every last punk would just be a missed opportunity for *The DPC* season 1 finale.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/opticbanner.png" alt="Banner"></p>
@@ -304,7 +304,7 @@ Anything short of a scorched earth loser's bracket run in which EG personally ex
 
 **Notable tournament placings** 4<sup>th</sup> place at both the ESL Katowice and Birmingham Majors
 
-**How did they qualify?** Simply put, they didn't choke. After losing their way to both TNCs in the group stage, Fnatic went plus ultra in playoffs to then 2-0 each of them and claim the first qualifier spot.
+**How did they qualify?** Simply put, they didn't choke. After losing their way to both TNCs in the group stage, Fnatic went plus ultra in playoffs to 2-0 the pair of them and claim the first qualifier spot.
 
 **What can we expect?** Let it All Out of You
 
@@ -333,4 +333,4 @@ Scientists have yet to determine if a second game is possible.
 
 ----
 
-<p style="text-align: justify;margin-bottom: 0.5em;font-size: smaller;">This article was inspired by a <i>New York Times</i> <a href="https://www.nytimes.com/2018/06/11/sports/world-cup-groups.html">guide to World Cup teams</a> and appropriated for Dota as suggested by <a href="https://twitter.com/SkimGaming/status/1007998992498790401">@SkimGaming.</a> Much appreciation to the people who exhaustively update all tournament and team results on Liquipedia including those responsible for this exceptionally detailed <a href="https://liquipedia.net/dota2/Dota_Pro_Circuit/Stats">Dota Pro Circuit stats page.</a></p>
+<p style="text-align: justify;margin-bottom: 0.5em;font-size: smaller;">This article was inspired by a <i>New York Times</i> <a href="https://www.nytimes.com/2018/06/11/sports/world-cup-groups.html">guide to World Cup teams</a> and appropriated for Dota as suggested by <a href="https://twitter.com/SkimGaming/status/1007998992498790401">@SkimGaming.</a> Much appreciation to the people who exhaustively update all tournament and team results on Liquipedia including those responsible for this exceptionally detailed <a href="https://liquipedia.net/dota2/Dota_Pro_Circuit/Stats">Dota Pro Circuit stats page.</a> Player photos in the header are from the <a href="https://www.flickr.com/photos/dota2ti/">dota2ti</a>, <a href="https://www.flickr.com/photos/cybersportcom/">Cybersport</a>, and <a href="https://www.flickr.com/photos/starladder/">StarLadder</a> Flickrs.</p>
