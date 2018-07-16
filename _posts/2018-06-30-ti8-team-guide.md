@@ -14,7 +14,7 @@ It's that time of year again. Perhaps you already heard . Or maybe your weird fr
 
 These eight teams were directly invited to TI8 through a new system Valve implemented this year called the *Dota Pro Circuit* or '*DPC*'. Instead of the old, ambiguous, invitation process of 'do pretty good in the five months before TI,' players were given a new, clearer, invitation process of 'do pretty good in the five months before TI and don't you dare mess with your roster.' That's not to say any team ended up invited due to a technicality, but make no mistake, there exists a vast gap in skill between the upper and lower tiers of this top 8.
 
-The beauty is most of those skill differences go out the window once you're at The International.
+The beauty of The International is that most of those skill differences tend to go out the window.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/vpbanner.png" alt="Banner"></p>
