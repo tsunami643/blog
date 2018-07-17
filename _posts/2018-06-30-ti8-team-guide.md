@@ -2,7 +2,7 @@
 layout: "post"
 title: "The International 2018: A Practical Guide to All 18 Teams"
 date: "2017-09-04 08:08"
-summary:    The minimum information you need to know before talking to a Dota player this August.
+summary:    The bare minimum information you need to know before talking to a Dota player this August.
 feature-img: "img/ti8teams/ti8header.png"
 ---
 
@@ -257,7 +257,7 @@ So that's where the bar is set.
 
 **How did they qualify?** Since this team's formation in Sept. 2017, there were a whopping thirteen different players to don the VGJ.Storm tag at some point during the season. The addition of Resolut1on as the one position was the conclusion, but *come on*, it's no coincidence that the team with the most American players made it through NA qualifiers in 1<sup>st</sup>.
 
-**What can we expect?** Jeremy Lin to make his yearly cameo, but now with some actual skin in the game. At least I hope so. If him and Asa Butterfield move to Fortnite, we're doomed.
+**What can we expect?** Jeremy Lin to make his yearly cameo, but now with some actual skin in the game. At least I hope so. If he and Asa Butterfield move to Fortnite, we're doomed.
 
 **How to sound smart talking about Storm** "BSJ was just ahead of his time."
 
