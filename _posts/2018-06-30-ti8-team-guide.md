@@ -6,15 +6,17 @@ summary:    The bare minimum information you need to know before talking to a Do
 feature-img: "img/ti8teams/ti8header.png"
 ---
 
-## HELLO PERSON WITH RSS FEED, PLS IGNORE, THIS IS STILL A WORK IN PROGRESS
+## It's that magical time of year again. Pro player streams are either completely MIA or more rigorously scheduled than ever, Arcana campaigns are getting drafted, and gaming blogs are waiting to do their once yearly Dota 2 coverage depending on whichever way the prize pool goes. 
 
-It's that time of year again. Perhaps you already heard . Or maybe your weird friend's yearly pilgrimage to Seattle has been re-routed to Vancouver and you're shocked to learn they allow this kind of degeneracy in Canada too. Whatever the case, here's a quick guide to get you up to speed.
+Ah, International season.
+
+But not everyone has been following the professional Dota 2 scene with a fine-toothed combed. Perhaps you're the viewer who has been saturated by all the tournaments and are tuning back in just for TI. Maybe your weird friend's yearly pilgrimage to Seattle has been rerouted to Vancouver and you're shocked to learn they allow this kind of degeneracy in Canada too. Or maybe you just want to enjoy the week of festivities Valve has organized around the upcoming Artifact information session. Whatever your story, here are the teams and memes to know come August.
 
 # The Invitees
 
 Eight teams were directly invited to TI8 this year through a new system Valve implemented called the *Dota Pro Circuit* or *DPC*. Instead of the old, ambiguous, invitation process of 'do pretty good five months before TI,' players were given a new, clearer, directive of 'do pretty good five months before TI and don't you dare mess with your roster.'
 
-Twenty-two DPC tournaments later, these are the teams that either stayed after class, captained the Mechanics team, and played Varsity Dota, or the ones that showed up, got a B-, copied drafts at lunch, but still got automatic admission because the rest of the graduating class spent too much time casting Pipes of Insight under the bleachers. That’s not to say any team ended up invited due to a technicality, but make no mistake, there exists a significant gap in Dota prowess between the upper and lower tiers of this list.
+Twenty-two DPC tournaments later, these are the teams that either stayed after class, captained the Mechanics team, and played Varsity Dota, or the ones that showed up, got a B-, copied drafts at lunch, but still got automatic admission because the rest of the graduating class spent too much time casting Pipe of Insight under the bleachers. That’s not to say any team ended up invited due to a technicality, but make no mistake, there exists a significant gap in Dota prowess between the upper and lower tiers of this list.
 
 The beauty of The International is when most of these skill differences go out the window.
 
