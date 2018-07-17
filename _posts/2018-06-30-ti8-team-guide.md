@@ -6,7 +6,9 @@ summary:    The bare minimum information you need to know before talking to a Do
 feature-img: "img/ti8teams/ti8header.png"
 ---
 
-## It's that magical time of year again. Pro player streams are either completely MIA or more rigorously scheduled than ever, Arcana campaigns are getting drafted, and gaming blogs are waiting to do their once yearly Dota 2 coverage depending on whichever way the prize pool goes. 
+## It's that magical time of year again.
+
+Pro player streams are either completely MIA or more rigorously scheduled than ever, Arcana campaigns are getting drafted, and gaming blogs are waiting to do their once yearly Dota 2 coverage depending on whichever way the prize pool goes. 
 
 Ah, International season.
 
