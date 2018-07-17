@@ -157,9 +157,11 @@ And not win.
 </video></div>
 <p></p>
 
-**What can we expect?** Luigi gets hammered by VP Liquid and LGD
+**What can we expect?** Not that.
 
-**How to sound smart talking about Thunder** "ddc is so underrated."
+**How to sound smart talking about Thunder** Name the other three players who aren't Sylar or ddc.
+
+...you didn't even know Sylar was on the team, did you.
 
 **What would success look like?** Beyond ddc becoming the last of the <abbr title="Puppey, Universe, Kuroky, ddc">Elite Four all-TI attendees</abbr> to earn an Aegis, a victory for their coach, the ever-lovable rOtK, would be something to celebrate for Eastern and Western Dota fans alike.
 
