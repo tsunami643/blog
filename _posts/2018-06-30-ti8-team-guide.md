@@ -2,7 +2,7 @@
 layout: "post"
 title: "The International 2018: A Practical Guide to All 18 Teams"
 date: "2017-09-04 08:08"
-summary:    The bare minimum information you need to know before speaking to a Dota player this August.
+summary:    The minimum information you need to know before talking to a Dota player this August.
 feature-img: "img/ti8teams/ti8header.png"
 ---
 
@@ -29,9 +29,9 @@ The beauty of The International is when most of these skill differences go out t
 
 **What can we expect?** With their top DPC ranking finish, they're arguably the favorites coming into TI8. They won so many points you could theoretically buy one of their players and automatically get a spot at TI. Oh wait.
 
-**How to sound smart talking about VP** "Maybe Sansheng should've made a guide on how to deal with a chat wheel."
+**How to sound smart talking about VP** "Warding guide? Man, Sansheng couldn't lakad matatag his way out of a paper bag."
 
-**What would success look like?** Anything short of a grand finals appearance would undoubtedly be a disappointment to the team, their fans, and people hoping to get the 50 correct predictions Battle Pass achievement from VP matches.
+**What would success look like?** Anything short of a grand finals appearance would undoubtedly be a disappointment to the team, their fans, and people hoping to get the 50 correct predictions Battle Pass achievement off VP matches.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/liquidbanner.png" alt="Banner"></p>
@@ -120,7 +120,7 @@ And not win.
 
 **How to sound smart talking about VG** "I saw LaNm in the bathroom. It's true."
 
-**What would success look like?** Fenrir and LaNm doing well enough that they don't """retire""" after TI8.
+**What would success look like?** Fenrir and LaNm doing well enough that they don't 'retire' after TI8.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/newbeebanner.png" alt="Banner"></p>
@@ -212,7 +212,7 @@ So that's where the bar is set.
 
 **What can we expect?** Honestly, no one knows. Anyone who claims otherwise is just trying to sound smart.
 
-**How to sound smart talking about Serenity** "lmaoooo maybe if you watched *actual* amateur dota and not grant streams of trashcan na pubs youd know my boys have been looking like TI winners since hcup season 8."
+**How to sound smart talking about Serenity** "lmaoooo maybe if you watched *actual* amateur dota and not grant streams of trashcan na pubs youd know my boys have been looking like TI winners since hcup season 8"
 
 **What would success look like?** Not getting banned by ACE next year.
 
@@ -246,7 +246,7 @@ So that's where the bar is set.
 
 **How to sound smart talking about PaiN** "O SONHO TÁ VIVO. CAPINAR O LOTE! VAMOOOOS!"
 
-**What would success look like?** A result more memorable than the SG e-sports Kiev Major run to become the new landmark moment people cite when arguing over the strength of SA Dota.
+**What would success look like?** A result more memorable than the SG e-sports Kiev Major run to become the new default moment people cite when arguing over the strength of SA Dota.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/stormbanner.png" alt="Banner"></p>
@@ -255,11 +255,11 @@ So that's where the bar is set.
 
 **Notable tournament placings** GESC: Thailand Minor champions, 2<sup>nd</sup> place at MDL Changsha Major
 
-**How did they qualify?** Since this team's formation in Sept. 2017, there were a whopping thirteen different players to don the VGJ.Storm tag at some point during the season. The addition of Resolut1on as the one position was the conclusion, but it's no coincidence that the team with the most American players made it through the NA qualifiers first.
+**How did they qualify?** Since this team's formation in Sept. 2017, there were a whopping thirteen different players to don the VGJ.Storm tag at some point during the season. The addition of Resolut1on as the one position was the conclusion, but *come on*, it's no coincidence that the team with the most American players made it through NA qualifiers in 1<sup>st</sup>.
 
-**What can we expect?** Jeremy Lin to make his yearly cameo, but now with some actual skin in the game.
+**What can we expect?** Jeremy Lin to make his yearly cameo, but now with some actual skin in the game. At least I hope so. If him and Asa Butterfield move to Fortnite, we're doomed.
 
-**How to sound smart talking about Storm** "BSJ was ahead of his time."
+**How to sound smart talking about Storm** "BSJ was just ahead of his time."
 
 **What would success look like?** So many USA chants you'll forget this TI is actually in Canada.
 
@@ -310,7 +310,7 @@ Anything short of a scorched earth loser's bracket run in which EG personally el
 
 **Notable tournament placings** 4<sup>th</sup> place at both the ESL Katowice and Birmingham Majors
 
-**How did they qualify?** Simply put, they didn't choke. After losing their way to both TNCs in the group stage, Fnatic went plus ultra in playoffs to 2-0 the pair of them and claim the first qualifier spot.
+**How did they qualify?** Simply put, they didn't choke. After losing their way to both TNCs in the group stage, Fnatic went plus ultra in playoffs to then 2-0 the pair of them and claim the first qualifier spot.
 
 **What can we expect?** Let it All Out of You
 
