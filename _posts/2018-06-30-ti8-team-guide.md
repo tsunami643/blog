@@ -12,9 +12,11 @@ It's that time of year again. Perhaps you already heard . Or maybe your weird fr
 
 # The Invitees
 
-These eight teams were directly invited to TI8 through a new system Valve implemented this year called the *Dota Pro Circuit* or '*DPC*'. Instead of the old, ambiguous, invitation process of 'do pretty good in the five months before TI,' players were given a new, clearer, invitation process of 'do pretty good in the five months before TI and don't you dare mess with your roster.' That's not to say any team ended up invited due to a technicality, but make no mistake, there exists a significant skill gap between the upper and lower tiers of this list.
+Eight teams were directly invited to TI8 this year through a new system Valve implemented called the *Dota Pro Circuit* or *DPC*. Instead of the old, ambiguous, invitation process of 'do pretty good five months before TI,' players were given a new, clearer, directive of 'do pretty good five months before TI and don't you dare mess with your roster.'
 
-The beauty of The International is that most of these skill differences tend to go out the window.
+Twenty-two DPC tournaments later, these are the teams that either stayed after class, captained the Mechanics team, and played Varsity Dota, or the ones that showed up, got a B-, copied drafts at lunch, but still got automatic admission because the rest of the graduating class spent too much time casting Pipes of Insight under the bleachers. That’s not to say any team ended up invited due to a technicality, but make no mistake, there exists a significant gap in Dota prowess between the upper and lower tiers of this list.
+
+The beauty of The International is when most of these skill differences go out the window.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/vpbanner.png" alt="Banner"></p>
@@ -159,7 +161,11 @@ And not win.
 
 # The Qualifiers
 
-The other ten teams came through online qualifiers within their respective regions. Half of them had to even go through a Bo1 madhouse open qualifier for committing the cardinal sin of wanting to change rosters after February 5<sup>th</sup>.
+The other ten teams came through a double elimination bracket of online qualifiers within their respective regions. Half of them had to even go through a Bo1 madhouse open qualifier for committing the cardinal sin of wanting to change rosters after February 5<sup>th</sup>.
+
+Of the ten different squads to have attended an International grand finals since the qualifier system was created in TI3, only <abbr title="CDEC, DC, and Wings">three have been non-invited teams</abbr>, and Wings is the only qualifier team to have ever won.
+
+So that's where the bar is set.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/ogbanner.png" alt="Banner"></p>
