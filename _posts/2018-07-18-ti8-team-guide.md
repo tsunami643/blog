@@ -1,7 +1,7 @@
 ﻿---
 layout: "post"
 title: "The International 2018: A Practical Guide to All 18 Teams"
-date: "2017-09-04 08:08"
+date: "2018-07-18 11:45"
 summary:    The bare minimum information you need to know before talking to a Dota player this August.
 feature-img: "img/ti8teams/ti8header.png"
 ---
