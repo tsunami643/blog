@@ -25,7 +25,7 @@ The beauty of The International is when most of these skill differences go out t
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/vpbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Virtus.pro</h2>
-<p style="margin-bottom: -0.25em;"><i>RAMZES666&nbsp;&nbsp;&nbsp;&nbsp;No[o]ne&nbsp;&nbsp;&nbsp;&nbsp;9pasha&nbsp;&nbsp;&nbsp;&nbsp;RodjER&nbsp;&nbsp;&nbsp;&nbsp;Solo</i>
+<p style="margin-bottom: -0.25em;"><i>RAMZES666&nbsp;&nbsp;&nbsp;&nbsp;No[o]ne&nbsp;&nbsp;&nbsp;&nbsp;9pasha&nbsp;&nbsp;&nbsp;&nbsp;RodjER&nbsp;&nbsp;&nbsp;&nbsp;Solo</i></p>
 <hr>
 
 **Notable tournament placings** Just say ESL and some random city that sounds famous, but isn't really known for tourism. Chances are VP won something there. *"Yeah, they looked really good at ESL... Düsseldorf. I didn't watch it, though. Fuck Facebook."*
@@ -41,7 +41,7 @@ The beauty of The International is when most of these skill differences go out t
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/liquidbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Liquid</h2>
-<p style="margin-bottom: -0.25em;"><i>MATUMBAMAN&nbsp;&nbsp;&nbsp;&nbsp;Miracle-&nbsp;&nbsp;&nbsp;&nbsp;MinD_ContRoL&nbsp;&nbsp;&nbsp;&nbsp;GH&nbsp;&nbsp;&nbsp;&nbsp;KuroKy</i>
+<p style="margin-bottom: -0.25em;"><i>MATUMBAMAN&nbsp;&nbsp;&nbsp;&nbsp;Miracle-&nbsp;&nbsp;&nbsp;&nbsp;MinD_ContRoL&nbsp;&nbsp;&nbsp;&nbsp;GH&nbsp;&nbsp;&nbsp;&nbsp;KuroKy</i></p>
 <hr>
 
 **Notable tournament placings** TI7 champions, China Dota 2 Supermajor champions. Never won a real Major, though.
@@ -65,7 +65,7 @@ No pressure.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/lgdbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">PSG.LGD</h2>
-<p style="margin-bottom: -0.25em;"><i>Ame&nbsp;&nbsp;&nbsp;&nbsp;Somnus丶M (Maybe)&nbsp;&nbsp;&nbsp;&nbsp;Chalice&nbsp;&nbsp;&nbsp;&nbsp;fy&nbsp;&nbsp;&nbsp;&nbsp;xNova</i>
+<p style="margin-bottom: -0.25em;"><i>Ame&nbsp;&nbsp;&nbsp;&nbsp;Somnus丶M (Maybe)&nbsp;&nbsp;&nbsp;&nbsp;Chalice&nbsp;&nbsp;&nbsp;&nbsp;fy&nbsp;&nbsp;&nbsp;&nbsp;xNova</i></p>
 <hr>
 
 **Notable tournament placings** Epicenter XL Major champions, MDL Changsha Major champions
@@ -85,7 +85,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/secretbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Secret</h2>
-<p style="margin-bottom: -0.25em;"><i>Ace&nbsp;&nbsp;&nbsp;&nbsp;MidOne&nbsp;&nbsp;&nbsp;&nbsp;Fata&nbsp;&nbsp;&nbsp;&nbsp;YapzOr&nbsp;&nbsp;&nbsp;&nbsp;Puppey</i>
+<p style="margin-bottom: -0.25em;"><i>Ace&nbsp;&nbsp;&nbsp;&nbsp;MidOne&nbsp;&nbsp;&nbsp;&nbsp;Fata&nbsp;&nbsp;&nbsp;&nbsp;YapzOr&nbsp;&nbsp;&nbsp;&nbsp;Puppey</i></p>
 <hr>
 
 **Notable tournament placings** Dreamleague S8 and S9 champions. Also won the meme Captain's Draft tournament.
@@ -103,7 +103,7 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/mineskibanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Mineski</h2>
-<p style="margin-bottom: -0.25em;"><i>Mushi&nbsp;&nbsp;&nbsp;&nbsp;Moon&nbsp;&nbsp;&nbsp;&nbsp;iceiceice&nbsp;&nbsp;&nbsp;&nbsp;Jabz&nbsp;&nbsp;&nbsp;&nbsp;ninjaboogie</i>
+<p style="margin-bottom: -0.25em;"><i>Mushi&nbsp;&nbsp;&nbsp;&nbsp;Moon&nbsp;&nbsp;&nbsp;&nbsp;iceiceice&nbsp;&nbsp;&nbsp;&nbsp;Jabz&nbsp;&nbsp;&nbsp;&nbsp;ninjaboogie</i></p>
 <hr>
 
 **Notable tournament placings** DAC 2018 Major champions
@@ -119,7 +119,7 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/vicibanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Vici Gaming</h2>
-<p style="margin-bottom: -0.25em;"><i>Paparazi灬&nbsp;&nbsp;&nbsp;&nbsp;Ori&nbsp;&nbsp;&nbsp;&nbsp;eLeVeN&nbsp;&nbsp;&nbsp;&nbsp;LaNm&nbsp;&nbsp;&nbsp;&nbsp;Fenrir</i>
+<p style="margin-bottom: -0.25em;"><i>Paparazi灬&nbsp;&nbsp;&nbsp;&nbsp;Ori&nbsp;&nbsp;&nbsp;&nbsp;eLeVeN&nbsp;&nbsp;&nbsp;&nbsp;LaNm&nbsp;&nbsp;&nbsp;&nbsp;Fenrir</i></p>
 <hr>
 
 **Notable tournament placings** A whole bunch of 2<sup>nd</sup> place finishes
@@ -137,7 +137,7 @@ And not win.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/newbeebanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Newbee</h2>
-<p style="margin-bottom: -0.25em;"><i>Moogy&nbsp;&nbsp;&nbsp;&nbsp;Sccc&nbsp;&nbsp;&nbsp;&nbsp;kpii&nbsp;&nbsp;&nbsp;&nbsp;Kaka&nbsp;&nbsp;&nbsp;&nbsp;Faith</i>
+<p style="margin-bottom: -0.25em;"><i>Moogy&nbsp;&nbsp;&nbsp;&nbsp;Sccc&nbsp;&nbsp;&nbsp;&nbsp;kpii&nbsp;&nbsp;&nbsp;&nbsp;Kaka&nbsp;&nbsp;&nbsp;&nbsp;Faith</i></p>
 <hr>
 
 **Notable tournament placings** A whole bunch of 3<sup>rd</sup> place finishes
@@ -153,7 +153,7 @@ And not win.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/thunderbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">VGJ.Thunder</h2>
-<p style="margin-bottom: -0.25em;"><i>Sylar&nbsp;&nbsp;&nbsp;&nbsp;Freeze&nbsp;&nbsp;&nbsp;&nbsp;Yang&nbsp;&nbsp;&nbsp;&nbsp;Fade&nbsp;&nbsp;&nbsp;&nbsp;ddc</i>
+<p style="margin-bottom: -0.25em;"><i>Sylar&nbsp;&nbsp;&nbsp;&nbsp;Freeze&nbsp;&nbsp;&nbsp;&nbsp;Yang&nbsp;&nbsp;&nbsp;&nbsp;Fade&nbsp;&nbsp;&nbsp;&nbsp;ddc</i></p>
 <hr>
 
 **Notable tournament placings** 2<sup>nd</sup> place at The Bucharest Major. Also won Galaxy Battles II, but I'm the only person who cares about that tournament.
@@ -184,7 +184,7 @@ So that's where the bar is set.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/ogbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">OG - <i>Europe Regional Qualifier</i></h2>
-<p style="margin-bottom: -0.25em;"><i>ana&nbsp;&nbsp;&nbsp;&nbsp;Topson&nbsp;&nbsp;&nbsp;&nbsp;7ckngMad&nbsp;&nbsp;&nbsp;&nbsp;JerAx&nbsp;&nbsp;&nbsp;&nbsp;N0tail</i>
+<p style="margin-bottom: -0.25em;"><i>ana&nbsp;&nbsp;&nbsp;&nbsp;Topson&nbsp;&nbsp;&nbsp;&nbsp;7ckngMad&nbsp;&nbsp;&nbsp;&nbsp;JerAx&nbsp;&nbsp;&nbsp;&nbsp;N0tail</i></p>
 <hr>
 
 **Notable tournament placings** The current roster was assembled around two weeks before TI qualifiers began, so... The International 2018: Europe Open Qualifier #1 champions.
@@ -202,7 +202,7 @@ So that's where the bar is set.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/winstrikebanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Winstrike Team - <i>CIS Regional Qualifier</i></h2>
-<p style="margin-bottom: -0.25em;"><i>Silent&nbsp;&nbsp;&nbsp;&nbsp;Iceberg&nbsp;&nbsp;&nbsp;&nbsp;nongrata&nbsp;&nbsp;&nbsp;&nbsp;Nofear&nbsp;&nbsp;&nbsp;&nbsp;ALWAYSWANNAFLY</i>
+<p style="margin-bottom: -0.25em;"><i>Silent&nbsp;&nbsp;&nbsp;&nbsp;Iceberg&nbsp;&nbsp;&nbsp;&nbsp;nongrata&nbsp;&nbsp;&nbsp;&nbsp;Nofear&nbsp;&nbsp;&nbsp;&nbsp;ALWAYSWANNAFLY</i></p>
 <hr>
 
 **Notable tournament placings** 3<sup>rd</sup> place at Epicenter XL Major
@@ -218,7 +218,7 @@ So that's where the bar is set.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/serenitybanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Serenity - <i>China Regional Qualifier #1</i></h2>
-<p style="margin-bottom: -0.25em;"><i>zhizhizhi&nbsp;&nbsp;&nbsp;&nbsp;Zyd&nbsp;&nbsp;&nbsp;&nbsp;XinQ&nbsp;&nbsp;&nbsp;&nbsp;Pyw&nbsp;&nbsp;&nbsp;&nbsp;XCJ</i>
+<p style="margin-bottom: -0.25em;"><i>zhizhizhi&nbsp;&nbsp;&nbsp;&nbsp;Zyd&nbsp;&nbsp;&nbsp;&nbsp;XinQ&nbsp;&nbsp;&nbsp;&nbsp;Pyw&nbsp;&nbsp;&nbsp;&nbsp;XCJ</i></p>
 <hr>
 
 **Notable tournament placings** ???  
@@ -236,7 +236,7 @@ So that's where the bar is set.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/igbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Invictus Gaming - <i>China Regional Qualifier #2</i></h2>
-<p style="margin-bottom: -0.25em;"><i>Agressif&nbsp;&nbsp;&nbsp;&nbsp;Xxs&nbsp;&nbsp;&nbsp;&nbsp;Srf&nbsp;&nbsp;&nbsp;&nbsp;BoBoKa&nbsp;&nbsp;&nbsp;&nbsp;Q</i>
+<p style="margin-bottom: -0.25em;"><i>Agressif&nbsp;&nbsp;&nbsp;&nbsp;Xxs&nbsp;&nbsp;&nbsp;&nbsp;Srf&nbsp;&nbsp;&nbsp;&nbsp;BoBoKa&nbsp;&nbsp;&nbsp;&nbsp;Q</i></p>
 <hr>
 
 **Notable tournament placings** World Cyber Arena 2017 champions... I guess
@@ -254,7 +254,7 @@ So that's where the bar is set.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/painbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">PaiN Gaming - <i>South America Regional Qualifier</i></h2>
-<p style="margin-bottom: -0.25em;"><i>hFn&nbsp;&nbsp;&nbsp;&nbsp;w33&nbsp;&nbsp;&nbsp;&nbsp;tavo&nbsp;&nbsp;&nbsp;&nbsp;Kingrd&nbsp;&nbsp;&nbsp;&nbsp;Duster</i>
+<p style="margin-bottom: -0.25em;"><i>hFn&nbsp;&nbsp;&nbsp;&nbsp;w33&nbsp;&nbsp;&nbsp;&nbsp;tavo&nbsp;&nbsp;&nbsp;&nbsp;Kingrd&nbsp;&nbsp;&nbsp;&nbsp;Duster</i></p>
 <hr>
 
 **Notable tournament placings** 3<sup>rd</sup> place at ESL Birmingham Major
@@ -270,7 +270,7 @@ So that's where the bar is set.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/stormbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">VGJ.Storm - <i>North America Regional Qualifier #1</i></h2>
-<p style="margin-bottom: -0.25em;"><i>YawaR&nbsp;&nbsp;&nbsp;&nbsp;Resolut1on&nbsp;&nbsp;&nbsp;&nbsp;Sneyking&nbsp;&nbsp;&nbsp;&nbsp;MSS&nbsp;&nbsp;&nbsp;&nbsp;SVG</i>
+<p style="margin-bottom: -0.25em;"><i>YawaR&nbsp;&nbsp;&nbsp;&nbsp;Resolut1on&nbsp;&nbsp;&nbsp;&nbsp;Sneyking&nbsp;&nbsp;&nbsp;&nbsp;MSS&nbsp;&nbsp;&nbsp;&nbsp;SVG</i></p>
 <hr>
 
 **Notable tournament placings** GESC: Thailand Minor champions, 2<sup>nd</sup> place at MDL Changsha Major
@@ -286,7 +286,7 @@ So that's where the bar is set.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/egbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Evil Geniuses - <i>North America Regional Qualifier #2</i></h2>
-<p style="margin-bottom: -0.25em;"><i>Arteezy&nbsp;&nbsp;&nbsp;&nbsp;Suma1L&nbsp;&nbsp;&nbsp;&nbsp;s4&nbsp;&nbsp;&nbsp;&nbsp;Cr1t-&nbsp;&nbsp;&nbsp;&nbsp;Fly</i>
+<p style="margin-bottom: -0.25em;"><i>Arteezy&nbsp;&nbsp;&nbsp;&nbsp;Suma1L&nbsp;&nbsp;&nbsp;&nbsp;s4&nbsp;&nbsp;&nbsp;&nbsp;Cr1t-&nbsp;&nbsp;&nbsp;&nbsp;Fly</i></p>
 <hr>
 
 **Notable tournament placings** Three out of their five players won the GESC: Indonesia Minor and the other two won the MDL Macau Major. By these powers combined, this full roster had zero usable DPC points.
@@ -312,7 +312,7 @@ Anything short of a scorched earth loser's bracket run in which EG personally el
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/opticbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">OpTic Gaming - <i>North America Regional Qualifier #3</i></h2>
-<p style="margin-bottom: -0.25em;"><i>Pajkatt&nbsp;&nbsp;&nbsp;&nbsp;CC&C&nbsp;&nbsp;&nbsp;&nbsp;33&nbsp;&nbsp;&nbsp;&nbsp;zai&nbsp;&nbsp;&nbsp;&nbsp;ppd</i>
+<p style="margin-bottom: -0.25em;"><i>Pajkatt&nbsp;&nbsp;&nbsp;&nbsp;CC&C&nbsp;&nbsp;&nbsp;&nbsp;33&nbsp;&nbsp;&nbsp;&nbsp;zai&nbsp;&nbsp;&nbsp;&nbsp;ppd</i></p>
 <hr>
 
 **Notable tournament placings** StarLadder S5 Minor champions, 2<sup>nd</sup> place at ESL Birmingham Major
@@ -328,7 +328,7 @@ Anything short of a scorched earth loser's bracket run in which EG personally el
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/fnaticbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Fnatic - <i>Southeast Asia Regional Qualifier #1</i></h2>
-<p style="margin-bottom: -0.25em;"><i>EternaLEnVy&nbsp;&nbsp;&nbsp;&nbsp;Abed&nbsp;&nbsp;&nbsp;&nbsp;UNiVeRsE&nbsp;&nbsp;&nbsp;&nbsp;DJ&nbsp;&nbsp;&nbsp;&nbsp;pieliedie</i>
+<p style="margin-bottom: -0.25em;"><i>EternaLEnVy&nbsp;&nbsp;&nbsp;&nbsp;Abed&nbsp;&nbsp;&nbsp;&nbsp;UNiVeRsE&nbsp;&nbsp;&nbsp;&nbsp;DJ&nbsp;&nbsp;&nbsp;&nbsp;pieliedie</i></p>
 <hr>
 
 **Notable tournament placings** 4<sup>th</sup> place at both the ESL Katowice and Birmingham Majors
@@ -346,7 +346,7 @@ For he is at peace.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/tncbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">TNC Predator - <i>Southeast Asia Regional Qualifier #2</i></h2>
-<p style="margin-bottom: -0.25em;"><i>Raven&nbsp;&nbsp;&nbsp;&nbsp;Armel&nbsp;&nbsp;&nbsp;&nbsp;Sam_H&nbsp;&nbsp;&nbsp;&nbsp;Tims&nbsp;&nbsp;&nbsp;&nbsp;Kuku</i>
+<p style="margin-bottom: -0.25em;"><i>Raven&nbsp;&nbsp;&nbsp;&nbsp;Armel&nbsp;&nbsp;&nbsp;&nbsp;Sam_H&nbsp;&nbsp;&nbsp;&nbsp;Tims&nbsp;&nbsp;&nbsp;&nbsp;Kuku</i></p>
 <hr>
 
 **Notable tournament placings** 4<sup>th</sup> place at DAC 2018 Major, 2<sup>nd</sup> place at MDL Macau Minor
