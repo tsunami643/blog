@@ -8,13 +8,13 @@ feature-img: "img/ti8teams/ti8header.png"
 
 ### It's that magical time of year again.
 
-Players are , Arcana vote campaigns are getting increasingly heated, and gaming blogs are prepping their once annual piece of Dota 2 coverage to report on whichever way the prize pool goes. 
+Players are going into stream hibernation as bootcamps begin, Arcana propaganda campaigns are getting increasingly heated, and gaming blogs are prepping their annual piece of Dota 2 coverage to report on whichever way the prize pool goes. Ah, International season.
 
-Ah, International season.
+But not everyone has been following the professional Dota 2 scene like their livelihood depended on it. Perhaps you're the viewer who was saturated by all the tournaments and are just now tuning back in for TI. Maybe your weird friend's yearly pilgrimage to Seattle has been rerouted to Vancouver and you're shocked to learn they allow this kind of degeneracy in Canada too. Or maybe you just want to enjoy the week of festivities Valve has organized around the upcoming Artifact information session.
 
-But not everyone has been following the professional Dota 2 scene like their livelihood depended on it. Perhaps you're the viewer who was saturated by all the tournaments and are just now tuning back in for TI. Maybe your weird friend's yearly pilgrimage to Seattle has been rerouted to Vancouver and you're shocked to learn they allow this kind of degeneracy in Canada too. Or maybe you just want to enjoy the week of festivities Valve has organized around the upcoming Artifact information session. Whatever your story, here are the teams and memes you should know come August.
+Whatever your story, here are the teams and memes you should know come August.
 
-# The Invitees
+# The Invites
 
 Eight teams were directly invited to TI8 this year through a new system Valve implemented called the *Dota Pro Circuit* or *DPC*. Instead of the old, ambiguous, invitation process of 'do pretty good in the five months before TI,' players were given a new, clearer, directive of 'do pretty good in the five months before TI and don't you dare mess with your roster.'
 
@@ -124,7 +124,7 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
 
 And not win.
 
-**How to sound smart talking about VG** How does one even talk about Vici Gaming to begin with? To investigate, I sifted through roughly ten different VG match discussion threads on reddit in the past few months and found only *one* person with Vici Gaming flair in any of them. You are a lost soul, /u/OPQOP, but I hope you find happiness as a VG fan.
+**How to sound smart talking about VG** How does one even talk about Vici to begin with? To investigate, I sifted through roughly ten different VG match discussion threads on reddit in the past few months and found only *one* person with Vici Gaming flair in any of them. You are a lost soul, /u/OPQOP, but I hope you find happiness as a VG fan.
 
 **What would success look like?** Fenrir and LaNm doing well enough that they don't 'retire' after TI8.
 
