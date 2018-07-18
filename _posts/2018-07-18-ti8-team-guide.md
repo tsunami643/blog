@@ -335,7 +335,7 @@ For he is at peace.
 
 **Notable tournament placings** 4<sup>th</sup> place at DAC 2018 Major, 2<sup>nd</sup> place at MDL Macau Minor
 
-**How did they qualify?** At any given moment, there are usually 3 teams consistently vying for king of the hill status in SEA. This year, the rock-paper-scissors was Mineski-Fnatic-TNC. Mineski was invited, Fnatic took the first qualifier spot, and TNC narrowly scraped the second.
+**How did they qualify?** At any given moment, there are usually three teams consistently vying for king of the hill status in SEA. This year, the rock-paper-scissors was Mineski-Fnatic-TNC. Mineski was invited, Fnatic took the first qualifier spot, and TNC narrowly scraped the second.
 
 **What can we expect?** TNC can easily take a game off any team in the entire tournament without breaking a sweat.
 
