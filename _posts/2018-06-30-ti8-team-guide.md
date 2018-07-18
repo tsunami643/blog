@@ -8,17 +8,17 @@ feature-img: "img/ti8teams/ti8header.png"
 
 ### It's that magical time of year again.
 
-Pro player streams are either completely MIA or more rigorously scheduled than ever, Arcana campaigns are getting drafted, and gaming blogs are waiting to do their once yearly Dota 2 coverage depending on whichever way the prize pool goes. 
+Players are , Arcana vote campaigns are getting increasingly heated, and gaming blogs are prepping their once annual piece of Dota 2 coverage to report on whichever way the prize pool goes. 
 
 Ah, International season.
 
-But not everyone has been following the professional Dota 2 scene with a fine-toothed combed. Perhaps you're the viewer who has been saturated by all the tournaments and are tuning back in just for TI. Maybe your weird friend's yearly pilgrimage to Seattle has been rerouted to Vancouver and you're shocked to learn they allow this kind of degeneracy in Canada too. Or maybe you just want to enjoy the week of festivities Valve has organized around the upcoming Artifact information session. Whatever your story, here are the teams and memes to know come August.
+But not everyone has been following the professional Dota 2 scene like their livelihood depended on it. Perhaps you're the viewer who was saturated by all the tournaments and are just now tuning back in for TI. Maybe your weird friend's yearly pilgrimage to Seattle has been rerouted to Vancouver and you're shocked to learn they allow this kind of degeneracy in Canada too. Or maybe you just want to enjoy the week of festivities Valve has organized around the upcoming Artifact information session. Whatever your story, here are the teams and memes you should know come August.
 
 # The Invitees
 
-Eight teams were directly invited to TI8 this year through a new system Valve implemented called the *Dota Pro Circuit* or *DPC*. Instead of the old, ambiguous, invitation process of 'do pretty good five months before TI,' players were given a new, clearer, directive of 'do pretty good five months before TI and don't you dare mess with your roster.'
+Eight teams were directly invited to TI8 this year through a new system Valve implemented called the *Dota Pro Circuit* or *DPC*. Instead of the old, ambiguous, invitation process of 'do pretty good in the five months before TI,' players were given a new, clearer, directive of 'do pretty good in the five months before TI and don't you dare mess with your roster.'
 
-Twenty-two DPC tournaments later, these are the teams that either stayed after class, captained the Mechanics team, and played Varsity Dota, or the ones that showed up, got a B-, copied drafts at lunch, but still got automatic admission because the rest of the graduating class spent too much time casting Pipe of Insight under the bleachers. That’s not to say any team ended up invited due to a technicality, but make no mistake, there exists a significant gap in Dota prowess between the upper and lower tiers of this list.
+Twenty-two DPC tournaments later, these are the teams that either stayed after class, captained the Mechanics team, and played Varsity Dota, or the ones that showed up, got a B-, copied drafts at lunch, but still got automatic admission because the rest of the graduating class spent too much time casting Pipe of Insight under the bleachers. That’s not to say any team ended up invited due to a technicality, but make no mistake, there exists a significant gap in Dota proficiency between the upper and lower tiers of this list.
 
 The beauty of The International is when most of these skill differences go out the window.
 
@@ -33,7 +33,7 @@ The beauty of The International is when most of these skill differences go out t
 
 **What can we expect?** With their top DPC ranking finish, they're arguably the favorites coming into TI8. They won so many points you could theoretically buy one of their players and automatically get a spot at TI. Oh wait.
 
-**How to sound smart talking about VP** "Warding guide? Man, Sansheng couldn't lakad matatag his way out of a paper bag."
+**How to sound smart talking about VP** "Maybe Sansheng should've written a guide on how to deal with the chat wheel."
 
 **What would success look like?** Anything short of a grand finals appearance would undoubtedly be a disappointment to the team, their fans, and people hoping to get the 50 correct predictions Battle Pass achievement off VP matches.
 
@@ -75,7 +75,7 @@ In other words, these guys are the world's best chance at saving Dota from becom
 
 **How to sound smart talking about LGD** Most people are aware that Ame and Burning have a somewhat antagonistic relationship stemming from Ame destroying his items on iG's high ground after beating Burning with Anti-Mage during TI7. A few weeks ago, Burning sent Ame on a huge losing streak in pubs eventually culminating in them playing a 1v1 as AM with Burning ending up victorious. In the Chinese zodiac story of The Great Race, the ox agrees to carry the rat across the river to make it to the heavenly gates, but loses to the rat after it jumps off. Meanwhile, the dragon could've won the race whenever he wanted to, but stopped to bring rain to a village in need. Ame was born in the year of the ox (牛) and Burning was born in the year of the dragon (龙). Ame lost the 1v1 by overextending past the river and dying on Burning's high ground. But instead of destroying his items, Burning planted a single Iron Branch on Ame's high ground, making it rain on Ame's village. The character for 'ox' is used in '吹牛' which means 'to talk big' and the character for 'dragon' is used in '成龙' which is Jackie Chan's Chinese name. So after the match, Sgamer netizens began posting '吹牛得到成龙' effectively translating to 'Talk shit, get (Jackie Chan'd) hit.'
 
-The previous paragraph is complete bullshit, but you bought it. That's because if there's anything that makes you sound smart talking about LGD, it's explaining convoluted Chinese memes to redditors who don't really understand them and just want to post, 'Wow, Chinese memes are so high level! xD'
+The previous paragraph is complete bullshit, but you bought it. That's because if there's anything that makes you sound smart talking about LGD, it's explaining convoluted Chinese wordplay to redditors who don't really understand and just want to post, 'Wow, Chinese memes are so high level! xD'
 
 **What would success look like?** Having said that, "\_\_\_\_\_\_\_，\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\!"
 
@@ -90,9 +90,11 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 **What can we expect?** Heroes you usually don't see being played in roles you usually wouldn't expect losing to teams Secret usually should beat.
 
-**How to sound smart talking about Secret** "Oh, I wonder if this is a Yapzor \*insert any hero here\*. You haven't seen them run it? It's really strong."
+**How to sound smart talking about Secret** During the second pick phase of any draft just casually mumble, "This *could* be an Ace Meepo game," to no one in particular.
 
-**What would success look like?** Despite always being *pretty good*, Team Secret's highest placing at any International since the organization's inception was 7/8<sup>th</sup> at TI5. So ideally better than that.
+On panels, this is known as the <abbr title="ilu Will <3"><i>Blitz-Storm Corollary</i></abbr>.
+
+**What would success look like?** Despite always being pretty good, Team Secret's highest placing at any International since the organization's inception was 7/8<sup>th</sup> at TI5. So ideally better than that.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/mineskibanner.png" alt="Banner"></p>
@@ -159,17 +161,17 @@ And not win.
 
 **What can we expect?** Not that.
 
-**How to sound smart talking about Thunder** Name the other three players who aren't Sylar or ddc.
+**How to sound smart talking about Thunder** Name the other three players who aren't ddc or Sylar.
 
-...you didn't even know Sylar was on the team, did you.
+...you didn't even know Sylar was on this team, did you.
 
-**What would success look like?** Beyond ddc becoming the last of the <abbr title="Puppey, Universe, Kuroky, ddc">Elite Four all-TI attendees</abbr> to earn an Aegis, a victory for their coach, the ever-lovable rOtK, would be something to celebrate for Eastern and Western Dota fans alike.
+**What would success look like?** Beyond ddc potentially becoming the last of the <abbr title="Puppey, Universe, Kuroky, ddc">Elite Four all-TI attendees</abbr> to earn an Aegis, a victory for their coach, the ever-lovable rOtK, would be something to celebrate for Eastern and Western Dota fans alike.
 
 # The Qualifiers
 
 The other ten teams came through a double elimination bracket of online qualifiers within their respective regions. Half of them had to even go through a Bo1 madhouse open qualifier for committing the cardinal sin of wanting to change rosters after February 5<sup>th</sup>.
 
-Of the ten different squads to have attended an International grand finals since the qualifier system was created in TI3, only <abbr title="CDEC, DC, and Wings">three have been non-invited teams</abbr>, and Wings is the only qualifier team to have ever won.
+Some trivia: Of the ten different squads to have attended an International grand final since the qualifier system was created in TI3, only three have been non-invited teams, and Wings is the only qualifier team to have ever won.
 
 So that's where the bar is set.
 
