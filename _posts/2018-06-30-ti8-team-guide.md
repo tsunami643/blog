@@ -92,7 +92,7 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 
 **How to sound smart talking about Secret** During the second pick phase of any draft just casually mumble, "This *could* be an Ace Meepo game," to no one in particular.
 
-On panels, this is known as the <abbr title="ilu Will <3"><i>Blitz-Storm Corollary</i></abbr>.
+On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Corollary</i></abbr>.
 
 **What would success look like?** Despite always being pretty good, Team Secret's highest placing at any International since the organization's inception was 7/8<sup>th</sup> at TI5. So ideally better than that.
 
@@ -124,7 +124,7 @@ On panels, this is known as the <abbr title="ilu Will <3"><i>Blitz-Storm Corolla
 
 And not win.
 
-**How to sound smart talking about VG** "I saw LaNm in the bathroom. It's true."
+**How to sound smart talking about VG** How does one even talk about Vici Gaming to begin with? To investigate, I sifted through roughly ten different VG match discussion threads on reddit in the past few months and found only *one* person with Vici Gaming flair in any of them. You are a lost soul, /u/OPQOP, but I hope you find happiness as a VG fan.
 
 **What would success look like?** Fenrir and LaNm doing well enough that they don't 'retire' after TI8.
 
@@ -347,4 +347,4 @@ Scientists have yet to determine if a second game is possible.
 
 ----
 
-<p style="text-align: justify;margin-bottom: 0.5em;font-size: smaller;">This article was inspired by a <i>New York Times</i> <a href="https://www.nytimes.com/2018/06/11/sports/world-cup-groups.html">guide to World Cup teams</a> and appropriated for Dota as suggested by <a href="https://twitter.com/SkimGaming/status/1007998992498790401">@SkimGaming.</a> Much appreciation to the people who exhaustively update all tournament and team results on Liquipedia including those responsible for this exceptionally detailed <a href="https://liquipedia.net/dota2/Dota_Pro_Circuit/Stats">Dota Pro Circuit stats page.</a> Player photos in the header are from the <a href="https://www.flickr.com/photos/dota2ti/">dota2ti</a>, <a href="https://www.flickr.com/photos/cybersportcom/">Cybersport</a>, and <a href="https://www.flickr.com/photos/starladder/">StarLadder</a> Flickrs.</p>
+<p style="text-align: justify;margin-bottom: 0.5em;font-size: smaller;">This article was inspired by a <i>New York Times</i> <a href="https://www.nytimes.com/2018/06/11/sports/world-cup-groups.html">guide to World Cup teams</a> and appropriated for Dota as suggested by <a href="https://twitter.com/SkimGaming/status/1007998992498790401">@SkimGaming.</a> Much appreciation to the people who exhaustively update all tournament and team results on Liquipedia including those responsible for this exceptionally detailed <a href="https://liquipedia.net/dota2/Dota_Pro_Circuit/Stats">Dota Pro Circuit stats page.</a> Player photos in the header were sourced from the <a href="https://www.flickr.com/photos/dota2ti/">dota2ti</a>, <a href="https://www.flickr.com/photos/cybersportcom/">Cybersport</a>, and <a href="https://www.flickr.com/photos/starladder/">StarLadder</a> Flickrs.</p>
