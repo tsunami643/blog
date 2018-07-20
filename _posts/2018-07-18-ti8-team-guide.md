@@ -12,7 +12,7 @@ Players are going into stream hibernation as bootcamps begin, Arcana propaganda 
 
 But not everyone has been following the professional Dota 2 scene like their livelihood depended on it. Perhaps you're the viewer who was saturated by all the tournaments and are just now tuning back in for TI. Maybe your weird friend's yearly pilgrimage to Seattle has been rerouted to Vancouver and you're shocked to learn they allow this kind of degeneracy in Canada too. Or maybe you just want to enjoy the week of festivities Valve has organized around the upcoming Artifact information session.
 
-Whatever your story, here are the teams and memes you should know come August.
+Whatever your story, here's a preview of the teams and memes you should know come August.
 
 # The Invites
 
@@ -184,7 +184,7 @@ So that's where the bar is set.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/ogbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">OG - <i>Europe Regional Qualifier</i></h2>
-<p style="margin-bottom: -0.25em;"><i>ana&nbsp;&nbsp;&nbsp;&nbsp; Topson&nbsp;&nbsp;&nbsp;&nbsp; 7ckngMad&nbsp;&nbsp;&nbsp;&nbsp; JerAx&nbsp;&nbsp;&nbsp;&nbsp; N0tail</i></p>
+<p style="margin-bottom: -0.25em;"><i>ana&nbsp;&nbsp;&nbsp;&nbsp; Topson&nbsp;&nbsp;&nbsp;&nbsp; 7ckngMad (Ceb)&nbsp;&nbsp;&nbsp;&nbsp; JerAx&nbsp;&nbsp;&nbsp;&nbsp; N0tail</i></p>
 <hr>
 
 **Notable tournament placings** The current roster was assembled around two weeks before TI qualifiers began, so... The International 2018: Europe Open Qualifier #1 champions.
