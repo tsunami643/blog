@@ -83,8 +83,16 @@ No pressure.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/lgdbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">PSG.LGD</h2>
-<p style="margin-bottom: -0.25em;"><i>Ame&nbsp;&nbsp;&nbsp;&nbsp; Somnus丶M (Maybe)&nbsp;&nbsp;&nbsp;&nbsp; Chalice&nbsp;&nbsp;&nbsp;&nbsp; fy&nbsp;&nbsp;&nbsp;&nbsp; xNova</i></p>
-<hr>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Ame</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Somnus丶M (Maybe)</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Chalice</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">fy</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" alt="Malaysia">xNova</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
 
 **Notable tournament placings** Epicenter XL Major champions, MDL Changsha Major champions
 
@@ -103,8 +111,16 @@ The previous paragraph is complete bullshit, but you bought it. That's because i
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/secretbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Secret</h2>
-<p style="margin-bottom: -0.25em;"><i>Ace&nbsp;&nbsp;&nbsp;&nbsp; MidOne&nbsp;&nbsp;&nbsp;&nbsp; Fata&nbsp;&nbsp;&nbsp;&nbsp; YapzOr&nbsp;&nbsp;&nbsp;&nbsp; Puppey</i></p>
-<hr>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" alt="Denmark">Ace</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" alt="Malaysia">MidOne</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" alt="Germany">Fata</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-jo" alt="Jordan">YapzOr</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ee" alt="Estonia">Puppey</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
 
 **Notable tournament placings** Dreamleague S8 and S9 champions. Also won the meme Captain's Draft tournament.
 
@@ -121,8 +137,16 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/mineskibanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Mineski</h2>
-<p style="margin-bottom: -0.25em;"><i>Mushi&nbsp;&nbsp;&nbsp;&nbsp; Moon&nbsp;&nbsp;&nbsp;&nbsp; iceiceice&nbsp;&nbsp;&nbsp;&nbsp; Jabz&nbsp;&nbsp;&nbsp;&nbsp; ninjaboogie</i></p>
-<hr>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" alt="Malaysia">Mushi</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-my" alt="Malaysia">Moon</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-sg" alt="Singapore">iceiceice</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-th" alt="Thailand">Jabz</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">ninjaboogie</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
 
 **Notable tournament placings** DAC 2018 Major champions
 
@@ -137,8 +161,16 @@ On panels, this is known as the <abbr title="jk ilu Will <3"><i>Blitz-Storm Coro
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/vicibanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Vici Gaming</h2>
-<p style="margin-bottom: -0.25em;"><i>Paparazi灬&nbsp;&nbsp;&nbsp;&nbsp; Ori&nbsp;&nbsp;&nbsp;&nbsp; eLeVeN&nbsp;&nbsp;&nbsp;&nbsp; LaNm&nbsp;&nbsp;&nbsp;&nbsp; Fenrir</i></p>
-<hr>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Paparazi灬</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Ori</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">eLeVeN</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">LaNm</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Fenrir</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
 
 **Notable tournament placings** A whole bunch of 2<sup>nd</sup> place finishes
 
@@ -155,8 +187,16 @@ And not win.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/newbeebanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Newbee</h2>
-<p style="margin-bottom: -0.25em;"><i>Moogy&nbsp;&nbsp;&nbsp;&nbsp; Sccc&nbsp;&nbsp;&nbsp;&nbsp; kpii&nbsp;&nbsp;&nbsp;&nbsp; Kaka&nbsp;&nbsp;&nbsp;&nbsp; Faith</i></p>
-<hr>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Moogy</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Sccc</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-au" alt="Australia">kpii</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Kaka</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Faith</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
 
 **Notable tournament placings** A whole bunch of 3<sup>rd</sup> place finishes
 
@@ -171,8 +211,16 @@ And not win.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/thunderbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">VGJ.Thunder</h2>
-<p style="margin-bottom: -0.25em;"><i>Sylar&nbsp;&nbsp;&nbsp;&nbsp; Freeze&nbsp;&nbsp;&nbsp;&nbsp; Yang&nbsp;&nbsp;&nbsp;&nbsp; Fade&nbsp;&nbsp;&nbsp;&nbsp; ddc</i></p>
-<hr>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Sylar</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Freeze</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Fade</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Yang</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">ddc</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
 
 **Notable tournament placings** 2<sup>nd</sup> place at The Bucharest Major. Also won Galaxy Battles II, but I'm the only person who cares about that tournament.
 
@@ -202,8 +250,16 @@ So that's where the bar is set.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/ogbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">OG - <i>Europe Regional Qualifier</i></h2>
-<p style="margin-bottom: -0.25em;"><i>ana&nbsp;&nbsp;&nbsp;&nbsp; Topson&nbsp;&nbsp;&nbsp;&nbsp; 7ckngMad (Ceb)&nbsp;&nbsp;&nbsp;&nbsp; JerAx&nbsp;&nbsp;&nbsp;&nbsp; N0tail</i></p>
-<hr>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-au" alt="Australia">ana</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" alt="Finland">Topson</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fr" alt="France">7ckngMad (Ceb)</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" alt="Finland">JerAx</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" alt="Denmark">N0tail</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
 
 **Notable tournament placings** The current roster was assembled around two weeks before TI qualifiers began, so... The International 2018: Europe Open Qualifier #1 champions.
 
@@ -220,8 +276,16 @@ So that's where the bar is set.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/winstrikebanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Winstrike Team - <i>CIS Regional Qualifier</i></h2>
-<p style="margin-bottom: -0.25em;"><i>Silent&nbsp;&nbsp;&nbsp;&nbsp; Iceberg&nbsp;&nbsp;&nbsp;&nbsp; nongrata&nbsp;&nbsp;&nbsp;&nbsp; Nofear&nbsp;&nbsp;&nbsp;&nbsp; ALWAYSWANNAFLY</i></p>
-<hr>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia" style="">Silent</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" alt="Ukraine">Iceberg</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia">nongrata</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia">Nofear</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" alt="Ukraine">ALWAYSWANNAFLY</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
 
 **Notable tournament placings** 3<sup>rd</sup> place at Epicenter XL Major
 
@@ -236,8 +300,16 @@ So that's where the bar is set.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/serenitybanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Serenity - <i>China Regional Qualifier #1</i></h2>
-<p style="margin-bottom: -0.25em;"><i>zhizhizhi&nbsp;&nbsp;&nbsp;&nbsp; Zyd&nbsp;&nbsp;&nbsp;&nbsp; XinQ&nbsp;&nbsp;&nbsp;&nbsp; Pyw&nbsp;&nbsp;&nbsp;&nbsp; XCJ</i></p>
-<hr>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">zhizhizhi</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Zyd</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">XinQ</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Pyw</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">XCJ</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
 
 **Notable tournament placings** ???  
 **Notable tournament attendances** ???  
@@ -254,8 +326,16 @@ So that's where the bar is set.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/igbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Invictus Gaming - <i>China Regional Qualifier #2</i></h2>
-<p style="margin-bottom: -0.25em;"><i>Agressif&nbsp;&nbsp;&nbsp;&nbsp; Xxs&nbsp;&nbsp;&nbsp;&nbsp; Srf&nbsp;&nbsp;&nbsp;&nbsp; BoBoKa&nbsp;&nbsp;&nbsp;&nbsp; Q</i></p>
-<hr>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Agressif</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Xxs</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Srf</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">BoBoKa</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-cn" alt="China">Q</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
 
 **Notable tournament placings** World Cyber Arena 2017 champions... I guess
 
@@ -272,8 +352,16 @@ So that's where the bar is set.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/painbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">PaiN Gaming - <i>South America Regional Qualifier</i></h2>
-<p style="margin-bottom: -0.25em;"><i>hFn&nbsp;&nbsp;&nbsp;&nbsp; w33&nbsp;&nbsp;&nbsp;&nbsp; tavo&nbsp;&nbsp;&nbsp;&nbsp; Kingrd&nbsp;&nbsp;&nbsp;&nbsp; Duster</i></p>
-<hr>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" alt="Brazil">hFn</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ro" alt="Romania">w33</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" alt="Brazil">tavo</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" alt="Brazil">Kingrd</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-br" alt="Brazil">Duster</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
 
 **Notable tournament placings** 3<sup>rd</sup> place at ESL Birmingham Major
 
@@ -288,8 +376,16 @@ So that's where the bar is set.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/stormbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">VGJ.Storm - <i>North America Regional Qualifier #1</i></h2>
-<p style="margin-bottom: -0.25em;"><i>Resolut1on&nbsp;&nbsp;&nbsp;&nbsp; YawaR&nbsp;&nbsp;&nbsp;&nbsp; Sneyking&nbsp;&nbsp;&nbsp;&nbsp; MSS&nbsp;&nbsp;&nbsp;&nbsp; SVG</i></p>
-<hr>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" alt="Ukraine">Resolut1on</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pk" alt="Pakistan">YawaR</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" alt="United States">Sneyking</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" alt="United States">MSS</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" alt="United States">SVG</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
 
 **Notable tournament placings** GESC: Thailand Minor champions, 2<sup>nd</sup> place at MDL Changsha Major
 
@@ -304,8 +400,16 @@ So that's where the bar is set.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/egbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Evil Geniuses - <i>North America Regional Qualifier #2</i></h2>
-<p style="margin-bottom: -0.25em;"><i>Arteezy&nbsp;&nbsp;&nbsp;&nbsp; Suma1L&nbsp;&nbsp;&nbsp;&nbsp; s4&nbsp;&nbsp;&nbsp;&nbsp; Cr1t-&nbsp;&nbsp;&nbsp;&nbsp; Fly</i></p>
-<hr>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ca" alt="Canada">Arteezy</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-pk" alt="Pakistan">Suma1L</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">s4</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-dk" alt="Denmark">Cr1t-</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-il" alt="Israel">Fly</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
 
 **Notable tournament placings** Three out of their five players won the GESC: Indonesia Minor and the other two won the MDL Macau Minor. By these powers combined, this full roster had zero usable DPC points.
 
@@ -330,8 +434,16 @@ Anything short of a scorched earth loser's bracket run in which EG personally el
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/opticbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">OpTic Gaming - <i>North America Regional Qualifier #3</i></h2>
-<p style="margin-bottom: -0.25em;"><i>Pajkatt&nbsp;&nbsp;&nbsp;&nbsp; CC&C&nbsp;&nbsp;&nbsp;&nbsp; 33&nbsp;&nbsp;&nbsp;&nbsp; zai&nbsp;&nbsp;&nbsp;&nbsp; ppd</i></p>
-<hr>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">Pajkatt</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" alt="United States">CC&C</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-il" alt="Israel">33</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">zai</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" alt="United States">ppd</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
 
 **Notable tournament placings** StarLadder S5 Minor champions, 2<sup>nd</sup> place at ESL Birmingham Major
 
@@ -346,8 +458,16 @@ Anything short of a scorched earth loser's bracket run in which EG personally el
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/fnaticbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Fnatic - <i>Southeast Asia Regional Qualifier #1</i></h2>
-<p style="margin-bottom: -0.25em;"><i>EternaLEnVy&nbsp;&nbsp;&nbsp;&nbsp; Abed&nbsp;&nbsp;&nbsp;&nbsp; UNiVeRsE&nbsp;&nbsp;&nbsp;&nbsp; DJ&nbsp;&nbsp;&nbsp;&nbsp; pieliedie</i></p>
-<hr>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ca" alt="Canada">EternaLEnVy</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">Abed</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-us" alt="United States">UNiVeRsE</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">DJ</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-se" alt="Sweden">pieliedie</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
 
 **Notable tournament placings** 4<sup>th</sup> place at both the ESL Katowice and Birmingham Majors
 
@@ -364,8 +484,16 @@ For he is at peace.
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/tncbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">TNC Predator - <i>Southeast Asia Regional Qualifier #2</i></h2>
-<p style="margin-bottom: -0.25em;"><i>Raven&nbsp;&nbsp;&nbsp;&nbsp; Armel&nbsp;&nbsp;&nbsp;&nbsp; Sam_H&nbsp;&nbsp;&nbsp;&nbsp; Tims&nbsp;&nbsp;&nbsp;&nbsp; Kuku</i></p>
-<hr>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">Raven</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">Armel</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">Sam_H</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">Tims</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ph" alt="Philippines">Kuku</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
 
 **Notable tournament placings** 4<sup>th</sup> place at DAC 2018 Major, 2<sup>nd</sup> place at MDL Macau Minor
 
