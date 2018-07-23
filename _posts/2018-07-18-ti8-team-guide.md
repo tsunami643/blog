@@ -4,6 +4,7 @@ title: "The International 2018: A Practical Guide to All 18 Teams"
 date: "2018-07-18 11:45"
 summary:    The bare minimum information you need to know before talking to a Dota player this August.
 feature-img: "img/ti8teams/ti8header.png"
+flags: true
 ---
 
 ### It's that magical time of year again.
@@ -25,7 +26,7 @@ The beauty of The International is when most of these skill differences go out t
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/vpbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Virtus.pro</h2>
-<p style="margin-bottom: -0.25em;"><i>RAMZES666&nbsp;&nbsp;&nbsp;&nbsp; No[o]ne&nbsp;&nbsp;&nbsp;&nbsp; 9pasha&nbsp;&nbsp;&nbsp;&nbsp; RodjER&nbsp;&nbsp;&nbsp;&nbsp; Solo</i></p>
+<p style="margin-bottom: -0.25em;"><i><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia" />&nbsp;RAMZES666&nbsp;&nbsp;&nbsp;&nbsp; <img src="/blog/img/assets/blank.gif" class="flag flag-ua" alt="Ukraine" />&nbsp;No[o]ne&nbsp;&nbsp;&nbsp;&nbsp; <img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia" />&nbsp;9pasha&nbsp;&nbsp;&nbsp;&nbsp; <img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia" />&nbsp;RodjER&nbsp;&nbsp;&nbsp;&nbsp; <img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia" />&nbsp;Solo</i></p>
 <hr>
 
 **Notable tournament placings** Just say ESL and some random city that sounds famous, but isn't really known for tourism. Chances are VP won something there. *"Yeah, they looked really good at ESL... Düsseldorf. I didn't watch it, though. Fuck Facebook."*
