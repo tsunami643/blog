@@ -26,8 +26,17 @@ The beauty of The International is when most of these skill differences go out t
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/vpbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Virtus.pro</h2>
-<p style="margin-bottom: -0.25em;"><i><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia" />&nbsp;RAMZES666&nbsp;&nbsp;&nbsp;&nbsp; <img src="/blog/img/assets/blank.gif" class="flag flag-ua" alt="Ukraine" />&nbsp;No[o]ne&nbsp;&nbsp;&nbsp;&nbsp; <img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia" />&nbsp;9pasha&nbsp;&nbsp;&nbsp;&nbsp; <img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia" />&nbsp;RodjER&nbsp;&nbsp;&nbsp;&nbsp; <img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia" />&nbsp;Solo</i></p>
-<hr>
+<style type="text/css">table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}</style>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia" style="">RAMZES666</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ua" alt="Ukraine">No[o]ne</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia">9pasha</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia">RodjER</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-ru" alt="Russia">Solo</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
 
 **Notable tournament placings** Just say ESL and some random city that sounds famous, but isn't really known for tourism. Chances are VP won something there. *"Yeah, they looked really good at ESL... Düsseldorf. I didn't watch it, though. Fuck Facebook."*
 
@@ -42,8 +51,16 @@ The beauty of The International is when most of these skill differences go out t
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/liquidbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Liquid</h2>
-<p style="margin-bottom: -0.25em;"><i>MATUMBAMAN&nbsp;&nbsp;&nbsp;&nbsp; Miracle-&nbsp;&nbsp;&nbsp;&nbsp; MinD_ContRoL&nbsp;&nbsp;&nbsp;&nbsp; GH&nbsp;&nbsp;&nbsp;&nbsp; KuroKy</i></p>
-<hr>
+<table>
+  <tbody><tr>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-fi" alt="Finland" style="">MATUMBAMAN</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-jo" alt="Jordan">Miracle-</td> 
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-bg" alt="Bulgaria">MinD_ContRoL</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-lb" alt="Lebanon">GH</td>
+    <td><img src="/blog/img/assets/blank.gif" class="flag flag-de" alt="Germany">KuroKy</td></tr>
+   </tbody>
+</table>
+<hr style="margin: 0.5em 0;">
 
 **Notable tournament placings** TI7 champions, China Dota 2 Supermajor champions. Never won a real Major, though.
 
