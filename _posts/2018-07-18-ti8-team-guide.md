@@ -24,7 +24,7 @@ Twenty-two DPC tournaments later, these are the teams that either stayed after c
 The beauty of The International is when most of these skill differences go out the window.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/vpbanner.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/vpmegafonbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Virtus.pro</h2>
 <style type="text/css">table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}</style>
 <table>
@@ -274,7 +274,7 @@ So that's where the bar is set.
 **What would success look like?** After multiple failed International runs, it would be only fitting that OG do well at the first TI where they're actually considered underdogs
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/winstrikebanner.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti8teams/winstrikenewbanner.png" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Winstrike Team - <i>CIS Regional Qualifier</i></h2>
 <table>
   <tbody><tr>
