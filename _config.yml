@@ -20,8 +20,8 @@ theme_settings:
    back to the <a href="http://howdoiplay.com/blog">blog</a> or <a href="http://howdoiplay.com">howdoiplay.com</a>
 
   # Icons
-  rss: true
-  email_address: "tsunami@howdoiplay.com"
+  rss: false
+  email_address:
   behance:
   bitbucket:
   dribbble:
@@ -32,7 +32,7 @@ theme_settings:
   instagram: "tsunami643"
   linkedin:  # Full URL
   pinterest:
-  reddit: "tsunami643"
+  reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
