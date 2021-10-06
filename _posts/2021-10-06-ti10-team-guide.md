@@ -207,7 +207,7 @@ In VP's defense, this is a young team (literally, their oldest player is DM at 2
 **What to spam in Twitch chat when VP are winning?** `I ALWAYS BELIEVED IN GPK STORM COPIUM`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/newbee.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/quincy.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Quincy Crew</h2>
 <table>
   <tbody><tr>
@@ -241,7 +241,7 @@ Actually, wait, scratch that. *Quincy Crew* becoming an esports powerhouse brand
 **What to spam in Twitch chat when QC is winning?** `EZ 4 [insert player name here]AO`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/keen.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/ig.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Invictus Gaming</h2>
 <table>
   <tbody><tr>
@@ -283,7 +283,7 @@ Their coach did have to stand-in for Oli at the AniMajor, but I prefer my interp
 You had to be there.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/tnc.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/t1.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">T1</h2>
 <table>
   <tbody><tr>
@@ -313,7 +313,7 @@ But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be p
 **What to spam in Twitch chat when T1 is winning?** `MikeHogu MASTER KUKU TURUAN MO PA NG IBANG KANTA SI WHITEMON`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/vici.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/vici.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Vici Gaming</h2>
 <table>
   <tbody><tr>
@@ -358,7 +358,7 @@ What is with Vici and signing teams that are always *good* but never TI champion
 **What to spam in Twitch chat when T1 is winning?** `poyoyoyoyoyo`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/secret.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/secret.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Secret</h2>
 <table>
   <tbody><tr>
@@ -392,7 +392,7 @@ Since Kuroky isn't here to knock Secret out of TI for the fourth goddamn year in
 **What to spam in Twitch chat when Secret is winning?** `𝘗𝘳𝘢𝘬𝘢𝘴𝘩 "𝘗𝘶𝘱𝘱𝘦𝘺" 𝘠𝘢𝘥𝘢𝘷 (𝘣𝘰𝘳𝘯 6 𝘔𝘢𝘳𝘤𝘩 1990) 𝘪𝘴 𝘢𝘯 𝘐𝘯𝘥𝘪𝘢𝘯 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘪𝘰𝘯𝘢𝘭 𝘋𝘰𝘵𝘢 2 𝘱𝘭𝘢𝘺𝘦𝘳 𝘸𝘩𝘰 𝘪𝘴 𝘵𝘩𝘦 𝘤𝘢𝘱𝘵𝘢𝘪𝘯 𝘰𝘧 𝘛𝘦𝘢𝘮 𝘚𝘩𝘢𝘬𝘵𝘪. 𝘏𝘦 𝘪𝘴 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘵𝘩𝘦 𝘵𝘢𝘭𝘭𝘦𝘴𝘵 𝘮𝘢𝘯 𝘪𝘯 𝘐𝘯𝘥𝘪𝘢.`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/rng.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/aster.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Aster</h2>
 <table>
   <tbody><tr>
@@ -424,7 +424,7 @@ Ironic. The jungle king could save others from ganks, but not himself.
 **What to spam in Twitch chat when Aster is winning?** `Winning from the hotel catJAM`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/alliance.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/alliance.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Alliance</h2>
 <table>
   <tbody><tr>
@@ -456,7 +456,7 @@ Amusingly, the team seems to have taken the criticism to heart and, in the bigge
 **What to spam in Twitch chat when Alliance is winning?** `🦈 SPAM 🦈 THIS 🦈 SHARK 🦈 TO 🦈 HELP 🦈 NIKOBABY 🦈 SLARK 🦈`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/infamous.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/beastcoast.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">beastcoast</h2>
 <table>
   <tbody><tr>
@@ -486,7 +486,7 @@ Me getting a beastcoast hoodie. Give me a beastcoast hoodie.
 **What not to spam in Twitch chat when beastcoast is winning?** You may be tempted to go for the old `GAAAAAAAA` but I should inform you that the line does have a somewhat [mean-spirited origin story](https://www.reddit.com/r/DotA2/comments/cu5je5/real_history_of_the_gaaaaa_meme/) and isn't even really a part of the [SA meme meta anymore.](https://www.reddit.com/r/DotA2/comments/mfn9oy/now_that_thunder_predator_has_your_attention/gsor3pq/?context=10000)
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/infamous.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/tp.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Thunder Predator</h2>
 <table>
   <tbody><tr>
@@ -515,7 +515,7 @@ After May 16, 2021, Thunder Predator's TI invite fate was no longer in their own
 
 # The Regional Qualifiers
 
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/mineski.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/undying.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Undying - <i>North America</i></h2>
 <table>
   <tbody><tr>
@@ -547,7 +547,7 @@ Take a game off Arkosh next year.
 **What to spam in Twitch chat when Undying is winning?** `SHINZO SASAGEYO CruW`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/chaos.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/sg.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">SG esports - <i>South America</i></h2>
 <table>
   <tbody><tr>
@@ -577,7 +577,7 @@ The SA regional qual was wacky as hell. Upsets left and right. SG must've gotten
 **What to spam in Twitch chat when SG is winning?** `Você é muito bom!`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/og.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/og.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">OG - <i>Western Europe</i></h2>
 <table>
   <tbody><tr>
@@ -611,7 +611,7 @@ We in the business simply refer to this as OG getting into "TI form."
 **What to spam in Twitch chat when OG is winning?** `THREE FUCKING FLUKES IN A ROW MAN SwiftRage`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/navi.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/spirit.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Spirit - <i>Eastern Europe (CIS)</i></h2>
 <table>
   <tbody><tr>
@@ -639,7 +639,7 @@ VP have been going sicko mode on the region, so it's really hard to gauge how go
 **What to spam in Twitch chat when Spirit is winning?** `COLLAPSE GIGACHAD`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/rng.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/elephant.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Elephant - <i>China</i></h2>
 <table>
   <tbody><tr>
@@ -675,7 +675,7 @@ Lucky for Elephant, four Chinese teams directly qualified for TI through points.
 **What to spam in Twitch chat when Elephant is winning?** `pregnant me fy Kreygasm`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/fnatic.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/fnatic.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Fnatic - <i>SEA</i></h2>
 <table>
   <tbody><tr>
