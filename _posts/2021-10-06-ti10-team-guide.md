@@ -705,7 +705,7 @@ Lucky for Elephant, four Chinese teams directly qualified for TI through points.
 
 ***SEA DPC S1** - 1st, **ONE Esports Singapore Major** - 9-12th, **SEA DPC S2** - 4th, **WePlay Kyiv AniMajor** - Did not qualify*
 
-You got the gist of it. The Fnatic organization is a TI mainstay and has attended every single International since TI3. That streak got very close to ending in the SEA regional qual grand finals, but they managed to reverse sweep TNC.
+You got the gist of it. The Fnatic organization is a TI mainstay and has attended every single International since TI3. That streak got dangerously close to ending in the SEA regional qual grand finals, but they managed to reverse sweep TNC.
 
 **What would success look like?** iceiceice bumps Deth up a tier or two, or six, in his [SEA offlaner power rankings.](https://afkgaming.com/dota2/news/7038-iceiceice-ranks-sea-dota-2-players-by-role)
 
