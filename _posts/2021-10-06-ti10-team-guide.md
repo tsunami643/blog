@@ -123,7 +123,7 @@ These are their stories.
 
 **How did this roster happen?** Many of you reading the list above are gonna be like: *Arteezy, of course, my boy. Abed? That's cool. Wait, where's Sumail? WHERE'S SUMAIL?!* Sumail's not on EG anymore. Wild, I know. Soon after TI9 ended, Sumail was benched and Abed was brought in. But don't worry, this is a Chekhov's Hassan. He'll be back in the third act.
 
-Iceiceice, meanwhile, finally got tired of floundering around in SEA and came to North America in Novemeber 2020 to replace Ramzes, who replaced s4 after TI9. Now you see why I chose that position to be your pro Dota familiarity barometer.
+Iceiceice, meanwhile, finally got tired of floundering around in SEA and came to North America in November 2020 to replace Ramzes, who replaced s4 after TI9. Now you see why I chose that position to be your pro Dota familiarity barometer.
 
 Fun fact, for all abuse Arteezy once endured for being a treacherous team hopping bastard, he is currently on the longest continuous tenure of any team+player pairing at TI10 besides Crit, Secret's Puppey, and OG's Notail. They grow up so fast.
 
