@@ -1,6 +1,8 @@
 ﻿---
 layout: "post"
-title: "The International 2021: A Practical Guide to All 18 Teams"
+title: "The International 2021:
+
+A Practical Guide to All 18 Teams"
 date: "2021-10-06 11:45"
 summary:    The bare minimum information you need to know before talking to a Dota player this October.
 feature-img: "img/ti10teams/ti10header.jpg"
@@ -790,7 +792,3 @@ My deepest gratitude to the people who <a href="https://liquipedia.net/dota2/Dot
 If you enjoyed this article and want to keep up with me, check my [Twitter](https://twitter.com/tsunami643), or [Twitch](https://twitch.tv/tsunami643), or [Instagram](https://instagram.com/tsunami643), or my [dead YouTube.](https://youtube.com/tsunami643)
 
 [**Discussion for this article on /r/dota2.**]()
-
-----
-
-<p style="text-align: justify;margin-bottom: 0.5em;font-size: smaller;">Player photos in the header were sourced from the <a href="https://www.flickr.com/photos/dota2ti/">dota2ti</a>, <a href="https://www.flickr.com/photos/cybersportcom/">Cybersport</a>, and <a href="https://www.flickr.com/photos/starladder/">StarLadder</a> Flickrs.</p>
