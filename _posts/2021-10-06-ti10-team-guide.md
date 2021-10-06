@@ -131,7 +131,7 @@ Fun fact, for all abuse Arteezy once endured for being a treacherous team hoppin
 
 * ***NA DPC S1** - 1st, **ONE Esports Singapore Major** - 2nd, **NA DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 2nd*
 
-[You may recall that EG were once notorious for always getting third place at events.]() Times have changed, though. That was a completely different roster, different meta, different era.
+[You may recall that EG were once notorious for always getting third place at events.](https://howdoiplay.com/blog/img/ti10teams/3teezy.png) Times have changed, though. That was a completely different roster, different meta, different era.
 
 They've since moved up a digit.
 
@@ -385,7 +385,7 @@ That ended up not happening and despite being given four slots at each major (ma
 
 **What would success look like?**
 
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">My only purpose in 2020 is to make sure the Finnish president knows who Lasse Urpalainen is.</p>&mdash; Heen (@Heen1337) <a href="https://twitter.com/Heen1337/status/1191536445485277184?ref_src=twsrc%5Etfw">November 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center" data-dnt="true"><p lang="en" dir="ltr">My only purpose in 2020 is to make sure the Finnish president knows who Lasse Urpalainen is.</p>&mdash; Heen (@Heen1337) <a href="https://twitter.com/Heen1337/status/1191536445485277184?ref_src=twsrc%5Etfw">November 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Since Kuroky isn't here to knock Secret out of TI for the fourth goddamn year in a row, it could very well happen.
 
@@ -758,7 +758,7 @@ Here are some fan favorites not playing at this TI whose current whereabouts you
 * Highly successful streamer in China. Completely MIA from the competitive scene this year.
 
 #### EHOME
-* [Has one of the funniest Liquipedia pages I've ever seen.]() Lookin' more like a Retirement EHOME, amirite?
+* [Has one of the funniest Liquipedia pages I've ever seen.](https://howdoiplay.com/blog/img/ti10teams/ehomeinactive.jpg) Lookin' more like a Retirement EHOME, amirite?
 
 #### BurNIng
 * Owns Team Aster. Kinda disliked in China now for some [dickish behavior.](https://www.reddit.com/r/DotA2/comments/nwmjoz/only_38_chinese_audience_support_aster/h1cxazo/?context=10000)
@@ -779,16 +779,14 @@ There's no way you read this entire thing, but hopefully whatever bits you glanc
 
 Shucks. I mean I guess you could always [buy my voice line with your ticket refund money.](https://www.dota2.com/store/itemdetails/22128)
 
-<br>
+----
 
 My deepest gratitude to the people who <a href="https://liquipedia.net/dota2/Dota_Pro_Circuit/2021/Rankings">keep Liquipedia up to date.</a> Without resources like this, analysts like myself would be completely lost at sea.
 
 If you enjoyed this article and want to keep up with me, check my [Twitter](https://twitter.com/tsunami643), or [Twitch](https://twitch.tv/tsunami643), or [Instagram](https://instagram.com/tsunami643), or my [dead YouTube.](https://youtube.com/tsunami643)
 
-<br>
-
 [**Discussion for this article on /r/dota2.**]()
 
-<br>
+----
 
 <p style="text-align: justify;margin-bottom: 0.5em;font-size: smaller;">Player photos in the header were sourced from the <a href="https://www.flickr.com/photos/dota2ti/">dota2ti</a>, <a href="https://www.flickr.com/photos/cybersportcom/">Cybersport</a>, and <a href="https://www.flickr.com/photos/starladder/">StarLadder</a> Flickrs.</p>
