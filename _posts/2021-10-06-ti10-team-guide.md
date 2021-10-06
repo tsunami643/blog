@@ -42,7 +42,7 @@ You're not the demographic for this guide, get outta here. Go watch a Jenkins vi
 <div id="paragraphThree" style="display: none; line-height:1.5em;">
 ...ever heard of a "neutral item" before? No? How about the term <i>'sunmommy'</i>? Nothing? Well this is gonna be one confusing TI for you.</div>
 <div id="paragraphFour" style="display: none; line-height:1.5em; font-size:large;">
-Just a second, let me get into character.<br><blockquote style="font-size: 1.1 em;">Whoa, long time no see. What have you been up to? You got married? No way, that's awesome! One on the way too? Wow. Congratulations. Our old stack? Nah, I'm... I'm the only one who still plays these days. Haha, yeah... Remember that one game we won with your Storm Spirit after you stole the Aegis? Good times. Anyway, n-nice catching up with you.</blockquote></div>
+Just a second, let me get into character.<br><blockquote style="font-size: 1.1 em;">Whoa, long time no see. What have you been up to? You got married? No way, that's awesome! One on the way too? Wow. Congratulations. Our old stack? Nah, I'm... I'm the only one who still plays these days. Haha, yeah... Remember that one game we won with your Storm Spirit after you snatched the Aegis? Good times. Anyway, n-nice catching up with you.</blockquote></div>
 <div id="paragraphFive" style="display: none; line-height:1.5em; font-size:large;">
 Trying to impress somebody? Talk about relationship goals, you're a keeper. Ok so in the current 7.30d meta an offlaner, also known as the '3', is usually a tanky initiat--<br><br>Actually, forget it. All you need to know is if your special someone starts stressing out in the first few minutes of a game just say, "It's ok, babe. Laning phase doesn't matter."</div>
 
@@ -101,7 +101,7 @@ for (i=0; i<myWrappers.length; i++){
 
 Remember the *Dota Pro Circuit/DPC*? It's back. In league form.
 
-Now there are plenty of resources out there that'll [explain the system](https://liquipedia.net/dota2/Dota_Pro_Circuit/2021) in all its gory details, so I'm not gonna bother. All you really need to know is each team had four opportunities to earn DPC points this year: Their regional league season 1 *(Jan-Mar 2021)*, the Singapore Major *(Apr 2021)*, their regional league season 2 *(Apr-May 2021)*, and the Kyiv AniMajor *(May 2021)*. The top 12 teams with the most DPC points at the end of the year got directly invited to TI10.
+There are plenty of resources out there that'll [explain the system](https://liquipedia.net/dota2/Dota_Pro_Circuit/2021) in all its gory details, so I'm not gonna bother. All you really need to know is each team had four opportunities to earn DPC points this year: Their regional league season 1 *(Jan-Mar 2021)*, the Singapore Major *(Apr 2021)*, their regional league season 2 *(Apr-May 2021)*, and the Kyiv AniMajor *(May 2021)*. The top 12 teams with the most DPC points at the end of the year got directly invited to TI10.
 
 These are their stories.
 
@@ -308,7 +308,7 @@ SEA had an interesting conundrum this year. Since their leagues were so intra-re
 
 But then halfway through the SEA DPC S2 it seems T1 decided, "You know it'd be pretty cool to go to TI directly," and then proceeded to smash their way through the rest of the league and the AniMajor.
 
-**What would success look like?** Placing higher than T1 in Worlds 2021.
+**What would success look like?** Placing higher than the T1 in Worlds 2021.
 
 **What to spam in Twitch chat when T1 is winning?** `MikeHogu MASTER KUKU TURUAN MO PA NG IBANG KANTA SI WHITEMON`
 
@@ -699,7 +699,7 @@ Lucky for Elephant, four Chinese teams directly qualified for TI through points.
 * Fnatic poaches Thai rising star, Masaros, from Motivate.Trust at the end of 2020. Trust ends up winning a tournament while everybody knows that Masaros is about to leave. Awkward.
 * Masaros leaves after Fnatic's disappointing Singapore Major finish and they bring in ChYuan (a mid player) to play offlane.
 * Fnatic bumbles their way through S2 to make this new roster work. It's not pretty.
-* Moon is ~~kicked~~ fired from Fnatic ~~for underperforming~~ in a hostile corporate takeover. Deth (an offlaner) is brought in to play offlane and ChYuan resumes mid duties.
+* Moon is ~~kicked~~ fired from Fnatic ~~for underperforming~~ in a hostile corporate takeover. Deth (an offlaner) is brought in to play offlane and ChYuan assumes mid duties.
 
 **How was their DPC year?** 446.25 Points
 
