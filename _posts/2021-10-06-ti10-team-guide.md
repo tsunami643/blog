@@ -750,6 +750,14 @@ Here are some fan favorites not playing at this TI whose current whereabouts you
 #### Hmmm... if Nigma got 3rd and Liquid got 4th, who got 2nd?
 * A team by the name of *Tundra Esports* with Skiter, Nine, 33, Sneyking, and Fata. Tundra never got to attend any majors, but they got nail-bitingly close to beating OG in the WEU TI10 qualifiers. Incidentally, this is the first International that Fata has missed since he started competing at *TI3.*
 
+#### Team Bald
+
+* Literally the only reason I'm including this is to preempt the sea of reddit comments that would inevitably say, *"YOU FORGOT TEAM BALD OMEGALUL."*
+
+#### AdmiralBulldog
+
+* This one too. I'm one step ahead of you scrubs.
+
 ## Eastern Europe (CIS)
 
 #### Old VP (RAMZES666, No[o]ne, 9pasha, RodjER, Solo)
