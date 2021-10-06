@@ -750,7 +750,7 @@ Here are some fan favorites not playing at this TI whose current whereabouts you
 
 #### Team Bald
 
-* Literally the only reason I'm including this is to preempt the sea of reddit comments that would inevitably say, *"YOU FORGOT TEAM BALD OMEGALUL."*
+* Literally the only reason I'm including this is to preempt the sea of reddit comments that would inevitably say, *"YOU FORGOT TEAM BALD OMEGALUL gorgcBald gorgcBald gorgcBald"*
 
 #### AdmiralBulldog
 
