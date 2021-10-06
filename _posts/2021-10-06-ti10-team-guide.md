@@ -797,4 +797,4 @@ My deepest gratitude to the many volunteers who <a href="https://liquipedia.net/
 
 If you enjoyed this article and want to keep up with me, check my [Twitter](https://twitter.com/tsunami643), or [Twitch](https://twitch.tv/tsunami643), or [Instagram](https://instagram.com/tsunami643), or my [dead YouTube.](https://youtube.com/tsunami643)
 
-[**Discussion for this article on /r/dota2.**]()
+[**Discussion for this article on /r/dota2.**](https://www.reddit.com/r/DotA2/comments/q2l6hv/the_international_2021_a_practical_guide_to_all/?)
