@@ -159,7 +159,7 @@ Now for a normal person, 2nd place at two majors is pretty incredible. But Dota 
 
 **How did this roster happen?**  Just reading these names, how could you not get hype? Two of the Wings Gaming TI6 winning squad? Young hotshot 12k MMR midlaner? And xiao8 coaching? Jiayou!
 
-In fact Ame, who may seem like the only connection to the TI9 LGD, actually traded spots with AhJit on CDEC for most of 2020 before this roster was announced in September. Was he being given a lesson in humility? If he was, it worked. There's never been a better time to be an lgdamefan.
+In fact Ame, who may seem like the only connection to the TI9 LGD, traded spots with AhJit on CDEC for most of 2020 before this roster was announced in September. Was he being given a lesson in humility? If he was, it worked. There's never been a better time to be an lgdamefan.
 
 **How was their DPC year?** 1300 Points
 
@@ -222,7 +222,7 @@ In VP's defense, this is a young team (literally, their oldest player is DM at 2
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Yawar, Quinn, and MSS have actually been together since 2019. It was as Forward Gaming, who got turned into TI9 Newbee, who got turned into Quincy Crew, who got turned into Chaos EC, who again turned into Quincy Crew and have remained so since early 2020. Along the way, they imported the Brazilian Lelis and brought LoA/SVG out of semi-retirement.
+**How did this roster happen?** Yawar, Quinn, and MSS have been together since 2019. It was as Forward Gaming, who got turned into TI9 Newbee, who got turned into Quincy Crew, who got turned into Chaos EC, who again turned into Quincy Crew and have remained so since early 2020. Along the way, they imported the Brazilian Lelis and brought LoA/SVG out of semi-retirement.
 
 **How was their DPC year?** 1100 Points
 
@@ -230,7 +230,7 @@ In VP's defense, this is a young team (literally, their oldest player is DM at 2
 
 For most of 2020, practically everyone had written off North America as a region beyond saving and it was basically just EG's sandbox to stomp on kids.
 
-In 2021, we learned that North America *is* indeed mostly beyond saving, but there are actually two bullies at the playground with Quincy Crew too.
+In 2021, we learned that North America *is* indeed mostly beyond saving, but there are in fact two bullies at the playground with Quincy Crew too.
 
 Quincy Crew not only gave EG a run for their money in both NA DPC seasons, but was also looking to be worthy competition at international LANs. Their Singapore Major result has an asterisk because QC had to use a stand-in of Poloson due to MSS contracting COVID.
 
@@ -513,7 +513,11 @@ After May 16, 2021, Thunder Predator's TI invite fate was no longer in their own
 
 **What to spam in Twitch chat when TP is winning?** `TE QUIERO MUCHO ARTURITO FrankerZ`
 
+----
+
 # The Regional Qualifiers
+
+----
 
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/undying.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Team Undying - <i>North America</i></h2>
@@ -592,7 +596,7 @@ The SA regional qual was wacky as hell. Upsets left and right. SG must've gotten
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** As intimidating as this roster looks, it hasn't been all sunflowers and rainbows for the two time reigning TI champs. After TI9, ana peaced out for another season and Jerax just straight up retired. Even Ceb intended to step down from active play and OG actually signed MidOne, Saksa, and Sumail to fill the empty shoes.
+**How did this roster happen?** As intimidating as this roster looks, it hasn't been all sunflowers and rainbows for the two time reigning TI champs. After TI9, ana peaced out for another season and Jerax just straight up retired. Even Ceb intended to step down from active play and OG signed MidOne, Saksa, and Sumail to fill the empty shoes.
 
 Then COVID happened and Sumail vanished from competitive Dota for nearly an entire year. But see, I told you he'd be back in the third act. 
 
@@ -692,7 +696,7 @@ Lucky for Elephant, four Chinese teams directly qualified for TI through points.
 
 **How did this roster happen?** Painfully. I could write an essay on Fnatic's adventures this year, but it's more efficient to give the bullet point version:
 
-* Fnatic poaches Thai rising star, Masaros, from Motivate.Trust at the end of 2020. Trust actually wins a tournament while everybody knows that Masaros is about to leave. Awkward.
+* Fnatic poaches Thai rising star, Masaros, from Motivate.Trust at the end of 2020. Trust ends up winning a tournament while everybody knows that Masaros is about to leave. Awkward.
 * Masaros leaves after Fnatic's disappointing Singapore Major finish and they bring in ChYuan (a mid player) to play offlane.
 * Fnatic bumbles their way through S2 to make this new roster work. It's not pretty.
 * Moon is ~~kicked~~ fired from Fnatic ~~for underperforming~~ in a hostile corporate takeover. Deth (an offlaner) is brought in to play offlane and ChYuan resumes mid duties.
@@ -716,7 +720,7 @@ Here are some fan favorites not playing at this TI whose current whereabouts you
 ## North America
 
 #### The rest of TI5 EG (ppd, Universe, Aui_2000)
-* After TI9, ppd and Universe reunited on NiP. They actually qualified for the March 2020 ESL Los Angeles major right before COVID hit. The tournament got canceled and they both promptly retired. Peter then un-retired, competed in the NA DPC S1, stopped doing that, became Alliance's coach for the EU DPC S2, stopped doing that, was invited to cast TI10, but also stopped doing that.<br><br>Universe *actually* retired and recently [got married!](https://twitter.com/UniverseDota/status/1426214388508233731)<br><br>Aui seems content with his current coach/caster trajectory and will also be joining the TI10 English broadcast.
+* After TI9, ppd and Universe reunited on NiP. They qualified for the March 2020 ESL Los Angeles major right before COVID hit. The tournament got canceled and they both promptly retired. Peter then un-retired, competed in the NA DPC S1, stopped doing that, became Alliance's coach for the EU DPC S2, stopped doing that, was invited to cast TI10, but also stopped doing that.<br><br>Universe *actually* retired and recently [got married!](https://twitter.com/UniverseDota/status/1426214388508233731)<br><br>Aui seems content with his current coach/caster trajectory and will also be joining the TI10 English broadcast.
 
 #### EternaLEnVy
 * I think they caught up with manga this year so instead we got some weird filler arc where Envy doesn't read the DPC rules and then acts surprised at the end of the season.<br><br>After floating around in the NA lower and upper divisions, Jacky Mao slapped together a team for the TI10 qualifier with Ryoya, Kingrd/Mr. Kingão, Zfreek, and Moo. Idk feels like the writers just ran out of ideas, not sure if I'll watch next season...
@@ -771,7 +775,7 @@ Here are some fan favorites not playing at this TI whose current whereabouts you
 #### Team SMG (MidOne, Moon, kpii, ah fu, Roddgeee)
 * Dropped out of TI10 SEA quals pretty early in the mix. Poor kpii even flew out to their bootcamp and they got eliminated while he was mandatory quarantining.
 
-<hr style="margin-bottom: 1.2em;">
+<hr style="margin-bottom: 1.0em;">
 
 # That's it.
 
