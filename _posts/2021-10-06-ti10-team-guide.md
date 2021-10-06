@@ -3,7 +3,7 @@ layout: "post"
 title: "The International 2021: A Practical Guide to All 18 Teams"
 date: "2021-10-06 11:45"
 summary:    The bare minimum information you need to know before talking to a Dota player this October.
-feature-img: "img/ti8teams/ti8header.png"
+feature-img: "img/ti10teams/ti10header.png"
 flags: true
 ---
 
@@ -106,7 +106,7 @@ Now there are plenty of resources out there that'll [explain the system](https:/
 These are their stories.
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/eg.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/eg.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Evil Geniuses</h2>
 <table>
   <tbody><tr>
@@ -142,7 +142,7 @@ Now for a normal person, 2nd place at two majors is pretty incredible. But Dota 
 **What to spam in Twitch chat when EG are winning?** `My streamer FeelsStrongMan`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/lgd.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/lgd.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">PSG.LGD</h2>
 <table>
   <tbody><tr>
@@ -172,7 +172,7 @@ As is tradition with LGDs past, they started the year off *cold*. Granted, the C
 **What to spam in Twitch chat when LGD are winning?** `Translator winning mid Pog`
 
 <hr style="margin-bottom: 1.2em;">
-<p style="margin: 0.5em 0;"><img src="../img/ti9teams/vp.png" alt="Banner"></p>
+<p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/vp.jpg" alt="Banner"></p>
 <h2 style="margin: 0.25em 0;">Virtus.pro</h2>
 <style type="text/css">table {margin: 0.25em 0; overflow: hidden} tr td {display: inline-block;padding:0 1em 0 0;font-style: italic;border: 0px solid}</style>
 <table>
