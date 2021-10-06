@@ -9,7 +9,7 @@ flags: true
 
 ### Well, it's happening...
 
-Against all odds, The International 2021 is finally upon us. But you're looking a little lost. Have you not been keeping up with the DPC? The teams, the patches, the meta, the drama? Has everything between March 2020 to October 2021 simply been a blur? Not to worry, you're in the right place. I just need one quick favor from you to calibrate your Dota esports MMR.
+Against all odds, The International 2021 is finally upon us. But you're looking a little lost. Have you not been keeping up with the DPC? The teams, the patches, the meta, the drama? Has everything between March 2020 to October 2021 simply been a blur? Relax, you're in the right place. I just need one quick favor from you to calibrate your Dota esports MMR.
 
 Please answer the following question:
 
@@ -347,7 +347,7 @@ I'm not gonna make a Fade pun here, but he's not at TI10.
 
 * ***CN DPC S1** - 3rd, **ONE Esports Singapore Major** - 7-8th, **CN DPC S2** - 3rd, **WePlay Kyiv AniMajor** - 4th*
 
-I could literally copy-paste what I wrote about Vici's TI8 squad three years ago and you would not be able to tell the difference.
+I could literally copy-paste what I wrote about Vici's TI8 squad [three years ago](https://howdoiplay.com/blog/2018/07/18/ti8-team-guide.html) and you would not be able to tell the difference.
 
 <blockquote style="font-size: large;">Just some real solid Dotes. You know, a real focus on the fundamentals. The guys are gonna give it their all. Show some real hustle out there. <br><br>And not win.</blockquote>
 
@@ -355,7 +355,7 @@ What is with Vici and signing teams that are always *good* but never TI champion
 
 **What would success look like?** ...being TI championship material. Alley-oop.
 
-**What to spam in Twitch chat when Vici is winning?** `poyoyoyoyoyo`
+**What to spam in Twitch chat when Vici is winning?** `NECC GOD`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/secret.jpg" alt="Banner"></p>
@@ -483,7 +483,7 @@ Amusingly, the team seems to have taken the criticism to heart and, in the bigge
 
 Me getting a beastcoast hoodie. Give me a beastcoast hoodie.
 
-**What not to spam in Twitch chat when beastcoast is winning?** You may be tempted to go for the old `GAAAAAAAA` but I should inform you that the line does have a somewhat [mean-spirited origin story](https://www.reddit.com/r/DotA2/comments/cu5je5/real_history_of_the_gaaaaa_meme/) and isn't even really a part of the [SA meme meta anymore.](https://www.reddit.com/r/DotA2/comments/mfn9oy/now_that_thunder_predator_has_your_attention/gsor3pq/?context=10000)
+**What to spam in Twitch chat when beastcoast is winning?** `No vales ni un sol, estudia loco`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/tp.jpg" alt="Banner"></p>
@@ -501,13 +501,13 @@ Me getting a beastcoast hoodie. Give me a beastcoast hoodie.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Nothing too special, just a full Peruvian squad put together pretty much right before the DPC started. Previously, MoOz had been beastcoast's coach/stand-in for most of 2020, but returned to full time play on TP. Also, yes, that is the Fear you're thinking of who's coaching.
+**How did this roster happen?** Whoa, now. *Two* South American teams at TI? Hay talento, hay apoyo. This full Peruvian squad was put together pretty much right before the DPC started. Previously, MoOz had been beastcoast's coach/stand-in for most of 2020, but returned to full time play on TP. Also, yes, that is the Fear you're thinking of who's coaching.
 
 **How was their DPC year?** 800 Points
 
 * ***SA DPC S1** - 2nd, **ONE Esports Singapore Major** - 5-6th, **SA DPC S2** - 3rd, **WePlay Kyiv AniMajor** - Did not qualify*
 
-After May 16, 2021, Thunder Predator's TI invite fate was no longer in their own hands. They had quite a few points with their surprise top 6 finish at the Singapore Major, but it wasn't enough to guarantee no other team could leapfrog them in Kyiv. Thankfully, the Evil Genuises did TP a solid by assassinating NoPing, TNC, and Nigma uno a uno at the AniMajor.
+After May 16, 2021, Thunder Predator's TI invite fate was no longer in their own hands. They had quite a few points with their surprise top 6 finish at the Singapore Major, but it wasn't enough to guarantee no other team could leapfrog them in Kyiv. Enter the Evil Genuises who punched TP's ticket by assassinating NoPing, TNC, and Nigma uno a uno at the AniMajor.
 
 **What would success look like?** The Peruvian teams not having to commit country-on-country elimination in the bracket.
 
@@ -566,7 +566,7 @@ Take a game off Arkosh next year.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Hold the phone, *three* SA teams at TI? Peruvian *and* Brazilian? It's a brave new world, amigos.
+**How did this roster happen?** *THREE* SA teams at TI?! Peru *and* Brazil represented? It's a brave new world, amigos.
 
 The majority of this roster came from a much older NoPing e-sports that had been playing together since early 2020. NoPing, like many orgs in COVID times, had to drop their Dota 2 team due to a severe lack of *"The International."* The boys continued playing together as Team Brasil before finally signing to SG esports, an org that quit *all* of their operations 2019, in December 2020.
 
@@ -578,7 +578,7 @@ The SA regional qual was wacky as hell. Upsets left and right. SG must've gotten
 
 **What would success look like?** So South America's highest TI placement was TI9's Infamous top 8, but *Brazil's* highest TI placement is... last. 18th with TI8's paiN Gaming. That's also Brazil's *only* TI placement, so SG can really only impress.
 
-**What to spam in Twitch chat when SG is winning?** `Você é muito bom!`
+**What to spam in Twitch chat when SG is winning?** `4dr meu deus`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/og.jpg" alt="Banner"></p>
@@ -606,7 +606,7 @@ Then COVID happened and Sumail vanished from competitive Dota for nearly an enti
 
 Dude, it was so exciting. Notail called Alliance a bunch of cheaters during the coaching scandal and never formally apologized. Ceb DM'd Secret's social media manager and cursed him out in French for being mean. The brand appears to be slowly pivoting from esports teams to NFT manufacturers. It's been a ride.
 
-Oh the Dota? The Dota wasn't that great. After a sluggish season 1, MidOne got the boot and ana came back for season 2 under the tag *humblegod.* He proceeded to get so humbled he didn't even finish the season, probably said, "Yeah, I don't need this shit," and retired for realsies this time. OG then had to call up Madara to be their fifth in the three-way-hell-in-a-cell tiebreaker just to not get bumped down to lower division.
+Oh the Dota? The Dota wasn't that great. After a sluggish season 1, MidOne got the boot and ana came back for season 2 under the tag *humblegod.* He proceeded to get so humbled he didn't even finish the season, probably said, "Yeah, I don't need this shit," and retired for realsies this time. OG then had to call up Madara to temporarily be their fifth in the three-way-hell-in-a-cell tiebreaker just to not get bumped down to lower division.
 
 We in the business simply refer to this as OG getting into "TI form."
 
@@ -705,7 +705,7 @@ Lucky for Elephant, four Chinese teams directly qualified for TI through points.
 
 ***SEA DPC S1** - 1st, **ONE Esports Singapore Major** - 9-12th, **SEA DPC S2** - 4th, **WePlay Kyiv AniMajor** - Did not qualify*
 
-You got the gist of it. The Fnatic organization has been a TI mainstay and has attended every single International since TI3. That streak got very close to ending in the SEA regional qual grand finals, but they managed to reverse sweep TNC.
+You got the gist of it. The Fnatic organization is a TI mainstay and has attended every single International since TI3. That streak got very close to ending in the SEA regional qual grand finals, but they managed to reverse sweep TNC.
 
 **What would success look like?** iceiceice bumps Deth up a tier or two, or six, in his [SEA offlaner power rankings.](https://afkgaming.com/dota2/news/7038-iceiceice-ranks-sea-dota-2-players-by-role)
 
@@ -793,7 +793,7 @@ Shucks. I mean I guess you could always [buy my voice line with your ticket refu
 
 ----
 
-My deepest gratitude to the many volunteers who <a href="https://liquipedia.net/dota2/Dota_Pro_Circuit/2021/Rankings">keep Liquipedia up to date.</a> Without resources like this, we would all forget the deep lore behind all these players and teams.
+My deepest gratitude to the many volunteers who <a href="https://liquipedia.net/dota2/Dota_Pro_Circuit/2021/Rankings">keep Liquipedia up to date.</a> Without resources like this, we would forget the deep lore behind all these players and teams.
 
 If you enjoyed this article and want to keep up with me, check my [Twitter](https://twitter.com/tsunami643), or [Twitch](https://twitch.tv/tsunami643), or [Instagram](https://instagram.com/tsunami643), or my [dead YouTube.](https://youtube.com/tsunami643)
 
