@@ -355,7 +355,7 @@ What is with Vici and signing teams that are always *good* but never TI champion
 
 **What would success look like?** ...being TI championship material. Alley-oop.
 
-**What to spam in Twitch chat when T1 is winning?** `poyoyoyoyoyo`
+**What to spam in Twitch chat when Vici is winning?** `poyoyoyoyoyo`
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="/blog/img/ti10teams/secret.jpg" alt="Banner"></p>
