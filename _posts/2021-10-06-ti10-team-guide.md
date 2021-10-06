@@ -793,7 +793,7 @@ Shucks. I mean I guess you could always [buy my voice line with your ticket refu
 
 ----
 
-My deepest gratitude to the many volunteers who <a href="https://liquipedia.net/dota2/Dota_Pro_Circuit/2021/Rankings">keep Liquipedia up to date.</a> Without resources like this, we would forget the deep lore behind all these players and teams.
+My sincerest thanks to the many volunteers who <a href="https://liquipedia.net/dota2/Dota_Pro_Circuit/2021/Rankings">keep Liquipedia up to date.</a> Without resources like this, the lore behind all these players and teams would be lost to time.
 
 If you enjoyed this article and want to keep up with me, check my [Twitter](https://twitter.com/tsunami643), or [Twitch](https://twitch.tv/tsunami643), or [Instagram](https://instagram.com/tsunami643), or my [dead YouTube.](https://youtube.com/tsunami643)
 
