@@ -501,7 +501,7 @@ Me getting a beastcoast hoodie. Give me a beastcoast hoodie.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Nothing too special, just a full Peruvian squad put together pretty much right before the DPC started. Previously, MoOz had been beastcoast's coach/stand-in for most of 2020, but returned to full time play on TP.
+**How did this roster happen?** Nothing too special, just a full Peruvian squad put together pretty much right before the DPC started. Previously, MoOz had been beastcoast's coach/stand-in for most of 2020, but returned to full time play on TP. Also, yes, that is the Fear you're thinking of who's coaching.
 
 **How was their DPC year?** 800 Points
 
