@@ -759,7 +759,7 @@ Here are some fan favorites not playing at this TI whose current whereabouts you
 ## Eastern Europe (CIS)
 
 #### Old VP (RAMZES666, No[o]ne, 9pasha, RodjER, Solo)
-* After TI9, the team imploded and everyone went their separate ways. I could get into the aftermath, but this stupid guide has gotten way too goddamn already long so go do the research yourself. Amusingly, Na\`Vi is currently the most recent team on every one of those players' Liquipedia team history.
+* After TI9, the team imploded and everyone went their separate ways. I could get into the aftermath, but this stupid guide has gotten way too goddamn long  already so go do the research yourself. Amusingly, Na\`Vi is currently the most recent team on every one of those players' Liquipedia team history.
 
 #### Dendi
 * God bless this man. He absolutely refuses to give up on playing the game that he loves and I respect him for it. After formally leaving the Na\`Vi organization in 2019, Dondo formed his own team, *B8,* in early 2020. They had two underwhelming runs in the EEU/CIS S1/S2 lower division with a mishmash of players. But don't worry, he's still ever the ball of light blazing out across a dark sea of toxicity. Tune into the Russian TI10 broadcast if you wanna see his antics with 4 out of 5 players from TI1 Na`Vi.
