@@ -696,7 +696,7 @@ Lucky for Elephant, four Chinese teams directly qualified for TI through points.
 
 **How did this roster happen?** Painfully. I could write an essay on Fnatic's adventures this year, but it's more efficient to give the bullet point version:
 
-* Fnatic poaches Thai rising star, Masaros, from Motivate.Trust at the end of 2020. Trust ends up winning a tournament while everybody knows that Masaros is about to leave. Awkward.
+* Fnatic yoinks Thai rising star, Masaros, from Motivate.Trust at the end of 2020. Trust ends up winning a tournament while everybody knows that Masaros is about to leave. Kinda awkward.
 * Masaros leaves after Fnatic's disappointing Singapore Major finish and they bring in ChYuan (a mid player) to play offlane.
 * Fnatic bumbles their way through S2 to make this new roster work. It's not pretty.
 * Moon is ~~kicked~~ fired from Fnatic ~~for underperforming~~ in a hostile corporate takeover. Deth (an offlaner) is brought in to play offlane and ChYuan assumes mid duties.
