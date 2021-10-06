@@ -1,8 +1,6 @@
 ﻿---
 layout: "post"
-title: "The International 2021:
-
-A Practical Guide to All 18 Teams"
+title: "The International 2021: A Practical Guide to All 18 Teams"
 date: "2021-10-06 11:45"
 summary:    The bare minimum information you need to know before talking to a Dota player this October.
 feature-img: "img/ti10teams/ti10header.jpg"
@@ -39,7 +37,7 @@ Please answer the following question:
 World goes to hell in a handbasket and you just <i>leave Dota?</i> After everything we've been through? You know we still had tournaments going on in 2020! You really missed out. Sort of. Well at least you're here now. Please don't leave again, our player count numbers can't take it.
 </div>
 <div id="paragraphTwo" style="display: none; line-height:1.5em;">
-You're not the demographic for this guide, get outta here. Go watch a Jenkins video and post your first rampage on */r/dota2* for 27 upvotes.
+You're not the demographic for this guide, get outta here. Go watch a Jenkins video and post your first rampage on <i>/r/dota2</i> for 27 upvotes.
 </div>
 <div id="paragraphThree" style="display: none; line-height:1.5em;">
 ...ever heard of a "neutral item" before? No? How about the term <i>'sunmommy'</i>? Nothing? Well this is gonna be one confusing TI for you.</div>
