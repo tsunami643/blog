@@ -3,7 +3,7 @@ layout: "post"
 title: "The International 2021: A Practical Guide to All 18 Teams"
 date: "2021-10-06 11:45"
 summary:    The bare minimum information you need to know before talking to a Dota player this October.
-feature-img: "img/ti10teams/ti10header.png"
+feature-img: "img/ti10teams/ti10header.jpg"
 flags: true
 ---
 
