@@ -636,7 +636,7 @@ We in the business simply refer to this as OG getting into "TI form."
 
 * ***EEU DPC S1** - 4th, **ONE Esports Singapore Major** - Did not qualify, **EEU DPC S2** - 2nd, **WePlay Kyiv AniMajor** - 7-8th*
 
-VP have been going sicko mode on the region, so it's really hard to gauge how good EEU really is. Top 8 at the AniMajor is nothing to scoff at and Spirit also went to grand finals against PSG.LGD at the non-DPC OGA Dota PIT Invitational in September. Thas p gud.
+VP have been going sicko mode on the region, so it's really hard to gauge how good EEU truly is. Top 8 at the AniMajor is nothing to scoff at and Spirit also went to grand finals against PSG.LGD at the non-DPC OGA Dota PIT Invitational in September. Thas p gud.
 
 **What would success look like?** Naruto running their way to the Aegis.
 
