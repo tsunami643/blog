@@ -9,7 +9,7 @@ flags: true
 
 ### Yeah, yeah, I'm late.
 
-With the weird TI format this year I couldn't decide when to finish this article. I was originally going to release it once my part of the broadcast began after group stage, but then I realized I'd be 4 teams lighter. Let's get started.
+With the weird TI format this year I couldn't decide when to finish this article. I was originally going to release it once my part of the broadcast began after group stage, but then I realized I'd be 4 teams lighter. Whatever the case, I'm here now, so let's get started.
 
 ---
 
