@@ -130,7 +130,7 @@ Due to heavy COVID lockdowns, Chinese Dota was hidden away for most of this seas
 
 LGD only narrowly qualified to the Arlington Major after scraping through their Tour 3 tiebreaker, but came in to their second international LAN of the year with an axe to grind. *Second* LAN, because they had shown up to the non-DPC *Riyadh Masters* event a few weeks prior to Arlington and took that trophy after defeating Team Spirit.
 
-Guess who beat them in Arlington?
+But guess who beat them in Arlington?
 
 **What would success look like?** They have to win. That's it. Literally any placement that doesn't involve them lifting the Aegis at the end of this tournament is a complete failure. I'm not being hyperbolic. This is legitimately where the bar has been set for this team.
 
@@ -203,7 +203,7 @@ You wouldn't be faulted for not knowing Yuragi. He's been playing semi-professio
 * **WEU DPC Tour 3** - 3rd 🥉
 * **PGL Arlington Major** - 4th*
 
-On paper, this is the kind of roster that grows into its own after a year or two. In execution? OG is **BUILT DIFFERENT.**
+In theory, this is the kind of roster that grows into its own after a year or two. In execution? OG is **BUILT DIFFERENT.**
 
 They didn't set the world on fire immediately, but they definitely hit their stride waaay quicker than anyone expected. And while these DPC results may not be as decorated as LGD's, this team* had strong showings at third party tournaments, including a recent 1st 🥇* place at *ESL Malaysia* near the end of August.
 
