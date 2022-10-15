@@ -320,7 +320,7 @@ The moment I saw these placements I thought, "Wow, those are some pretty great p
 
 As long as they eliminate non-Chinese teams, they should be fine. But it'll be a dark day if they face LGD in bracket, eliminate them, and then _don't_ get the Aegis.
 
-**What to spam in Twitch chat when Aster are winning?** Every year. Every year I struggle to find positive Chinese discourse surrounding this team. And every year I come up empty handed. I have plenty of ammo if you want to spam something when they're *losing*. But winning? I dunno, spam something about Lanm and his enormous... draft knowledge.
+**What to spam in Twitch chat when Aster are winning?** Every year. Every year I struggle to find positive Chinese discourse surrounding this team. And every year I come up empty handed. I have plenty of ammo when they're *losing*. But winning? I dunno, spam something about Lanm and his enormous... draft knowledge.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti11teams/thunder.jpg" alt="Banner"></p>
