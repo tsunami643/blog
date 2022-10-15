@@ -392,9 +392,9 @@ Test your geographical knowledge. What flag is next to Jackky's name? <span clas
 
 BOOM showed up on everyone's radar pretty early on in the season when they won the non-DPC *GAMERS GALAXY: Dubai* tournament in March. They quietly eliminated Secret, Spirit, Nigma in playoffs and beat Tundra in grand finals. Perhaps they peaked a bit too soon, though, as their major performances were decidedly less impressive. Granted, skem literally showed up in Stockholm 3 hours before BOOM's group stage matches started due to visa complications, so maybe that event gets a pass.
 
-**What would success look like?** Southeast Asian teams have been *struggling* when it comes to TI. TI6's Fnatic was the last time a team from this region placed top 6. That being said, this is the first ever International in SEA.
+**What would success look like?** Southeast Asia has been *struggling* when it comes to TI. TI6's Fnatic was the last time a team from this region even placed top 6.
 
-We're about to learn just how strong a crowd buff can truly get.
+That being said, this is the first ever International in SEA. We're about to learn just how strong a crowd buff can truly get.
 
 **What to spam in Twitch chat when BOOM are winning?** `JAPOY IS MY IDOL`
 
