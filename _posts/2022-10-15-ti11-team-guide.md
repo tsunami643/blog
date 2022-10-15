@@ -1048,8 +1048,8 @@ As always, my sincerest thanks to the many volunteers who [keep Liquipedia up to
 
 If you enjoyed this article and want to keep up with me, I'm around on [Twitter](https://twitter.com/tsunami643), [Twitch](https://twitch.tv/tsunami643), or [Instagram](https://instagram.com/tsunami643).
 
-Also, feel free to pay money and [buy my TI11 voiceline](https://www.youtube.com/watch?v=Bu792uUcGLU&t=22s) or hit up the [howdoiplay merch store.](https://shop.howdoiplay.com/)
+Also, feel free to pay money and [buy my TI11 voiceline](https://www.youtube.com/watch?v=Bu792uUcGLU&t=22s) or hit up the very trendy [howdoiplay merch store.](https://shop.howdoiplay.com/)
 
-<p style="font-size: 1.5em;text-align: center;">
+<p style="font-size: 1.5em;margin-bottom:0px;text-align: center;">
     <a href="" target="_blank" class="button large">Discussion for this article on /r/dota2</a>
 </p>
