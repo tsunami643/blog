@@ -989,7 +989,7 @@ I like to imagine that's how it went down.
 * **WEU DPC Tour 3** - 5th
 * **PGL Arlington Major** - Did not qualify
 
-After 2020, Secret realized they love online Dota so much they decided to not go to a single major.
+After 2020, Secret realized they love online Dota so much they decided to not go to a single major this year.
 
 They got revenged 3-0 by Entity in the WEU Regional Qualifiers and had to go through the cutthroat Last Chance Qualifier to make it to TI. But ain't no way Puppey was breaking his all-TI-attendance streak. Not this year.
 
