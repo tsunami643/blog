@@ -585,7 +585,7 @@ Or as the community saw it.
 
 Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liquipedia was branded as an 'unofficial source.' Crazy stuff.
 
-**What would success look like?** Jaunuel's mullet is added to the list of "greatest TI winning haircuts."
+**What would success look like?** Jaunuel's mullet being added to the list of "greatest TI winning haircuts."
 
 **What to spam in Twitch chat when Fnatic are winning?** `lol bro`
 
