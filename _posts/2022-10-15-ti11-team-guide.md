@@ -82,9 +82,9 @@ DPC Changelog
 </span>
 </div>
 
-If you look back at the title of this article, you'll see I mentioned *20* teams. In an effort to make sure that visas/COVID/war restrictions didn't prohibit teams from reaching TI, a Last Chance Qualifier was implemented this year. 20 TEAM TI, BABY! TWO GROUPS OF 10. 4 TEAMS ELIMINATED AFTER GROUPS.
+If you look back at the title of this article, you'll see I mentioned *20* teams. In an effort to make sure that visas/COVID/war restrictions didn't prohibit teams from reaching TI, a Last Chance Qualifier was implemented this year. 20 TEAM TI, BABY! Two groups of 10! 4 teams eliminated after groups!
 
-No one reads these preambles anyway, so this is an abridged version of all the complications that occurred during the season. China had a whole bunch of difficulties competing internationally this year, as did EEU, but we'll get into that.
+This is just an abridged version of all the complications that occurred during the season, but no one reads these preambles anyway. China had a whole bunch of difficulties competing internationally this year, as did EEU, but we'll get into that.
 
 Also, looking back at that last Valve blog, I couldn't help but notice.
 
