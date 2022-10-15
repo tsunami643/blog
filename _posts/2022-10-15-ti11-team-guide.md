@@ -623,7 +623,7 @@ Anyway, long story short, Fnatic qualified to TI, Outsiders/VP didn't, and Liqui
 
 When the first major was unceremoniously canceled, [Quinn was one of the first players to vocalize his dissatisfaction.](https://esports.gg/news/dota-2/valve-cancels-major-quinn/) And rightfully so. This first tour that QC fought to get a top placement in would ultimately be a footnote in the grand scheme of DPC points. Additionally, it also removed the possibility of making more prize money at a major. Which, for an unsponsored team, is *pretty important*.
 
-The band-aid Regional Final was applied, but TSM was now turning NA Dota into a three-horse-race. QC fell just short in Tour 2 with NA only getting 2 slots per major, but bounced back for Tour 3.
+The band-aid Regional Final was applied, but TSM was now turning NA Dota into an even more competitive three-horse-race than last year. With NA only getting 2 slots per major, QC fell short in Tour 2, but bounced back in Tour 3.
 
 No idea what happened in Arlington, though, they got slaughtered. Which is weird because I just talked about how NA teams usually got a power-up after being signed. I hope for their sake the Soniqs buff is time delayed.
 
