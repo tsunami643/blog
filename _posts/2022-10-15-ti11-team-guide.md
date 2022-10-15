@@ -517,7 +517,7 @@ It's not my job to know RULES, man. That's Liquipedia's job. Except when Valve s
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** If you haven't watched Dota since TI10, you may look at this roster and think, "Oh they kicked iceiceice and got VP's carry to play offlane? That's weird." It is weird. But you know what's even weirder? Jerax being on this team at one point. You know what's even weirder than that? Jerax being on this team at one point and not playing his most famous role. That's right, ole' two-time TI winning 4 position Jer-Bear came out of retirement at the beginning of this season, shipped off to North America, and took... Fly's hard support spot.
+**How did this roster happen?** If you haven't watched Dota since TI10, you may look at this roster and think, "Oh they kicked iceiceice and got VP's carry to play offlane? That's weird." It is weird. But you know what's even weirder? Jerax being on this team at one point. You know what's even weirder than that? Jerax being on this team at one point and not playing his signature role. That's right, ole' two-time TI winning 4 position Jer-Bear came out of retirement at the beginning of this season, shipped off to North America, and took... Fly's hard support spot.
 
 **How was their DPC year?** 1052 points
 
