@@ -349,7 +349,7 @@ As long as they eliminate non-Chinese teams, they should be fine. But it'll be a
 * **SA DPC Tour 3** - 1st 🥇
 * **PGL Arlington Major** - 15-16th*
 
-Move over beastcoast, there's a new regional king in South America. In fact, out of the 21 series they played throughout 3 tours, Thunder only dropped *5* games. Stockholm is where the majority of English speaking Dota fans were exposed to the siknasty carry gameplay of Pakazs and energetic charisma of Pandaboo.
+Move over beastcoast, there's a new regional king in South America. In fact, out of the 21 series they played throughout 3 tours, Thunder only dropped *5* games. Stockholm is where the majority of English speaking Dota fans were exposed to the siknasty carry gameplay of Pakazs and the energetic charisma of Pandaboo.
 
 Unfortunately, DarkMago had visa issues getting to Arlington and the team subsequently bombed out in Texas.
 
