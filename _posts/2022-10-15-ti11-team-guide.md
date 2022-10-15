@@ -128,7 +128,7 @@ Better pray TI grand finals isn't the 30%.
 
 Due to heavy COVID lockdowns, Chinese Dota was hidden away for most of this season. Even getting back to China after TI10 in Romania was a massive project for a lot of teams, which led to their Tour 1 being delayed, so CN Doto remained in its own little bubble for most of the year.
 
-LGD only narrowly qualified to the Arlington Major after scraping through their Tour 3 tiebreaker, but came in to their second international LAN of the year with an axe to grind. *Second* LAN, because they had shown up to the non-DPC Riyadh Masters LAN a few weeks prior to Arlington and took that trophy after defeating Team Spirit.
+LGD only narrowly qualified to the Arlington Major after scraping through their Tour 3 tiebreaker, but came in to their second international LAN of the year with an axe to grind. *Second* LAN, because they had shown up to the non-DPC *Riyadh Masters* event a few weeks prior to Arlington and took that trophy after defeating Team Spirit.
 
 Guess who beat them in Arlington?
 
