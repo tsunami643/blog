@@ -497,7 +497,7 @@ Keen eyed viewers may take a look at this list and say, "HEY! How does a new sta
 
 It's not my job to know RULES, man. That's Liquipedia's job. Except when Valve says that it's _not_ Liquipedia's job. This'll make more sense once you scroll down to Fnatic.
 
-**What would success look like?** They've been off the grid for so long, we have no idea where they currently stand. Based off the trajectory of the their last DPC Tour... probably not good? But then again, WEU is the most represented region at this TI, so how bad is 6th place really?
+**What would success look like?** They've been off the grid for so long, we have no idea where they currently stand. Based off the trajectory from their last DPC Tour... probably not good? But then again, WEU is the most represented region at this TI, so how bad is 6th place really?
 
 **What to spam in Twitch chat when GG are winning?** `VEGAN POWER`
 
