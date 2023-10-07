@@ -534,7 +534,7 @@ After a disappointing Stockholm Major finish, Jerax left and the hatchet was bur
 
 **What would success look like?** ~~*I don't even know anymore. As brutal as it sounds, I think Arteezy fans would almost prefer him to become a full time streamer at this point. Given these LAN performances, they'd probably see more of him.*~~
 
-Since I'm releasing this article after day 1 group stage where EG just 2-0'd LGD, OG, and Soniqs, I'm now changing my answer. ANOTHER NA TI, BABY. THIS IS OUR YEAR. ONE BULBILLION DOLLAR PRIZE POOL. #BULBASWEEP.
+Since I'm releasing this article after day 1 group stage where EG just 2-0'd LGD, OG, and Soniqs, I'm now changing my answer. ANOTHER NA TI, BABY. THIS IS OUR YEAR. ONE BULBILLION DOLLAR PRIZE POOL *#BULBASWEEP*.
 
 **What to spam in Twitch chat when EG are winning?** Whatever you want, but under no circumstances are you allowed to praise Bulba. Doesn't matter if it's the world's greatest Storm Spirit game or if he masterminded a strategy that somehow forced the enemy team into only picking 4 heroes. The first rule and only rule of EG twitch/reddit discourse is: everything is Bulba's fault.
 
