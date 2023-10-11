@@ -1270,7 +1270,7 @@ And remind me again, who won TI last time it was in Seattle?
 
 ----
 
-# Time to shill, I earned it
+# Did you enjoy this article? Then time to shill
 
 Too bad the core demographic for these articles are usually people who don't have Dota 2 installed anymore, BUT JUST IN CASE YOU DO, consider buying my voiceline!
 
