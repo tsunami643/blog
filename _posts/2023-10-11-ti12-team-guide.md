@@ -36,6 +36,7 @@ I know what you're mainly here for.
     text-align: center;
     height: 48px;
   }
+  
 
   .roster {
     white-space: normal;
