@@ -321,7 +321,7 @@ Sure, Topson already played a few matches with the Tundra boys during September'
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Antares</td>
     <td><img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">Solo</td>
     <td>&nbsp;</td>
-    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="" title="Russia" alt="">???</td></tr>
+    <td><i style="font-size: smaller;">Coach</i>&nbsp;&nbsp;&nbsp;<img src="../../../img/assets/blank.gif" class="flag flag-ru" title="Russia" alt="Russia">DM</td></tr>
    </tbody>
 </table>
 <hr style="margin: 0.5em 0;">
