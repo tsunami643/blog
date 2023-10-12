@@ -1070,7 +1070,7 @@ What the hell was going on in 2015?
 </div>
 <br>
 
-Wait, *South America #1 Qualifier*? What do you mean *#1*? I mean that besides the two SA teams that already made it to TI on points, EG and beastcoast, two *more* slots were allocated to the region for TI qualifiers. Now bear in mind, Valve determined these extra slot allocations *before* the Bali Major happened. At that moment, SA was consistently doing pretty well given the fact that they only ever to send 2 teams to each major.
+Wait, *South America #1 Qualifier*? What do you mean *#1*? I mean that besides the two SA teams that already made it to TI on points, EG and beastcoast, two *more* slots were allocated to the region for TI qualifiers. Now bear in mind, Valve determined these extra slot allocations *before* the Bali Major happened. At that moment, SA was consistently doing pretty well given the fact that they only ever get to send 2 teams to each major.
 
 **What would success look like?** To refresh your memory: TI7 was the very first TI to feature a South American team (Infamous). TI8 had the mostly Brazilian paiN Gaming to represent the region. And ever since then, it's pretty much always been the Peru show on LAN. The last time a Brazilian team made it to a Valve Major was Costabile and KJ's SG esports at TI10 that got eliminated in groups.
 
