@@ -5,10 +5,10 @@ url: "http://howdoiplay.com"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: tsunami blog
+  title: tsunami's dota blog
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "tsunami643's blog" # used by search engines
+  description: "tsunami's dota blog" # used by search engines
 
   # Header and footer text
   header_text:
