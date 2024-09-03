@@ -696,7 +696,7 @@ Here's how I like to imagine their initial meeting went:
 
 <code>Who's next. Uhhh, who's the best Chinese offlaner of all time? Probably Faith_bian? He's retired? Damn. That's fine, JT- was an iG boy for ages, let's bring him back.</code>
 
-<code>How about best Chinese carry? Ame, right? He's retired too? Oh. No worries, Monet was very consistent on Aster, let's reach out. We need someone to balance JT-'s craziness anyway.</code>
+<code>How about best Chinese carry? Ame, right? He's retired too? Oh. No worries, Monet was super consistent on Aster, let's reach out. We need someone to balance JT-'s craziness anyway.</code>
 
 <code>Last one. Best Chinese 4. Gotta be fy. He's... you're joking. <i>It's fine,</i> it's fine. Who was that one 4 we used to have? <a href="https://www.youtube.com/watch?v=KhQio49YG-Q">The one with the funny name.</a> Yeah, whatever. 4 position Monkey King is still viable, right?</code>
 
