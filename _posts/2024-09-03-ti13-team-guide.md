@@ -966,7 +966,7 @@ K1 came from nouns, Scofield came from beastcoast, Analog and KJ came from Keyd 
 </div>
 <br>
 
-This team has been put through the grinder. Not only did they attend basically every single event this year, but they also had to qualify for nearly all of them. Gone are the days of the guaranteed SA slot to majors after a DPC league. So while the results don't look stellar, hopefully the gap between Elite League S2 ending and TI starting gifted them some much needed recharge time.
+This team has been put through the grinder. Not only did they attend basically every single event this year, but they also had to qualify for nearly all of them. Gone are the days of the guaranteed SA invitation to majors after a DPC league. So while the results don't look stellar, hopefully the gap between Elite League S2 ending and TI starting gifted them some much needed recharge time.
 
 **What would success look like?** MONGOLIAN THROAT SINGING IN THE ROYAL ARENA.
 
