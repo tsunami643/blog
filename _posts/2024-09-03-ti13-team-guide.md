@@ -140,7 +140,7 @@ Even beyond that, the core four are currently the [third most prolific quartet i
 </div>
 <br>
 
-After conquering Seattle last year, Spirit decided to take a little vacation and skip the first big tournament of the new season (ESL KL) in December. Since then, it's been all over the place. During Wallachia, Mira did confess that the team had been struggling with motivation this year, but the effort they put forth for that event paid off with a pretty exciting five game series against Xtreme.
+After conquering Seattle last year, Spirit decided to take a little vacation and skip the first big tournament of the new season (ESL KL) in December. Since then, it's been all over the place. During Wallachia, Mira did confess that the team had been struggling with motivation this year, but the effort they put forth for that event paid off with a pretty exciting five game series win over Xtreme.
 
 As the season comes to a close, they do seem to be Mode: Grind as they are the only directly invited TI team to compete in *two* tournaments post-Riyadh with Snow Ruyi and Fissure Universe.
 
