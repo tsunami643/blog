@@ -847,7 +847,7 @@ Don't ask me how this team got the first slot out of SEA quals, I couldn't tell 
 
 I swear I'm not trying to be dismissive of SEA. I love this region. I bleed for it. I boom for it. I execra-- actually nevermind. The point is, I legit just don't know what's going on with the teams in this region. The current prevailing theory is that [salaries are just bananas high](https://www.youtube.com/watch?v=f9IaNLJ-gNM) compared to cost of living in SEA and the players have no drive to *win* because they don't really have to.
 
-Is that the case with Aurora? Who can say. All I know is this team as Talon last year was the most hopium I'd ingested for the region in ages. A top 3 at Lima, a top 3 at Riyadh. Sure, Mikoto was a valuable piece of that roster, but lorenof is still pretty damn good too. And yet here we are capping out at top 8s.
+Is that the case with Aurora? Who can say. All I know is this team as Talon last year was the most hopium I'd ingested for the region in ages. A top 3 at Lima, a top 3 at Riyadh. Sure, Mikoto was a valuable piece of that roster, but lorenof is still pretty damn good too. And yet, here we are capping out at top 8s.
 
 **What would success look like?** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Insert SEA platitude here.
 
@@ -906,7 +906,9 @@ You know the drill around here. North America? That means we have two teams cons
 
 Nouns was out here playing the long con, though. "You can have those, Shopify" they say. "We'll just go to all the non-ESL events in the meanwhile." Quietly, they plot. Masterminding. Scheming. Nounsing. Come June, five game grand final for Riyadh quals? NOUNS.
 
-Then the coup DAO grâce. Grand final for TI quals? "YOU FOOLS!" they cackle, "YOU FELL RIGHT INTO OUR TRAP." Nouns at TI. 3-0. Cinema.
+Then the coup DAO grâce. Grand final for TI quals? "YOU FOOLS!" they cackle, "YOU FELL RIGHT INTO OUR TRAP."
+
+3-0. Nouns at TI. Cinema.
 
 And yes, this does mean that there is no Arteezy at this TI. His attendance streak from TI4 has finally been broken. Had he qualified, he'd have the most TI attendances of any player after Fly and Puppey.
 
