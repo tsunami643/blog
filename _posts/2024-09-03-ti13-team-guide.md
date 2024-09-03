@@ -1148,5 +1148,5 @@ A shocking number of people came up to me in Birmingham and expressed appreciati
 Thanks for reading and enjoy TI!
 
 <p style="font-size: 1.5em;margin-bottom:0px;text-align: center;font-weight:bold;">
-    <a href="https://www.reddit.com/r/DotA2/comments/175j2hx/the_international_2023_a_practical_guide_to_all/" target="_blank" class="button large">Discussion for this article on /r/dota2</a>
+    <a href="https://www.reddit.com/r/DotA2/comments/1f827z0/the_international_2024_a_practical_guide_to_all/" target="_blank" class="button large">Discussion for this article on /r/dota2</a>
 </p>
