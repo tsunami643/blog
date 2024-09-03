@@ -14,13 +14,13 @@ This has been a common sentiment from viewers this year and I don't really blame
 I was originally going to write a big pros/cons list on how the scene has been impacted by the DPC ending, but I procrastinated heavily on writing this article and I need to go to TI rehearsal soon, so here's a real quick version:
 
 ### Pros
-* **More LANs -** During the DPC, there were basically ~7 LANs any given calendar year. 3 Majors, 1 Riyadh, 1 TI, and maybe 2 other random ones peppered in the year. This *season*, we've already had ~8, but a bunch more are already lined up almost immediately after TI ends.
+* **More LANs -** During the DPC, there were roughly ~7 LANs any given calendar year. 3 Majors, 1 Riyadh, 1 TI, and maybe 2 other random ones peppered in the year. This *season*, we've already had ~8, but a bunch more are already lined up almost immediately after TI ends.
 * **More prize money for tier 1 teams -** If we ignore Riyadh and TI, this year actually had more prize money for the teams than in the DPC league era. Remember, Div 1 Leagues were $205k, Majors were $500k prize pools each. This year, nearly every tier 1 event was $1MM.
 * **More TOs -** The DPC put a strangehold on the calendar locking most TOs out of doing any events if they didn't get a league/major. Next year, we're set to have BetBoom, BLAST, ESL, and PGL fighting for your eyeballs [all year long.](https://twitter.com/xnick123/status/1790815683896365350)
 
 
 ### Cons
-* **Fewer crowd events -** It was basically just Birmingham and then smaller scale crowds like Riyadh, Elite League S2, and Snow Ruyi. Last year was Lima, Berlin, and Bali. I'm chalking that one up to organizers not really being given much time to book venues in 2024 so soon after the DPC ended. BLAST already [announced an event in Singapore](https://blast.tv/article/blast-cs-dota-singapore-announcement) for 2025, so progress is being made.
+* **Fewer crowd events -** It was pretty much just Birmingham and then smaller scale crowds like Riyadh, Elite League S2, and Snow Ruyi. Last year was Lima, Berlin, and Bali. I'm chalking that one up to organizers not really being given much time to book venues in 2024 so soon after the DPC ended. BLAST already [announced an event in Singapore](https://blast.tv/article/blast-cs-dota-singapore-announcement) for 2025, so progress is being made.
 * **Less prize money for tier 2 teams -** Tier 2 Dota is a chicken and the matchfixing egg situation. You put money into it, teams can't make it to tier 1, they start matchfixing to make the most out of their situation. You take money out of it, now it's not sustainable, teams start matchfixing to make a living.
 * **There's Dota going on? -** If you're super passionate about Dota esports, you know how to navigate Liquipedia like the trees around the bot lane Lotus Pool. If you're an "I'll watch Dota if it's on" type viewer, this year was a complete nightmare for you. What events matter? What stream are they on? When's Nigma playing? Mysteries beyond our comprehension.
 * **Who's going to TI? -** And how do they get there? This is what the DPC was originally created to solve. Now we're back to the guessing game. Six teams were directly invited and sixteen teams are coming to Copenhagen in total. Sixteen team TIs used to be the standard until TI7 bumped up to eighteen. What metrics were used to determine the number of invites and regional slot allocations? Vibes.
@@ -252,7 +252,7 @@ Last piece of the puzzle was Crit. After *seven years* of playing in North Ameri
 </div>
 <br>
 
-The EPT (ESL Pro Tour) circuit created a dedicated MENA region this year and Falcons, being a Saudi org, promptly stomped their way to the top. The competition in those qualifiers was basically limited to Quest and Nigma, so the community was left wondering, "Yeah, okay, but how good would this team be if they had to play WEU quals?"
+The EPT (ESL Pro Tour) circuit created a dedicated MENA region this year and Falcons, being a Saudi org, promptly stomped their way to the top. The competition in those qualifiers was essentially limited to Quest and Nigma, so the community was left wondering, "Yeah, okay, but how good would this team be if they had to play WEU quals?"
 
 Probably pretty good, it turns out. While their debut at ESL KL was nothing special, Aui joined the team as coach soon after and it's been a podium filled run ever since. Their lowest LAN placement was 3<sup>rd</sup>, and one of those was because Nine (Tundra reunion!) had to stand-in for Malrine.
 
