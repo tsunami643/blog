@@ -613,7 +613,7 @@ Despite allllllll that... not too shabby, right?
 
 They actually did qualify for Birmingham, but unsurprisingly, a bunch of young Russian kids with limited foreign travels didn't look like appealing visa candidates, so they had to pass. When they finally did get their LAN chance at Elite League, they made it count. Went to five games against Liquid.
 
-**What would success look like?** Whenever a stack of untested players make their debut at TI, "Who's gonna look good enough to get poached by a top tier team" is the question on most people's minds. But lately, EEU teams have really made a point to stick together even after TI ends. Whether that's for the best, it depends. Sometimes you're a BB Team, sometimes you're a VP.
+**What would success look like?** Any time a stack of untested players make their debut at TI, "Who's gonna look good enough to get poached by a top tier team" is the question on most people's minds. But lately, EEU teams have really made a point to stick together even after TI ends. Whether that's for the best, it depends. Sometimes you're a BB Team, sometimes you're a VP.
 
 <hr style="margin-bottom: 1.2em;">
 <p style="margin: 0.5em 0;"><img src="./../../../img/ti13teams/zero.jpg" alt="Banner"></p>
