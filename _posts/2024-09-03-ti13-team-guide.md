@@ -1141,9 +1141,9 @@ Now after that very selfless gesture, it's time to self-promote. GO INSTALL DOTA
 
 I also have a [**merch store**](https://shop.howdoiplay.com/) and infrequently updated presences on various platforms like [Twitch](https://twitch.tv/tsunami643), [Instagram](https://instagram.com/tsunami643), and [Twitter.](https://twitter.com/tsunami643)
 
-One last thought before I let you go. I've been doing these blogs for so long that I finally caught up to the TI color cycle. [Green TI for my first blog in 2018,](https://howdoiplay.com/blog/2018/07/18/ti8-team-guide.html) green TI for this blog in 2024. I actually skipped 2019 because it was the first TI I worked as talent and I figured, "I shouldn't waste time writing a blog when I should be preparing." Turns out, doing these blogs was the *best way* for me to prepare.
+One last thought before I let you go. I've been doing these guides for so long that I finally caught up to the TI color cycle. [Green TI for my first blog in 2018,](https://howdoiplay.com/blog/2018/07/18/ti8-team-guide.html) green TI for this blog in 2024. I actually skipped 2019 because it was the first TI I worked as talent and I figured, "I shouldn't waste time writing a blog when I should be preparing." Turns out, doing these blogs was the *best way* for me to prepare.
 
-A shocking number of people came up to me in Birmingham and expressed appreciation for these blogs, which really meant a lot. I came into the Dota scene as a writer doing my [hero tips](https://howdoiplay.com/) and I'm glad I've kept up with my roots walking the tightrope between comedy and information. The transition of me making these articles as a fan to stage hosting the event years later will never be lost on me.
+A shocking number of people came up to me in Birmingham and expressed appreciation for these blogs, which really meant a lot. I came into the Dota scene as a writer doing my [hero tips](https://howdoiplay.com/) and I'm glad I've been able to continue scratching that itch with these guides.
 
 Thanks for reading and enjoy TI!
 
