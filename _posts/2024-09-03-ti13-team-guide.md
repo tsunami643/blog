@@ -690,7 +690,7 @@ Jokes aside, the fact that they were the *first* team to qualify out of China's 
 
 Here's how I like to imagine their initial meeting went:
 
-<code>Gentlemen, we want to get into Dota. Western Europe seems like a real doozy, though, but it looks like there's a power vacuum in China. I say we form a strategic partnership with iG and put a superteam together in the region.</code>
+<code>Gentlemen, we want to get into Dota. Western Europe seems like a real doozy, though, but it looks like there's a power vacuum in China. I say we form a strategic partnership with iG and put together a superteam in the region.</code>
 
 <code>NothingToSay is off LGD after four years on the roster? Perfect, get him on the team. Speaking of LGD, who's the only other Malaysian they ever had? xNova? Why'd he return to SEA, what a disaster, let's bring him back to China.</code>
 
