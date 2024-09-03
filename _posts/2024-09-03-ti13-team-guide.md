@@ -392,7 +392,7 @@ So yes, fewer trophies, but their 1<sup>st</sup> place finish at Riyadh netted t
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** After their TI12 run, Pure was still the offlaner on this team until after KL when they traded him out for Miero.
+**How did this roster happen?** After their top 6 TI12 finish, Pure remained on the roster as their offlaner until after KL when they traded him out for Miero.
 
 **How was their season?**
 
