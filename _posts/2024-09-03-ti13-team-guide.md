@@ -910,7 +910,7 @@ Then the coup DAO grâce. Grand final for TI quals? "YOU FOOLS!" they cackle, "Y
 
 3-0. Nouns at TI. Cinema.
 
-And yes, this does mean that there is no Arteezy at this TI. His attendance streak from TI4 has finally been broken. Had he qualified, he'd have the most TI attendances of any player after Fly and Puppey.
+And yes, this does mean that there is no Arteezy at this TI. His attendance streak from TI4 has finally been broken. Had he qualified, he'd have the most TI appearances of any player after Fly and Puppey.
 
 **What would success look like?** Honestly, them getting top 8 last year *was* a success in my book. Their LAN results last year were equally as middling, so I could see it happening again.
 
