@@ -1029,7 +1029,7 @@ I say it every single year, but this year, I *really* mean it. Bless Liquipedia 
 
 These guys and gals are a bastion of integrity and diligence in the Dota scene. Without them, I shudder to imagine what writing an article like this would take. Hell, I don't even know how I would follow this esport in general *and it's literally my job!* If you consider yourself even marginally computer savvy and invested in Dota esports, do try to help them edit.
 
-Now after that very selfless gesture, it's time to self-promote. GO INSTALL DOTA AND BUY MY VOICELINES!
+Now after that very selfless gesture, it's time to self-promote. Stop playing Deadlock and go buy my voicelines.
 
 <style>
   .shill_wrapper {
