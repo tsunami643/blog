@@ -706,7 +706,7 @@ Here's how I like to imagine their initial meeting went:
 
 <code><font size="6">ARE YOU FUCKING KIDDING ME.</font></code>
 
-You'll notice I also wrote their manager on this roster list despite usually not doing that. Why? Take a shot every time someone mentions Jack "KBBQ" Chen on the EN broadcast whenever G2 x iG are playing. You'll be puking in the toilet before the draft even starts.
+You'll notice I also wrote their manager on this roster list despite usually not doing that. Why? Take a shot every time someone mentions Jack "KBBQ" Chen on the EN broadcast whenever G2 x iG are playing. You'll be puking in the toilet before the draft even begins.
 
 **How was their season?**
 
@@ -761,7 +761,7 @@ Legendary manager Jack Chen hois-- NO, STOP. I'M DOING IT AGAIN.
 </table>
 <hr style="margin: 0.5em 0;">
 
-**How did this roster happen?** Mikoto wanted to take a break after last TI, so the rest of old Talon went on to become Aurora. Mikoto's break lasted a whopping two months and he was actually on Bleed for most of the year with Jackky, Masaros, DJ, and poloson. Sounds like the kinda team that could do pretty good, right? Yep, just like all Bleed rosters. And like all Bleed rosters, they ended up sucking.
+**How did this roster happen?** Mikoto wanted to take a break after last TI, so the rest of old Talon went on to become Aurora. Mikoto's break lasted a whopping two months and he was actually on Bleed for most of the year with Jackky, Masaros, DJ, and poloson. Sounds like the kinda team that could do pretty good, right? Yep, just like all Bleed rosters. And just like all Bleed rosters, they ended up sucking.
 
 Meanwhile, Talon signed these other four players (Akashi, Ws, Jhocam, ponyo) from various middling SEA teams along with ChYuaN to play mid. Mikoto finally came back to Talon in June.
 
