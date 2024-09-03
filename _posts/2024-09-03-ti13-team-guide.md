@@ -706,7 +706,7 @@ Here's how I like to imagine their initial meeting went:
 
 <code><font size="6">ARE YOU FUCKING KIDDING ME.</font></code>
 
-You'll notice I also wrote their manager on this roster list despite usually not doing that. Why? Take a shot every time someone mentions Jack "KBBQ" Chen on the EN broadcast whenever G2 x iG are playing. You'll be puking in the toilet before the draft even begins.
+You'll notice I also wrote their manager on this roster list despite usually not doing that. Why? Take a shot every time someone mentions Jack "KBBQ" Chen on the EN broadcast whenever G2 x iG are playing. You'll be puking in the toilet before the draft even starts.
 
 **How was their season?**
 
