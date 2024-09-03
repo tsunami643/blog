@@ -529,7 +529,7 @@ Tobi was brought in as a benchwarmer before Pure, who was also keen on the capta
 
 Oh yeah and now 9class wasn't able to get a visa to Denmark, so Saksa's back.
 
-You get everything?
+You get all that?
 
 **How was their season?**
 
