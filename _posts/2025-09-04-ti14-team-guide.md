@@ -1446,7 +1446,29 @@ As always, if you found this article useful and wish to express appreciation in 
 
 Or buy my [**NEW MERCH**](https://shop.howdoiplay.com/).
 
-If you're not into exchanging money for goods and services, I'll also gladly accept any kind hellos for those of you who spot me in Hamburg!
+<div class="image-row">
+  <img src="./../../../img/ti14teams/hoodiefront.jpg" alt="Immune | Hoodie">
+  <img src="./../../../img/ti14teams/pants.jpg" alt="Shopkeeper | Joggers">
+  <img src="./../../../img/ti14teams/hat.jpg" alt="Six Slotted - Laning Phase | Hat">
+  <img src="./../../../img/ti14teams/basher.jpg" alt="Basher Invert | Tee">
+  <img src="./../../../img/ti14teams/hoodie.jpg" alt="Immune | Hoodie">
+</div>
+
+<style>
+  .image-row {
+  display: flex;
+  width: 100%;
+}
+
+.image-row img {
+  flex: 1;
+  max-width: 20%;
+  height: auto;
+  object-fit: cover;
+}
+  </style>
+<br>
+And if you're not into exchanging money for goods and services, I'll also gladly accept any kind hellos for those of you who spot me in Hamburg!
 
 <p style="font-size: 1.5em;margin-bottom:0px;text-align: center;font-weight:bold;">
     <a href="https://www.reddit.com/r/DotA2/comments/175j2hx/the_international_2023_a_practical_guide_to_all/" target="_blank" class="button large">Discussion for this article on /r/dota2</a>
