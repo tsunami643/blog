@@ -9,7 +9,7 @@ flags: true
 
 ### There's no time!
 
-I'm publishing this like 1 hour before TI starts. Gogogo, a quick recap of the year:
+I'm publishing this like 30 minutes before TI starts. Gogogo, quick recap of the year:
 
 * **Lots more competition** - Pretty much every team directly invited to TI won at least one event this season
 * **Lots more events** - Nearly twice as many as last year
@@ -1483,7 +1483,7 @@ As always, if you found this article useful and want to express appreciation in 
 }
   </style>
 <br>
-Alternatively, I'll also gladly accept any kind hellos for those of you who spot me in Hamburg!
+I'll also accept any warm greetings for those of you who spot me in Hamburg as thanks.
 
 <p style="font-size: 1.5em;margin-bottom:0px;text-align: center;font-weight:bold;">
     <a href="https://www.reddit.com/r/DotA2/comments/175j2hx/the_international_2023_a_practical_guide_to_all/" target="_blank" class="button large">Discussion for this article on /r/dota2</a>
