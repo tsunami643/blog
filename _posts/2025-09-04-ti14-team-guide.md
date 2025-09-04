@@ -9,7 +9,7 @@ flags: true
 
 ### There's no time!
 
-AHHHH I'm publishing this like 1 hour before TI starts. Gogogo, a quick recap of the year:
+I'm publishing this like 1 hour before TI starts. Gogogo, a quick recap of the year:
 
 * **Lots more competition** - Pretty much every team directly invited to TI won at least one event this season
 * **Lots more events** - Nearly twice as many as last year
@@ -1333,13 +1333,11 @@ Alas, all the results later in the season paled in comparison to that Wallachia 
 
 # All prepped for Hamburg!
 
-I procrastinated writing this blog more than usual, but I'm still technically publishing it before TI starts. Just... a few hours before.
-
 As always, if you found this article useful and wish to express appreciation in the form of monetary compensation, buy my voicelines.
 
 <style>
   .shill_wrapper {
-    background-image: url("https://howdoiplay.com/blog/img/ti12teams/mapsample.jpg");
+    background-image: url("./../../../img/ti14teams/eternitygate.jpg");
     background-repeat: no-repeat;
     min-height: 520px;
     max-width: 1031px;
@@ -1447,7 +1445,7 @@ As always, if you found this article useful and wish to express appreciation in 
 
 Or buy my [**NEW MERCH**](https://shop.howdoiplay.com/).
 
-I'll also accept any kind hellos for those of you who spot me in Hamburg!
+If you're not into exchanging money for goods and services, I'll also gladly accept any kind hellos for those of you who spot me in Hamburg!
 
 <p style="font-size: 1.5em;margin-bottom:0px;text-align: center;font-weight:bold;">
     <a href="https://www.reddit.com/r/DotA2/comments/175j2hx/the_international_2023_a_practical_guide_to_all/" target="_blank" class="button large">Discussion for this article on /r/dota2</a>
