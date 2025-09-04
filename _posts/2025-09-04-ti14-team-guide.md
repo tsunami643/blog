@@ -1339,6 +1339,7 @@ As always, if you found this article useful and wish to express appreciation in 
   .shill_wrapper {
     background-image: url("./../../../img/ti14teams/eternitygate.jpg");
     background-repeat: no-repeat;
+    background-position: center;
     min-height: 520px;
     max-width: 1031px;
     margin: auto;
