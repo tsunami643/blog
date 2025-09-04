@@ -1446,32 +1446,40 @@ As always, if you found this article useful and want to express appreciation in 
 
 <p style="font-size: 1.3em; text-align: center;">Or check out my <strong><a href="https://shop.howdoiplay.com/">NEW MERCH</a></strong></p>
 
-<a href="https://shop.howdoiplay.com/" class="image-link" target="_blank" rel="noopener noreferrer">
 <div class="image-row">
-<img src="./../../../img/ti14teams/hoodiefront.jpg" alt="Immune | Hoodie">
-<img src="./../../../img/ti14teams/pants.jpg" alt="Shopkeeper | Joggers">
-<img src="./../../../img/ti14teams/hat.jpg" alt="Six Slotted - Laning Phase | Hat">
-<img src="./../../../img/ti14teams/basher.jpg" alt="Basher Invert | Tee">
-<img src="./../../../img/ti14teams/hoodie.jpg" alt="Immune | Hoodie">
-</div></a>
+  <a href="https://shop.howdoiplay.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./../../../img/ti14teams/hoodiefront.jpg">
+  </a>
+  <a href="https://shop.howdoiplay.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./../../../img/ti14teams/pants.jpg">
+  </a>
+  <a href="https://shop.howdoiplay.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./../../../img/ti14teams/hat.jpg">
+  </a>
+  <a href="https://shop.howdoiplay.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./../../../img/ti14teams/basher.jpg">
+  </a>
+  <a href="https://shop.howdoiplay.com/" target="_blank" rel="noopener noreferrer">
+    <img src="./../../../img/ti14teams/hoodie.jpg">
+  </a>
+</div>
 
 <style>
-  .image-link {
-  display: block;
-  text-decoration: none;
-}
-
   .image-row {
   display: flex;
   width: 100%;
 }
 
-.image-row img {
+.image-row a {
   flex: 1;
   max-width: 20%;
+}
+
+.image-row img {
+  width: 100%;
   height: auto;
-  object-fit: cover;
   display: block;
+  object-fit: cover;
 }
   </style>
 <br>
