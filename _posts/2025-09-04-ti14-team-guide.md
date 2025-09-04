@@ -1333,7 +1333,7 @@ Alas, all the results later in the season paled in comparison to that Wallachia 
 
 # All prepped for Hamburg!
 
-As always, if you found this article useful and wish to express appreciation in the form of monetary compensation, buy my voicelines.
+As always, if you found this article useful and want to express appreciation in the form of monetary compensation, buy my voicelines.
 
 <style>
   .shill_wrapper {
@@ -1446,7 +1446,14 @@ As always, if you found this article useful and wish to express appreciation in 
 
 <p style="font-size: 1.3em; text-align: center;">Or check out my <strong><a href="https://shop.howdoiplay.com/">NEW MERCH</a></strong></p>
 
-<a href="https://shop.howdoiplay.com/" class="image-link" target="_blank" rel="noopener noreferrer"><div class="image-row"><img src="./../../../img/ti14teams/hoodiefront.jpg" alt="Immune | Hoodie"><img src="./../../../img/ti14teams/pants.jpg" alt="Shopkeeper | Joggers"><img src="./../../../img/ti14teams/hat.jpg" alt="Six Slotted - Laning Phase | Hat"><img src="./../../../img/ti14teams/basher.jpg" alt="Basher Invert | Tee"><img src="./../../../img/ti14teams/hoodie.jpg" alt="Immune | Hoodie"></div></a>
+<a href="https://shop.howdoiplay.com/" class="image-link" target="_blank" rel="noopener noreferrer">
+<div class="image-row">
+<img src="./../../../img/ti14teams/hoodiefront.jpg" alt="Immune | Hoodie">
+<img src="./../../../img/ti14teams/pants.jpg" alt="Shopkeeper | Joggers">
+<img src="./../../../img/ti14teams/hat.jpg" alt="Six Slotted - Laning Phase | Hat">
+<img src="./../../../img/ti14teams/basher.jpg" alt="Basher Invert | Tee">
+<img src="./../../../img/ti14teams/hoodie.jpg" alt="Immune | Hoodie">
+</div></a>
 
 <style>
   .image-link {
@@ -1468,7 +1475,7 @@ As always, if you found this article useful and wish to express appreciation in 
 }
   </style>
 <br>
-And if you're not into exchanging money for goods and services, I'll also gladly accept any kind hellos for those of you who spot me in Hamburg!
+Alternatively, I'll also gladly accept any kind hellos for those of you who spot me in Hamburg!
 
 <p style="font-size: 1.5em;margin-bottom:0px;text-align: center;font-weight:bold;">
     <a href="https://www.reddit.com/r/DotA2/comments/175j2hx/the_international_2023_a_practical_guide_to_all/" target="_blank" class="button large">Discussion for this article on /r/dota2</a>
