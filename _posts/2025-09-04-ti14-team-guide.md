@@ -3,7 +3,7 @@ layout: "post"
 title: "The International 2025: A Practical Guide to All 16 Teams"
 date: "2025-09-04 01:45"
 summary:    The bare minimum information you need to know before talking to a Dota player this September.
-feature-img: "img/ti13teams/ti13header.jpg"
+feature-img: "img/ti14teams/ti14header.jpg"
 flags: true
 ---
 
