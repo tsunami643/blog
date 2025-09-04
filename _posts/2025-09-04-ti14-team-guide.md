@@ -1444,9 +1444,7 @@ As always, if you found this article useful and wish to express appreciation in 
 </div>
 </div>
 
-### Or check out my [**NEW MERCH**](https://shop.howdoiplay.com/)
-
-Yeah
+<p style="font-size: 1.3em">Or check out my <strong><a href="https://shop.howdoiplay.com/">NEW MERCH</a></strong></p>
 
 <a href="https://shop.howdoiplay.com/" class="image-link" target="_blank" rel="noopener noreferrer">
 <div class="image-row">
@@ -1455,8 +1453,7 @@ Yeah
   <img src="./../../../img/ti14teams/hat.jpg" alt="Six Slotted - Laning Phase | Hat">
   <img src="./../../../img/ti14teams/basher.jpg" alt="Basher Invert | Tee">
   <img src="./../../../img/ti14teams/hoodie.jpg" alt="Immune | Hoodie">
-</div>
-</a>
+</div></a>
 
 <style>
   .image-link {
