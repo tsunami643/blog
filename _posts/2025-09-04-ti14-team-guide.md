@@ -1444,8 +1444,9 @@ As always, if you found this article useful and wish to express appreciation in 
 </div>
 </div>
 
-Or buy my [**NEW MERCH**](https://shop.howdoiplay.com/).
+### Or check out my [**NEW MERCH**](https://shop.howdoiplay.com/)
 
+<a href="https://shop.howdoiplay.com/" class="image-link" target="_blank" rel="noopener noreferrer">
 <div class="image-row">
   <img src="./../../../img/ti14teams/hoodiefront.jpg" alt="Immune | Hoodie">
   <img src="./../../../img/ti14teams/pants.jpg" alt="Shopkeeper | Joggers">
@@ -1453,8 +1454,14 @@ Or buy my [**NEW MERCH**](https://shop.howdoiplay.com/).
   <img src="./../../../img/ti14teams/basher.jpg" alt="Basher Invert | Tee">
   <img src="./../../../img/ti14teams/hoodie.jpg" alt="Immune | Hoodie">
 </div>
+</a>
 
 <style>
+  .image-link {
+  display: block;
+  text-decoration: none;
+}
+
   .image-row {
   display: flex;
   width: 100%;
@@ -1465,6 +1472,7 @@ Or buy my [**NEW MERCH**](https://shop.howdoiplay.com/).
   max-width: 20%;
   height: auto;
   object-fit: cover;
+  display: block;
 }
   </style>
 <br>
