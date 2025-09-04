@@ -1444,16 +1444,9 @@ As always, if you found this article useful and wish to express appreciation in 
 </div>
 </div>
 
-<p style="font-size: 1.3em">Or check out my <strong><a href="https://shop.howdoiplay.com/">NEW MERCH</a></strong></p>
+<p style="font-size: 1.3em; text-align: center;">Or check out my <strong><a href="https://shop.howdoiplay.com/">NEW MERCH</a></strong></p>
 
-<a href="https://shop.howdoiplay.com/" class="image-link" target="_blank" rel="noopener noreferrer">
-<div class="image-row">
-  <img src="./../../../img/ti14teams/hoodiefront.jpg" alt="Immune | Hoodie">
-  <img src="./../../../img/ti14teams/pants.jpg" alt="Shopkeeper | Joggers">
-  <img src="./../../../img/ti14teams/hat.jpg" alt="Six Slotted - Laning Phase | Hat">
-  <img src="./../../../img/ti14teams/basher.jpg" alt="Basher Invert | Tee">
-  <img src="./../../../img/ti14teams/hoodie.jpg" alt="Immune | Hoodie">
-</div></a>
+<a href="https://shop.howdoiplay.com/" class="image-link" target="_blank" rel="noopener noreferrer"><div class="image-row"><img src="./../../../img/ti14teams/hoodiefront.jpg" alt="Immune | Hoodie"><img src="./../../../img/ti14teams/pants.jpg" alt="Shopkeeper | Joggers"><img src="./../../../img/ti14teams/hat.jpg" alt="Six Slotted - Laning Phase | Hat"><img src="./../../../img/ti14teams/basher.jpg" alt="Basher Invert | Tee"><img src="./../../../img/ti14teams/hoodie.jpg" alt="Immune | Hoodie"></div></a>
 
 <style>
   .image-link {
