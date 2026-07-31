@@ -1,0 +1,768 @@
+# Generated from img/assets/flags.min.css.
+# Keys are the country names accepted by the roster-member include.
+
+"afghanistan":
+  code: "af"
+  name: "Afghanistan"
+"aland islands":
+  code: "ax"
+  name: "Åland Islands"
+"albania":
+  code: "al"
+  name: "Albania"
+"algeria":
+  code: "dz"
+  name: "Algeria"
+"american samoa":
+  code: "as"
+  name: "American Samoa"
+"andorra":
+  code: "ad"
+  name: "Andorra"
+"angola":
+  code: "ao"
+  name: "Angola"
+"anguilla":
+  code: "ai"
+  name: "Anguilla"
+"antigua and barbuda":
+  code: "ag"
+  name: "Antigua & Barbuda"
+"argentina":
+  code: "ar"
+  name: "Argentina"
+"armenia":
+  code: "am"
+  name: "Armenia"
+"aruba":
+  code: "aw"
+  name: "Aruba"
+"australia":
+  code: "au"
+  name: "Australia"
+"austria":
+  code: "at"
+  name: "Austria"
+"azerbaijan":
+  code: "az"
+  name: "Azerbaijan"
+"bahamas":
+  code: "bs"
+  name: "Bahamas"
+"bahrain":
+  code: "bh"
+  name: "Bahrain"
+"bangladesh":
+  code: "bd"
+  name: "Bangladesh"
+"barbados":
+  code: "bb"
+  name: "Barbados"
+"belarus":
+  code: "by"
+  name: "Belarus"
+"belgium":
+  code: "be"
+  name: "Belgium"
+"belize":
+  code: "bz"
+  name: "Belize"
+"benin":
+  code: "bj"
+  name: "Benin"
+"bermuda":
+  code: "bm"
+  name: "Bermuda"
+"bhutan":
+  code: "bt"
+  name: "Bhutan"
+"bolivia":
+  code: "bo"
+  name: "Bolivia"
+"bosnia and herzegovina":
+  code: "ba"
+  name: "Bosnia and Herzegovina"
+"botswana":
+  code: "bw"
+  name: "Botswana"
+"bouvet island":
+  code: "bv"
+  name: "Bouvet Island"
+"brazil":
+  code: "br"
+  name: "Brazil"
+"british indian ocean territory":
+  code: "io"
+  name: "British Indian Ocean Territory"
+"british virgin islands":
+  code: "vg"
+  name: "British Virgin Islands"
+"brunei":
+  code: "bn"
+  name: "Brunei"
+"bulgaria":
+  code: "bg"
+  name: "Bulgaria"
+"burkina faso":
+  code: "bf"
+  name: "Burkina Faso"
+"burundi":
+  code: "bi"
+  name: "Burundi"
+"cambodia":
+  code: "kh"
+  name: "Cambodia"
+"cameroon":
+  code: "cm"
+  name: "Cameroon"
+"canada":
+  code: "ca"
+  name: "Canada"
+"canary islands":
+  code: "ic"
+  name: "Canary Islands"
+"cape verde":
+  code: "cv"
+  name: "Cape Verde"
+"catalonia":
+  code: "catalonia"
+  name: "Catalonia"
+"cayman islands":
+  code: "ky"
+  name: "Cayman Islands"
+"central african republic":
+  code: "cf"
+  name: "Central African Republic"
+"chad":
+  code: "td"
+  name: "Chad"
+"chile":
+  code: "cl"
+  name: "Chile"
+"china":
+  code: "cn"
+  name: "China"
+"colombia":
+  code: "co"
+  name: "Colombia"
+"comoros":
+  code: "km"
+  name: "Comoros"
+"congo brazzaville":
+  code: "cg"
+  name: "Congo - Brazzaville"
+"congo kinshasa":
+  code: "cd"
+  name: "Congo - Kinshasa"
+"cook islands":
+  code: "ck"
+  name: "Cook Islands"
+"costa rica":
+  code: "cr"
+  name: "Costa Rica"
+"croatia":
+  code: "hr"
+  name: "Croatia"
+"cuba":
+  code: "cu"
+  name: "Cuba"
+"curacao":
+  code: "cw"
+  name: "Curaçao"
+"cyprus":
+  code: "cy"
+  name: "Cyprus"
+"czechia":
+  code: "cz"
+  name: "Czechia"
+"denmark":
+  code: "dk"
+  name: "Denmark"
+"djibouti":
+  code: "dj"
+  name: "Djibouti"
+"dominica":
+  code: "dm"
+  name: "Dominica"
+"dominican republic":
+  code: "do"
+  name: "Dominican Republic"
+"ecuador":
+  code: "ec"
+  name: "Ecuador"
+"egypt":
+  code: "eg"
+  name: "Egypt"
+"el salvador":
+  code: "sv"
+  name: "El Salvador"
+"england":
+  code: "england"
+  name: "England"
+"equatorial guinea":
+  code: "gq"
+  name: "Equatorial Guinea"
+"eritrea":
+  code: "er"
+  name: "Eritrea"
+"estonia":
+  code: "ee"
+  name: "Estonia"
+"eswatini":
+  code: "sz"
+  name: "Eswatini"
+"ethiopia":
+  code: "et"
+  name: "Ethiopia"
+"european union":
+  code: "eu"
+  name: "European Union"
+"falkland islands":
+  code: "fk"
+  name: "Falkland Islands"
+"faroe islands":
+  code: "fo"
+  name: "Faroe Islands"
+"fiji":
+  code: "fj"
+  name: "Fiji"
+"finland":
+  code: "fi"
+  name: "Finland"
+"france":
+  code: "fr"
+  name: "France"
+"french guiana":
+  code: "gf"
+  name: "French Guiana"
+"french polynesia":
+  code: "pf"
+  name: "French Polynesia"
+"french southern territories":
+  code: "tf"
+  name: "French Southern Territories"
+"gabon":
+  code: "ga"
+  name: "Gabon"
+"gambia":
+  code: "gm"
+  name: "Gambia"
+"georgia":
+  code: "ge"
+  name: "Georgia"
+"germany":
+  code: "de"
+  name: "Germany"
+"ghana":
+  code: "gh"
+  name: "Ghana"
+"gibraltar":
+  code: "gi"
+  name: "Gibraltar"
+"greece":
+  code: "gr"
+  name: "Greece"
+"greenland":
+  code: "gl"
+  name: "Greenland"
+"grenada":
+  code: "gd"
+  name: "Grenada"
+"guadeloupe":
+  code: "gp"
+  name: "Guadeloupe"
+"guam":
+  code: "gu"
+  name: "Guam"
+"guatemala":
+  code: "gt"
+  name: "Guatemala"
+"guernsey":
+  code: "gg"
+  name: "Guernsey"
+"guinea":
+  code: "gn"
+  name: "Guinea"
+"guinea bissau":
+  code: "gw"
+  name: "Guinea-Bissau"
+"guyana":
+  code: "gy"
+  name: "Guyana"
+"haiti":
+  code: "ht"
+  name: "Haiti"
+"heard and mcdonald islands":
+  code: "hm"
+  name: "Heard & McDonald Islands"
+"honduras":
+  code: "hn"
+  name: "Honduras"
+"hong kong sar china":
+  code: "hk"
+  name: "Hong Kong SAR China"
+"hungary":
+  code: "hu"
+  name: "Hungary"
+"iceland":
+  code: "is"
+  name: "Iceland"
+"india":
+  code: "in"
+  name: "India"
+"indonesia":
+  code: "id"
+  name: "Indonesia"
+"iran":
+  code: "ir"
+  name: "Iran"
+"iraq":
+  code: "iq"
+  name: "Iraq"
+"ireland":
+  code: "ie"
+  name: "Ireland"
+"isle of man":
+  code: "im"
+  name: "Isle of Man"
+"israel":
+  code: "il"
+  name: "Israel"
+"italy":
+  code: "it"
+  name: "Italy"
+"ivory coast":
+  code: "ci"
+  name: "Côte d’Ivoire"
+"jamaica":
+  code: "jm"
+  name: "Jamaica"
+"japan":
+  code: "jp"
+  name: "Japan"
+"jersey":
+  code: "je"
+  name: "Jersey"
+"jordan":
+  code: "jo"
+  name: "Jordan"
+"kazakhstan":
+  code: "kz"
+  name: "Kazakhstan"
+"kenya":
+  code: "ke"
+  name: "Kenya"
+"kiribati":
+  code: "ki"
+  name: "Kiribati"
+"kosovo":
+  code: "xk"
+  name: "Kosovo"
+"kurdistan":
+  code: "kurdistan"
+  name: "Kurdistan"
+"kuwait":
+  code: "kw"
+  name: "Kuwait"
+"kyrgyzstan":
+  code: "kg"
+  name: "Kyrgyzstan"
+"laos":
+  code: "la"
+  name: "Laos"
+"latvia":
+  code: "lv"
+  name: "Latvia"
+"lebanon":
+  code: "lb"
+  name: "Lebanon"
+"lesotho":
+  code: "ls"
+  name: "Lesotho"
+"liberia":
+  code: "lr"
+  name: "Liberia"
+"libya":
+  code: "ly"
+  name: "Libya"
+"liechtenstein":
+  code: "li"
+  name: "Liechtenstein"
+"lithuania":
+  code: "lt"
+  name: "Lithuania"
+"luxembourg":
+  code: "lu"
+  name: "Luxembourg"
+"macao sar china":
+  code: "mo"
+  name: "Macao SAR China"
+"madagascar":
+  code: "mg"
+  name: "Madagascar"
+"malawi":
+  code: "mw"
+  name: "Malawi"
+"malaysia":
+  code: "my"
+  name: "Malaysia"
+"maldives":
+  code: "mv"
+  name: "Maldives"
+"mali":
+  code: "ml"
+  name: "Mali"
+"malta":
+  code: "mt"
+  name: "Malta"
+"marshall islands":
+  code: "mh"
+  name: "Marshall Islands"
+"martinique":
+  code: "mq"
+  name: "Martinique"
+"mauritania":
+  code: "mr"
+  name: "Mauritania"
+"mauritius":
+  code: "mu"
+  name: "Mauritius"
+"mayotte":
+  code: "yt"
+  name: "Mayotte"
+"mexico":
+  code: "mx"
+  name: "Mexico"
+"micronesia":
+  code: "fm"
+  name: "Micronesia"
+"moldova":
+  code: "md"
+  name: "Moldova"
+"monaco":
+  code: "mc"
+  name: "Monaco"
+"mongolia":
+  code: "mn"
+  name: "Mongolia"
+"montenegro":
+  code: "me"
+  name: "Montenegro"
+"montserrat":
+  code: "ms"
+  name: "Montserrat"
+"morocco":
+  code: "ma"
+  name: "Morocco"
+"mozambique":
+  code: "mz"
+  name: "Mozambique"
+"myanmar burma":
+  code: "mm"
+  name: "Myanmar (Burma)"
+"namibia":
+  code: "na"
+  name: "Namibia"
+"nauru":
+  code: "nr"
+  name: "Nauru"
+"nepal":
+  code: "np"
+  name: "Nepal"
+"netherlands":
+  code: "nl"
+  name: "Netherlands"
+"netherlands antilles":
+  code: "an"
+  name: "Netherlands Antilles"
+"new caledonia":
+  code: "nc"
+  name: "New Caledonia"
+"new zealand":
+  code: "nz"
+  name: "New Zealand"
+"nicaragua":
+  code: "ni"
+  name: "Nicaragua"
+"niger":
+  code: "ne"
+  name: "Niger"
+"nigeria":
+  code: "ng"
+  name: "Nigeria"
+"niue":
+  code: "nu"
+  name: "Niue"
+"norfolk island":
+  code: "nf"
+  name: "Norfolk Island"
+"north korea":
+  code: "kp"
+  name: "North Korea"
+"north macedonia":
+  code: "mk"
+  name: "North Macedonia"
+"northern mariana islands":
+  code: "mp"
+  name: "Northern Mariana Islands"
+"norway":
+  code: "no"
+  name: "Norway"
+"oman":
+  code: "om"
+  name: "Oman"
+"pakistan":
+  code: "pk"
+  name: "Pakistan"
+"palau":
+  code: "pw"
+  name: "Palau"
+"palestine":
+  code: "ps"
+  name: "Palestinian Territories"
+"panama":
+  code: "pa"
+  name: "Panama"
+"papua new guinea":
+  code: "pg"
+  name: "Papua New Guinea"
+"paraguay":
+  code: "py"
+  name: "Paraguay"
+"peru":
+  code: "pe"
+  name: "Peru"
+"philippines":
+  code: "ph"
+  name: "Philippines"
+"pitcairn islands":
+  code: "pn"
+  name: "Pitcairn Islands"
+"poland":
+  code: "pl"
+  name: "Poland"
+"portugal":
+  code: "pt"
+  name: "Portugal"
+"puerto rico":
+  code: "pr"
+  name: "Puerto Rico"
+"qatar":
+  code: "qa"
+  name: "Qatar"
+"reunion":
+  code: "re"
+  name: "Réunion"
+"romania":
+  code: "ro"
+  name: "Romania"
+"russia":
+  code: "ru"
+  name: "Russia"
+"rwanda":
+  code: "rw"
+  name: "Rwanda"
+"samoa":
+  code: "ws"
+  name: "Samoa"
+"san marino":
+  code: "sm"
+  name: "San Marino"
+"sao tome and principe":
+  code: "st"
+  name: "São Tomé & Príncipe"
+"saudi arabia":
+  code: "sa"
+  name: "Saudi Arabia"
+"scotland":
+  code: "scotland"
+  name: "Scotland"
+"senegal":
+  code: "sn"
+  name: "Senegal"
+"serbia":
+  code: "rs"
+  name: "Serbia"
+"seychelles":
+  code: "sc"
+  name: "Seychelles"
+"sierra leone":
+  code: "sl"
+  name: "Sierra Leone"
+"singapore":
+  code: "sg"
+  name: "Singapore"
+"sint maarten":
+  code: "sx"
+  name: "Sint Maarten"
+"slovakia":
+  code: "sk"
+  name: "Slovakia"
+"slovenia":
+  code: "si"
+  name: "Slovenia"
+"solomon islands":
+  code: "sb"
+  name: "Solomon Islands"
+"somalia":
+  code: "so"
+  name: "Somalia"
+"somaliland":
+  code: "somaliland"
+  name: "Somaliland"
+"south africa":
+  code: "za"
+  name: "South Africa"
+"south georgia and south sandwich islands":
+  code: "gs"
+  name: "South Georgia & South Sandwich Islands"
+"south korea":
+  code: "kr"
+  name: "South Korea"
+"south sudan":
+  code: "ss"
+  name: "South Sudan"
+"spain":
+  code: "es"
+  name: "Spain"
+"sri lanka":
+  code: "lk"
+  name: "Sri Lanka"
+"st helena":
+  code: "sh"
+  name: "St. Helena"
+"st kitts and nevis":
+  code: "kn"
+  name: "St. Kitts & Nevis"
+"st lucia":
+  code: "lc"
+  name: "St. Lucia"
+"st pierre and miquelon":
+  code: "pm"
+  name: "St. Pierre & Miquelon"
+"st vincent and grenadines":
+  code: "vc"
+  name: "St. Vincent & Grenadines"
+"sudan":
+  code: "sd"
+  name: "Sudan"
+"suriname":
+  code: "sr"
+  name: "Suriname"
+"svalbard and jan mayen":
+  code: "sj"
+  name: "Svalbard & Jan Mayen"
+"sweden":
+  code: "se"
+  name: "Sweden"
+"switzerland":
+  code: "ch"
+  name: "Switzerland"
+"syria":
+  code: "sy"
+  name: "Syria"
+"taiwan":
+  code: "tw"
+  name: "Taiwan"
+"tajikistan":
+  code: "tj"
+  name: "Tajikistan"
+"tanzania":
+  code: "tz"
+  name: "Tanzania"
+"thailand":
+  code: "th"
+  name: "Thailand"
+"tibet":
+  code: "tibet"
+  name: "Tibet"
+"timor leste":
+  code: "tl"
+  name: "Timor-Leste"
+"togo":
+  code: "tg"
+  name: "Togo"
+"tokelau":
+  code: "tk"
+  name: "Tokelau"
+"tonga":
+  code: "to"
+  name: "Tonga"
+"trinidad and tobago":
+  code: "tt"
+  name: "Trinidad & Tobago"
+"tunisia":
+  code: "tn"
+  name: "Tunisia"
+"turkiye":
+  code: "tr"
+  name: "Türkiye"
+"turkmenistan":
+  code: "tm"
+  name: "Turkmenistan"
+"turks and caicos islands":
+  code: "tc"
+  name: "Turks & Caicos Islands"
+"tuvalu":
+  code: "tv"
+  name: "Tuvalu"
+"uganda":
+  code: "ug"
+  name: "Uganda"
+"ukraine":
+  code: "ua"
+  name: "Ukraine"
+"united arab emirates":
+  code: "ae"
+  name: "United Arab Emirates"
+"united kingdom":
+  code: "gb"
+  name: "United Kingdom"
+"united states":
+  code: "us"
+  name: "United States"
+"united states minor outlying islands":
+  code: "um"
+  name: "U.S. Outlying Islands"
+"uruguay":
+  code: "uy"
+  name: "Uruguay"
+"us virgin islands":
+  code: "vi"
+  name: "U.S. Virgin Islands"
+"uzbekistan":
+  code: "uz"
+  name: "Uzbekistan"
+"vanuatu":
+  code: "vu"
+  name: "Vanuatu"
+"vatican city":
+  code: "va"
+  name: "Vatican City"
+"venezuela":
+  code: "ve"
+  name: "Venezuela"
+"vietnam":
+  code: "vn"
+  name: "Vietnam"
+"wales":
+  code: "wales"
+  name: "Wales"
+"wallis and futuna":
+  code: "wf"
+  name: "Wallis & Futuna"
+"western sahara":
+  code: "eh"
+  name: "Western Sahara"
+"yemen":
+  code: "ye"
+  name: "Yemen"
+"zambia":
+  code: "zm"
+  name: "Zambia"
+"zanzibar":
+  code: "zanzibar"
+  name: "Zanzibar"
+"zimbabwe":
+  code: "zw"
+  name: "Zimbabwe"

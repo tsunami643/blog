@@ -1,0 +1,145 @@
+// Shared structure and promotional footer for team-guide articles.
+.teamBanner {
+  margin: 0.5em 0;
+}
+
+.teamHeading {
+  margin: 0.25em 0;
+}
+
+.rosterDivider {
+  margin: 0.5em 0;
+}
+
+.teamDivider {
+  margin-bottom: 1.2em;
+}
+
+@font-face {
+  font-family: "Radiance-Bold";
+  src: url("https://chatwheel.howdoiplay.com/assets/fonts/radiance-bold.ttf");
+}
+
+.shill_wrapper {
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: auto auto 20px;
+  max-width: 1031px;
+  min-height: 520px;
+
+  .sticker_wrapper {
+    margin: 10px;
+    text-align: center;
+  }
+
+  .sticker {
+    animation: move 1.2s alternate infinite;
+    filter: drop-shadow(2px 4px 4px);
+    max-width: 100%;
+    width: 400px;
+  }
+
+  .voiceline_wrapper {
+    padding: 20px;
+  }
+
+  .voiceline {
+    display: flex;
+    font-family: "Radiance-Bold";
+    font-size: 28px;
+    letter-spacing: -0.7px;
+    margin: 0 20px 5px;
+
+    a:hover {
+      text-decoration: none;
+    }
+  }
+
+  .speaker {
+    animation: grow 0.5s alternate infinite;
+    display: inline-block;
+    height: 35px;
+    margin: 0 9px 0 0;
+    vertical-align: middle;
+    width: 35px;
+
+    img {
+      max-height: 35px;
+      max-width: 35px;
+    }
+  }
+
+  .name,
+  .colon,
+  .message {
+    bottom: -3px;
+    display: inline;
+    position: relative;
+  }
+
+  .name,
+  .colon {
+    color: #faeac9;
+    text-shadow: 2px 2px black, 1px 1px black, 2px 3px black;
+  }
+
+  .default,
+  .other {
+    background-image: -webkit-linear-gradient(#faeac9, #faeac9);
+  }
+
+  .message {
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(1px 1px black) drop-shadow(1px 2px black);
+  }
+}
+
+.merchLead {
+  font-size: 1.3em;
+  text-align: center;
+}
+
+.image-row {
+  display: flex;
+  width: 100%;
+
+  a {
+    flex: 1;
+    max-width: 20%;
+  }
+
+  img {
+    display: block;
+    height: auto;
+    object-fit: cover;
+    width: 100%;
+  }
+}
+
+.articleDiscussion {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+@keyframes move {
+  0% {
+    transform: rotate3d(0.5, -0.866, 0, 15deg) rotate(1deg);
+  }
+
+  100% {
+    transform: rotate3d(50, 20, 30, -8deg) rotate(0deg);
+  }
+}
+
+@keyframes grow {
+  from {
+    transform: scale(1);
+  }
+
+  to {
+    transform: scale(1.3);
+  }
+}

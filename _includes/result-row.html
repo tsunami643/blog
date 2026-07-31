@@ -1,0 +1,11 @@
+{%- assign result_class = "" -%}
+{%- if include.result == "1st" -%}
+  {%- assign result_class = "first" -%}
+{%- elsif include.result == "2nd" -%}
+  {%- assign result_class = "second" -%}
+{%- elsif include.result == "3rd" or include.result == "3-4th" -%}
+  {%- assign result_class = "third" -%}
+{%- elsif include.result == "4th" -%}
+  {%- assign result_class = "fourth" -%}
+{%- endif -%}
+<tr><td><i>{{ include.date }}</i></td><td{% if include.organizer %} class="{{ include.organizer }}"{% endif %}>{{ include.event }}</td><td{% if result_class != "" %} class="{{ result_class }}"{% endif %}>{% if include.result == "1st" %}<b>1st &#x1F947;</b>{% elsif include.result == "2nd" %}<b>2nd &#x1F948;</b>{% elsif include.result == "3rd" or include.result == "3-4th" %}<b>{{ include.result }} &#x1F949;</b>{% else %}{{ include.result }}{% endif %}</td></tr>

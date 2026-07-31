@@ -1,0 +1,3 @@
+{%- assign country_key = include.country | downcase -%}
+{%- assign country = site.data.countries[country_key] -%}
+<td>{% if include.role %}<i>{{ include.role }}</i>{% endif %}<img src="{{ '/img/assets/blank.gif' | relative_url }}" class="flag flag-{{ country.code }}" title="{{ country.name }}" alt="{{ country.name }}">{{ include.name }}</td>

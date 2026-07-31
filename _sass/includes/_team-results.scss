@@ -1,0 +1,147 @@
+// Reusable results tables for team-guide articles.
+.resultsContainer {
+  display: flex;
+  font-size: 19px;
+  justify-content: space-evenly;
+  margin-bottom: 1em;
+  text-align: center;
+
+  .resultsTable {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    display: inline-table;
+    margin: 0.25em 0;
+    overflow: hidden;
+    width: 425px;
+
+    tr {
+      display: revert;
+    }
+
+    td {
+      border: 0;
+      display: revert;
+      font-style: normal;
+      height: auto;
+      line-height: 1.25;
+      max-width: 175px;
+      padding: 0.35em 0.45em;
+      text-align: center;
+      vertical-align: middle;
+    }
+
+    th {
+      font-size: 0.85em;
+      letter-spacing: 0.025em;
+      line-height: 1.2;
+      padding: 0.45em;
+      text-align: center;
+      vertical-align: middle;
+    }
+
+    td:first-child:not(:only-child),
+    td:last-child:not(:first-child) {
+      white-space: nowrap;
+    }
+
+    th.date {
+      width: 23%;
+    }
+
+    th.event {
+      width: 54%;
+    }
+
+    th.result {
+      width: 23%;
+    }
+
+    .fissure {
+      background: #fd7f7f33;
+    }
+
+    .esl {
+      background: #f7ff7882;
+    }
+
+    .blast {
+      background: #cb71fd1c;
+    }
+
+    .pgl {
+      background: #adff8c33;
+    }
+
+    .first {
+      background: #ffd739;
+    }
+
+    .second {
+      background: #bebebe;
+    }
+
+    .third {
+      background: burlywood;
+    }
+
+    .fourth {
+      background: #f8996b;
+    }
+
+    .top6 {
+      background: #ffbfa0;
+    }
+
+    .top8 {
+      background: #f2dace;
+    }
+  }
+
+  @media screen and (max-width: 612px) {
+    display: block;
+    font-size: 16px;
+
+    .resultsTable {
+      margin: 0;
+      width: stretch;
+      width: -webkit-fill-available;
+      width: -moz-available;
+
+      td {
+        padding: 0.3em 0.25em;
+      }
+
+      th {
+        padding: 0.4em 0.25em;
+      }
+
+      th.date {
+        width: 22%;
+      }
+
+      th.event {
+        width: 56%;
+      }
+
+      th.result {
+        width: 22%;
+      }
+    }
+
+    .firstTable {
+      border-bottom: 0;
+      margin-bottom: -19px;
+    }
+
+    .secondTable {
+      border-top: 0;
+
+      thead {
+        visibility: collapse;
+      }
+
+      thead th {
+        border: 0;
+      }
+    }
+  }
+}
