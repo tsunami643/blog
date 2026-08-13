@@ -142,7 +142,7 @@ After BetBoom's top 4 TI finish last year, the only change was bringing in Kirit
 
 BoomBoys spent most of the season alternating between podium contender and group stage fodder. They seem to have stabilized things fairly well in the run-up to TI, though.
 
-I feel like I'm doing a disservice to you readers by not giving more, but this team is pretty much what you see on the tin. In the words of bkop doing the words of Gennaro Gattuso: "Sometimes maybe good, sometimes maybe shit."
+I feel like I'm doing a disservice to you readers by not giving more, but this team is pretty much what you see on the tin. In the words of Bkop doing the words of Gennaro Gattuso: "Sometimes maybe good, sometimes maybe shit."
 
 **What would success look like?** If they win, will we literally have to live with "BoomBoys" inscribed on the Aegis? Like forever? I think I'd legit rather just see the betting sponsor.
 
