@@ -871,7 +871,7 @@ These results may seem mid, but it was enough to bumble OG into just barely gett
 
 After Raven helped OG win the one-slot SEA TI qualifier, this full roster followed it up with a troubling 9-10th at SLAM VII and 17-20th at EWC. Yeesh.
 
-**What would success look like?** OG is probably the most fun dark horse to root for right now. Now I'm talking like vantablack levels of dark horse here, but who cares. Storied European org leaves for SEA roster and ends up David vs Goliath'ing their way through the bracket? The further they get, the funnier it is.
+**What would success look like?** OG is probably the most fun dark horse to root for right now. Now I'm talking like vantablack levels of dark horse here, but who cares. Storied European org leaves for SEA roster and ends up David vs Goliath'ing their way through the bracket? The further they go, the funnier it gets.
 
 <hr class="teamDivider">
 <p class="teamBanner"><img src="./../../../img/ti15teams/gamerlegion.jpg" alt="Banner"></p>
