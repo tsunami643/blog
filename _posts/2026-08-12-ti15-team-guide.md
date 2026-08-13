@@ -488,7 +488,7 @@ One can only hope the last part of this season was them saving strats for TI so 
 </table>
 <hr class="rosterDivider">
 
-**How did this roster happen?** Nearly every player on Spirit had taken breaks at some point over the past few years *except* Miposhka. But after Hamburg, he finally decided to call it semi-quits. panto replaced him at position 5 and coach Silent then moved inactive in January, leaving Spirit without either of the voices that had guided both of their TI wins.
+**How did this roster happen?** Nearly every player on Spirit had taken breaks at some point over the past few years *except* Miposhka. But after Hamburg, he finally decided to call it semi-quits. panto replaced him as position 5 and coach Silent went inactive in January, leaving Spirit without either of the voices that had guided both of their TI wins.
 
 In May, panto was benched, rue moved from 4 to 5, and not me, which is the name of a player, arrived. As in, arrived is not the name of a player, not me is the name of a player. Am I being clear?
 
@@ -523,7 +523,7 @@ Miposhka finally returned, but in the form of head coach right before the qualif
   </table>
 </div>
 
-Believe it or not, but this is actually the first season since the Yatoro+Collapse roster formed that Spirit has come into TI without a single event victory under their belt. Even their maiden TI in 2021 had some rando T2/T3 first places, but this season? Nada.
+Believe it or not, this is actually the first season since the Yatoro+Collapse roster formed that Spirit has come into TI without a single event victory under their belt. Even their maiden TI in 2021 had some rando T2/T3 first places, but this season? Nada.
 
 **What would success look like?** I mean it's Spirit, so you can never *really* count them out. But how many pieces of the Spirit of Theseus can you remove before it's no longer Spirit? Miposhka not captaining? Silent not coaching? Collapse not collapsing?
 
