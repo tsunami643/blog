@@ -1045,5 +1045,5 @@ If you read all the way up until this point of the article, then that means I se
 <br>
 Come on. You and I both know you ain't paying for shipping on the AliExpress Secret Shop.
 <p class="articleDiscussion">
-    <a href="https://www.reddit.com/r/DotA2/comments/1n83kxn/the_international_2025_a_practical_guide_to_all/" target="_blank" class="button large">Discussion for this article on /r/dota2</a>
+    <a href="https://www.reddit.com/r/DotA2/comments/1vmz5sq/the_international_2026_a_practical_guide_to_all/" target="_blank" class="button large">Discussion for this article on /r/dota2</a>
 </p>
