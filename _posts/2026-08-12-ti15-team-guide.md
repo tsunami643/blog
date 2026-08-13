@@ -208,7 +208,7 @@ To invoke an ancient olofmeister Counter-Strike copypasta:
   </div>
 </div>
 
-One day, Tundra Esports would make for a fascinating Netflix documentary on how not to run a sustainable esports organization.
+One day, Tundra Esports would make for a fascinating Netflix documentary on how *not* to run a sustainable esports organization.
 
 **How was their season?**
 
@@ -463,7 +463,7 @@ One surprise development was xiao8 officially leaving the team two weeks before 
 
 Their results table is alarmingly short on shiny things. Xtreme finished 4th at two DreamLeagues and 3rd in Birmingham, but those are their only top-four finishes all season. You may be wondering, "How did this team even get a direct invite?" To which I would respond, "Stop asking questions."
 
-One can only hope the last part of this season was them saving strats for TI so hard that they accidentally got 16th place at EWC. Masterful gambit, Ame.
+One can only hope the last part of this season was them saving strats for TI so hard that they accidentally got 13-16th place at EWC. Masterful gambit, Ame.
 
 **What would success look like?** It's a China TI, dude. Please bro, please. PLEASE.
 
